@@ -1,0 +1,57 @@
+/* 
+    Document   : style
+    Created on : Oct 9, 2015, 10:36:46 PM
+    Author     : BILL
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/*metro end */
+* {
+    margin: 0px;
+    padding: 0px;
+    
+}
+.fg-pink{
+    color: #fc0b2d;
+}
+root { 
+    display: block;
+}
+.place_center{
+    text-align: center;
+}
+body .container{
+    background-image: url(assets/img/back_img.png);
+}
+.fg-black, .bg-black, .bg-hover-black{
+    color: black;
+}
+.row .bg-gray, .fg-gray, .bg-hover-gray{
+    color: gray;
+}
+.padding20{
+    padding: 20px;
+}
+
+.fluid {
+    padding: 10px;
+}
+h2 .icon-cog {
+    
+}
+a{
+    color: whitesmoke;
+}
+hr{
+    color: gray;
+}
+.hero-unit p{
+    color: whitesmoke;
+}
+h4{
+    color: darkred;
+}
+.row-fluid .span3{
+    padding:20px; ;background-color: darkgray; height: auto;
+}

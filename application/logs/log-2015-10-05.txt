@@ -1,0 +1,766 @@
+INFO - 2015-10-05 00:36:46 --> Config Class Initialized
+INFO - 2015-10-05 00:36:46 --> Hooks Class Initialized
+DEBUG - 2015-10-05 00:36:46 --> UTF-8 Support Enabled
+INFO - 2015-10-05 00:36:46 --> Utf8 Class Initialized
+INFO - 2015-10-05 00:36:46 --> URI Class Initialized
+DEBUG - 2015-10-05 00:36:46 --> No URI present. Default controller set.
+INFO - 2015-10-05 00:36:46 --> Router Class Initialized
+INFO - 2015-10-05 00:36:46 --> Output Class Initialized
+INFO - 2015-10-05 00:36:46 --> Security Class Initialized
+DEBUG - 2015-10-05 00:36:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-05 00:36:46 --> Input Class Initialized
+INFO - 2015-10-05 00:36:46 --> Language Class Initialized
+INFO - 2015-10-05 00:36:46 --> Loader Class Initialized
+INFO - 2015-10-05 00:36:46 --> Helper loaded: url_helper
+INFO - 2015-10-05 00:36:46 --> Helper loaded: thumb_helper
+INFO - 2015-10-05 00:36:46 --> Database Driver Class Initialized
+INFO - 2015-10-05 00:36:46 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-05 00:36:46 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-05 00:36:46 --> Email Class Initialized
+INFO - 2015-10-05 00:36:46 --> Helper loaded: string_helper
+INFO - 2015-10-05 00:36:46 --> Helper loaded: email_helper
+INFO - 2015-10-05 00:36:46 --> Helper loaded: language_helper
+INFO - 2015-10-05 00:36:46 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-05 00:36:46 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-05 00:36:46 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-05 00:36:46 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-10-05 00:36:46 --> Database Driver Class Initialized
+INFO - 2015-10-05 00:36:46 --> Helper loaded: form_helper
+INFO - 2015-10-05 00:36:46 --> Form Validation Class Initialized
+INFO - 2015-10-05 00:36:46 --> Parser Class Initialized
+INFO - 2015-10-05 00:36:46 --> Controller Class Initialized
+INFO - 2015-10-05 00:36:46 --> Model Class Initialized
+INFO - 2015-10-05 00:36:46 --> Model Class Initialized
+INFO - 2015-10-05 00:36:46 --> Model Class Initialized
+INFO - 2015-10-05 00:36:46 --> Model Class Initialized
+INFO - 2015-10-05 00:36:46 --> Model Class Initialized
+DEBUG - 2015-10-05 00:36:46 --> Aauth class already loaded. Second attempt ignored.
+INFO - 2015-10-05 00:36:46 --> User Agent Class Initialized
+INFO - 2015-10-05 00:36:46 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-10-05 00:36:46 --> Pagination Class Initialized
+INFO - 2015-10-05 00:36:46 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-10-05 00:36:46 --> File loaded: /opt/lampp/htdocs/team/application/views/index.php
+INFO - 2015-10-05 00:36:46 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-10-05 00:36:46 --> Final output sent to browser
+DEBUG - 2015-10-05 00:36:46 --> Total execution time: 0.0709
+INFO - 2015-10-05 00:36:47 --> Config Class Initialized
+INFO - 2015-10-05 00:36:47 --> Hooks Class Initialized
+DEBUG - 2015-10-05 00:36:47 --> UTF-8 Support Enabled
+INFO - 2015-10-05 00:36:47 --> Utf8 Class Initialized
+INFO - 2015-10-05 00:36:47 --> URI Class Initialized
+INFO - 2015-10-05 00:36:47 --> Router Class Initialized
+INFO - 2015-10-05 00:36:47 --> Output Class Initialized
+INFO - 2015-10-05 00:36:47 --> Security Class Initialized
+DEBUG - 2015-10-05 00:36:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-05 00:36:47 --> Input Class Initialized
+INFO - 2015-10-05 00:36:47 --> Language Class Initialized
+INFO - 2015-10-05 00:36:47 --> Config Class Initialized
+INFO - 2015-10-05 00:36:47 --> Hooks Class Initialized
+DEBUG - 2015-10-05 00:36:47 --> UTF-8 Support Enabled
+INFO - 2015-10-05 00:36:47 --> Utf8 Class Initialized
+INFO - 2015-10-05 00:36:47 --> URI Class Initialized
+INFO - 2015-10-05 00:36:47 --> Router Class Initialized
+INFO - 2015-10-05 00:36:47 --> Output Class Initialized
+INFO - 2015-10-05 00:36:47 --> Config Class Initialized
+INFO - 2015-10-05 00:36:47 --> Hooks Class Initialized
+INFO - 2015-10-05 00:36:47 --> Security Class Initialized
+DEBUG - 2015-10-05 00:36:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-05 00:36:47 --> Input Class Initialized
+INFO - 2015-10-05 00:36:47 --> Language Class Initialized
+DEBUG - 2015-10-05 00:36:47 --> UTF-8 Support Enabled
+INFO - 2015-10-05 00:36:47 --> Utf8 Class Initialized
+INFO - 2015-10-05 00:36:47 --> URI Class Initialized
+INFO - 2015-10-05 00:36:47 --> Loader Class Initialized
+INFO - 2015-10-05 00:36:47 --> Helper loaded: url_helper
+INFO - 2015-10-05 00:36:47 --> Helper loaded: thumb_helper
+INFO - 2015-10-05 00:36:47 --> Router Class Initialized
+INFO - 2015-10-05 00:36:47 --> Output Class Initialized
+INFO - 2015-10-05 00:36:47 --> Security Class Initialized
+DEBUG - 2015-10-05 00:36:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-05 00:36:47 --> Input Class Initialized
+INFO - 2015-10-05 00:36:47 --> Language Class Initialized
+INFO - 2015-10-05 00:36:47 --> Loader Class Initialized
+INFO - 2015-10-05 00:36:47 --> Helper loaded: url_helper
+INFO - 2015-10-05 00:36:47 --> Helper loaded: thumb_helper
+INFO - 2015-10-05 00:36:47 --> Database Driver Class Initialized
+INFO - 2015-10-05 00:36:47 --> Session: Class initialized using 'files' driver.
+INFO - 2015-10-05 00:36:47 --> Loader Class Initialized
+INFO - 2015-10-05 00:36:47 --> Helper loaded: url_helper
+INFO - 2015-10-05 00:36:47 --> Helper loaded: thumb_helper
+INFO - 2015-10-05 00:36:47 --> Database Driver Class Initialized
+DEBUG - 2015-10-05 00:36:47 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-05 00:36:47 --> Database Driver Class Initialized
+INFO - 2015-10-05 00:36:47 --> Email Class Initialized
+INFO - 2015-10-05 00:36:47 --> Helper loaded: string_helper
+INFO - 2015-10-05 00:36:47 --> Helper loaded: email_helper
+INFO - 2015-10-05 00:36:47 --> Helper loaded: language_helper
+INFO - 2015-10-05 00:36:47 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-05 00:36:47 --> Config Class Initialized
+INFO - 2015-10-05 00:36:47 --> Hooks Class Initialized
+DEBUG - 2015-10-05 00:36:47 --> UTF-8 Support Enabled
+INFO - 2015-10-05 00:36:47 --> Utf8 Class Initialized
+INFO - 2015-10-05 00:36:47 --> URI Class Initialized
+INFO - 2015-10-05 00:36:47 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-05 00:36:47 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-05 00:36:47 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-10-05 00:36:47 --> Database Driver Class Initialized
+INFO - 2015-10-05 00:36:47 --> Router Class Initialized
+INFO - 2015-10-05 00:36:47 --> Output Class Initialized
+INFO - 2015-10-05 00:36:47 --> Security Class Initialized
+INFO - 2015-10-05 00:36:47 --> Helper loaded: form_helper
+INFO - 2015-10-05 00:36:47 --> Form Validation Class Initialized
+INFO - 2015-10-05 00:36:47 --> Parser Class Initialized
+INFO - 2015-10-05 00:36:47 --> Controller Class Initialized
+INFO - 2015-10-05 00:36:47 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+DEBUG - 2015-10-05 00:36:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-05 00:36:47 --> Input Class Initialized
+INFO - 2015-10-05 00:36:47 --> Language Class Initialized
+INFO - 2015-10-05 00:36:47 --> Loader Class Initialized
+INFO - 2015-10-05 00:36:47 --> Helper loaded: url_helper
+INFO - 2015-10-05 00:36:47 --> Helper loaded: thumb_helper
+INFO - 2015-10-05 00:36:47 --> Database Driver Class Initialized
+INFO - 2015-10-05 00:36:47 --> File loaded: /opt/lampp/htdocs/team/application/views/errors/html/custom.php
+ERROR - 2015-10-05 00:36:47 --> Severity: Notice --> Undefined variable: gender /opt/lampp/htdocs/team/application/views/layout/footer.php 158
+ERROR - 2015-10-05 00:36:47 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/team/application/views/layout/footer.php 158
+ERROR - 2015-10-05 00:36:47 --> Severity: Notice --> Undefined variable: state /opt/lampp/htdocs/team/application/views/layout/footer.php 166
+ERROR - 2015-10-05 00:36:47 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/team/application/views/layout/footer.php 166
+INFO - 2015-10-05 00:36:47 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-10-05 00:36:47 --> Final output sent to browser
+DEBUG - 2015-10-05 00:36:47 --> Total execution time: 0.1433
+INFO - 2015-10-05 00:36:47 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-05 00:36:47 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-05 00:36:47 --> Email Class Initialized
+INFO - 2015-10-05 00:36:47 --> Helper loaded: string_helper
+INFO - 2015-10-05 00:36:47 --> Helper loaded: email_helper
+INFO - 2015-10-05 00:36:47 --> Helper loaded: language_helper
+INFO - 2015-10-05 00:36:47 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-05 00:36:47 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-05 00:36:47 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-05 00:36:47 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-10-05 00:36:47 --> Database Driver Class Initialized
+INFO - 2015-10-05 00:36:47 --> Helper loaded: form_helper
+INFO - 2015-10-05 00:36:47 --> Form Validation Class Initialized
+INFO - 2015-10-05 00:36:47 --> Parser Class Initialized
+INFO - 2015-10-05 00:36:47 --> Controller Class Initialized
+INFO - 2015-10-05 00:36:47 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-10-05 00:36:47 --> File loaded: /opt/lampp/htdocs/team/application/views/errors/html/custom.php
+ERROR - 2015-10-05 00:36:47 --> Severity: Notice --> Undefined variable: gender /opt/lampp/htdocs/team/application/views/layout/footer.php 158
+ERROR - 2015-10-05 00:36:47 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/team/application/views/layout/footer.php 158
+ERROR - 2015-10-05 00:36:47 --> Severity: Notice --> Undefined variable: state /opt/lampp/htdocs/team/application/views/layout/footer.php 166
+ERROR - 2015-10-05 00:36:47 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/team/application/views/layout/footer.php 166
+INFO - 2015-10-05 00:36:47 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-10-05 00:36:47 --> Final output sent to browser
+DEBUG - 2015-10-05 00:36:47 --> Total execution time: 0.1367
+INFO - 2015-10-05 00:36:47 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-05 00:36:47 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-05 00:36:47 --> Email Class Initialized
+INFO - 2015-10-05 00:36:47 --> Helper loaded: string_helper
+INFO - 2015-10-05 00:36:47 --> Helper loaded: email_helper
+INFO - 2015-10-05 00:36:47 --> Helper loaded: language_helper
+INFO - 2015-10-05 00:36:47 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-05 00:36:47 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-05 00:36:47 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-05 00:36:47 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-10-05 00:36:47 --> Database Driver Class Initialized
+INFO - 2015-10-05 00:36:47 --> Helper loaded: form_helper
+INFO - 2015-10-05 00:36:47 --> Form Validation Class Initialized
+INFO - 2015-10-05 00:36:47 --> Parser Class Initialized
+INFO - 2015-10-05 00:36:47 --> Controller Class Initialized
+INFO - 2015-10-05 00:36:47 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-10-05 00:36:47 --> File loaded: /opt/lampp/htdocs/team/application/views/errors/html/custom.php
+ERROR - 2015-10-05 00:36:47 --> Severity: Notice --> Undefined variable: gender /opt/lampp/htdocs/team/application/views/layout/footer.php 158
+ERROR - 2015-10-05 00:36:47 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/team/application/views/layout/footer.php 158
+ERROR - 2015-10-05 00:36:47 --> Severity: Notice --> Undefined variable: state /opt/lampp/htdocs/team/application/views/layout/footer.php 166
+ERROR - 2015-10-05 00:36:47 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/team/application/views/layout/footer.php 166
+INFO - 2015-10-05 00:36:47 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-10-05 00:36:47 --> Final output sent to browser
+DEBUG - 2015-10-05 00:36:47 --> Total execution time: 0.1485
+INFO - 2015-10-05 00:36:47 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-05 00:36:47 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-05 00:36:47 --> Email Class Initialized
+INFO - 2015-10-05 00:36:47 --> Helper loaded: string_helper
+INFO - 2015-10-05 00:36:47 --> Helper loaded: email_helper
+INFO - 2015-10-05 00:36:47 --> Helper loaded: language_helper
+INFO - 2015-10-05 00:36:47 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-05 00:36:47 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-05 00:36:47 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-05 00:36:47 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-10-05 00:36:47 --> Database Driver Class Initialized
+INFO - 2015-10-05 00:36:47 --> Helper loaded: form_helper
+INFO - 2015-10-05 00:36:47 --> Form Validation Class Initialized
+INFO - 2015-10-05 00:36:47 --> Parser Class Initialized
+INFO - 2015-10-05 00:36:47 --> Controller Class Initialized
+INFO - 2015-10-05 00:36:47 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-10-05 00:36:47 --> File loaded: /opt/lampp/htdocs/team/application/views/errors/html/custom.php
+ERROR - 2015-10-05 00:36:47 --> Severity: Notice --> Undefined variable: gender /opt/lampp/htdocs/team/application/views/layout/footer.php 158
+ERROR - 2015-10-05 00:36:47 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/team/application/views/layout/footer.php 158
+ERROR - 2015-10-05 00:36:47 --> Severity: Notice --> Undefined variable: state /opt/lampp/htdocs/team/application/views/layout/footer.php 166
+ERROR - 2015-10-05 00:36:47 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/team/application/views/layout/footer.php 166
+INFO - 2015-10-05 00:36:47 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-10-05 00:36:47 --> Final output sent to browser
+DEBUG - 2015-10-05 00:36:47 --> Total execution time: 0.1367
+INFO - 2015-10-05 00:36:47 --> Config Class Initialized
+INFO - 2015-10-05 00:36:47 --> Hooks Class Initialized
+DEBUG - 2015-10-05 00:36:47 --> UTF-8 Support Enabled
+INFO - 2015-10-05 00:36:47 --> Utf8 Class Initialized
+INFO - 2015-10-05 00:36:47 --> URI Class Initialized
+INFO - 2015-10-05 00:36:47 --> Router Class Initialized
+INFO - 2015-10-05 00:36:47 --> Output Class Initialized
+INFO - 2015-10-05 00:36:47 --> Security Class Initialized
+DEBUG - 2015-10-05 00:36:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-05 00:36:47 --> Input Class Initialized
+INFO - 2015-10-05 00:36:47 --> Language Class Initialized
+INFO - 2015-10-05 00:36:47 --> Loader Class Initialized
+INFO - 2015-10-05 00:36:47 --> Helper loaded: url_helper
+INFO - 2015-10-05 00:36:47 --> Helper loaded: thumb_helper
+INFO - 2015-10-05 00:36:47 --> Database Driver Class Initialized
+INFO - 2015-10-05 00:36:47 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-05 00:36:47 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-05 00:36:47 --> Email Class Initialized
+INFO - 2015-10-05 00:36:47 --> Helper loaded: string_helper
+INFO - 2015-10-05 00:36:47 --> Helper loaded: email_helper
+INFO - 2015-10-05 00:36:47 --> Helper loaded: language_helper
+INFO - 2015-10-05 00:36:47 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-05 00:36:47 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-05 00:36:47 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-05 00:36:47 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-10-05 00:36:47 --> Database Driver Class Initialized
+INFO - 2015-10-05 00:36:47 --> Helper loaded: form_helper
+INFO - 2015-10-05 00:36:47 --> Form Validation Class Initialized
+INFO - 2015-10-05 00:36:47 --> Parser Class Initialized
+INFO - 2015-10-05 00:36:47 --> Controller Class Initialized
+INFO - 2015-10-05 00:36:47 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-10-05 00:36:47 --> File loaded: /opt/lampp/htdocs/team/application/views/errors/html/custom.php
+ERROR - 2015-10-05 00:36:47 --> Severity: Notice --> Undefined variable: gender /opt/lampp/htdocs/team/application/views/layout/footer.php 158
+ERROR - 2015-10-05 00:36:47 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/team/application/views/layout/footer.php 158
+ERROR - 2015-10-05 00:36:47 --> Severity: Notice --> Undefined variable: state /opt/lampp/htdocs/team/application/views/layout/footer.php 166
+ERROR - 2015-10-05 00:36:47 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/team/application/views/layout/footer.php 166
+INFO - 2015-10-05 00:36:47 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-10-05 00:36:47 --> Final output sent to browser
+DEBUG - 2015-10-05 00:36:47 --> Total execution time: 0.0398
+INFO - 2015-10-05 07:46:15 --> Config Class Initialized
+INFO - 2015-10-05 07:46:15 --> Hooks Class Initialized
+DEBUG - 2015-10-05 07:46:15 --> UTF-8 Support Enabled
+INFO - 2015-10-05 07:46:15 --> Utf8 Class Initialized
+INFO - 2015-10-05 07:46:15 --> URI Class Initialized
+DEBUG - 2015-10-05 07:46:15 --> No URI present. Default controller set.
+INFO - 2015-10-05 07:46:15 --> Router Class Initialized
+INFO - 2015-10-05 07:46:15 --> Output Class Initialized
+INFO - 2015-10-05 07:46:15 --> Security Class Initialized
+DEBUG - 2015-10-05 07:46:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-05 07:46:15 --> Input Class Initialized
+INFO - 2015-10-05 07:46:15 --> Language Class Initialized
+INFO - 2015-10-05 07:46:15 --> Loader Class Initialized
+INFO - 2015-10-05 07:46:15 --> Helper loaded: url_helper
+INFO - 2015-10-05 07:46:15 --> Helper loaded: thumb_helper
+INFO - 2015-10-05 07:46:16 --> Database Driver Class Initialized
+INFO - 2015-10-05 07:46:17 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-05 07:46:18 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-05 07:46:18 --> Email Class Initialized
+INFO - 2015-10-05 07:46:18 --> Helper loaded: string_helper
+INFO - 2015-10-05 07:46:18 --> Helper loaded: email_helper
+INFO - 2015-10-05 07:46:18 --> Helper loaded: language_helper
+INFO - 2015-10-05 07:46:18 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-05 07:46:18 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-05 07:46:18 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-05 07:46:18 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-10-05 07:46:18 --> Database Driver Class Initialized
+INFO - 2015-10-05 07:46:18 --> Helper loaded: form_helper
+INFO - 2015-10-05 07:46:18 --> Form Validation Class Initialized
+INFO - 2015-10-05 07:46:18 --> Parser Class Initialized
+INFO - 2015-10-05 07:46:18 --> Controller Class Initialized
+INFO - 2015-10-05 07:46:18 --> Model Class Initialized
+INFO - 2015-10-05 07:46:18 --> Model Class Initialized
+INFO - 2015-10-05 07:46:18 --> Model Class Initialized
+INFO - 2015-10-05 07:46:18 --> Model Class Initialized
+INFO - 2015-10-05 07:46:18 --> Model Class Initialized
+DEBUG - 2015-10-05 07:46:18 --> Aauth class already loaded. Second attempt ignored.
+INFO - 2015-10-05 07:46:18 --> User Agent Class Initialized
+INFO - 2015-10-05 07:46:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-10-05 07:46:19 --> Pagination Class Initialized
+INFO - 2015-10-05 07:46:19 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-10-05 07:46:19 --> File loaded: /opt/lampp/htdocs/team/application/views/index.php
+INFO - 2015-10-05 07:46:19 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-10-05 07:46:19 --> Final output sent to browser
+DEBUG - 2015-10-05 07:46:19 --> Total execution time: 4.8855
+ERROR - 2015-10-05 07:46:19 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/lampp/lib/php/extensions/no-debug-non-zts-20131226/php_pdo_mysql.dll' - /opt/lampp/lib/php/extensions/no-debug-non-zts-20131226/php_pdo_mysql.dll: cannot open shared object file: No such file or directory Unknown 0
+INFO - 2015-10-05 16:02:12 --> Config Class Initialized
+INFO - 2015-10-05 16:02:12 --> Hooks Class Initialized
+DEBUG - 2015-10-05 16:02:12 --> UTF-8 Support Enabled
+INFO - 2015-10-05 16:02:12 --> Utf8 Class Initialized
+INFO - 2015-10-05 16:02:12 --> URI Class Initialized
+DEBUG - 2015-10-05 16:02:12 --> No URI present. Default controller set.
+INFO - 2015-10-05 16:02:12 --> Router Class Initialized
+INFO - 2015-10-05 16:02:12 --> Output Class Initialized
+INFO - 2015-10-05 16:02:12 --> Security Class Initialized
+DEBUG - 2015-10-05 16:02:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-05 16:02:12 --> Input Class Initialized
+INFO - 2015-10-05 16:02:12 --> Language Class Initialized
+INFO - 2015-10-05 16:02:12 --> Loader Class Initialized
+INFO - 2015-10-05 16:02:12 --> Helper loaded: url_helper
+INFO - 2015-10-05 16:02:13 --> Helper loaded: thumb_helper
+INFO - 2015-10-05 16:02:13 --> Database Driver Class Initialized
+INFO - 2015-10-05 16:02:13 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-05 16:02:13 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-05 16:02:13 --> Email Class Initialized
+INFO - 2015-10-05 16:02:13 --> Helper loaded: string_helper
+INFO - 2015-10-05 16:02:13 --> Helper loaded: email_helper
+INFO - 2015-10-05 16:02:13 --> Helper loaded: language_helper
+INFO - 2015-10-05 16:02:13 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-05 16:02:13 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-05 16:02:13 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-05 16:02:13 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-10-05 16:02:13 --> Database Driver Class Initialized
+INFO - 2015-10-05 16:02:14 --> Helper loaded: form_helper
+INFO - 2015-10-05 16:02:14 --> Form Validation Class Initialized
+INFO - 2015-10-05 16:02:14 --> Parser Class Initialized
+INFO - 2015-10-05 16:02:14 --> Controller Class Initialized
+INFO - 2015-10-05 16:02:14 --> Model Class Initialized
+INFO - 2015-10-05 16:02:14 --> Model Class Initialized
+INFO - 2015-10-05 16:02:14 --> Model Class Initialized
+INFO - 2015-10-05 16:02:14 --> Model Class Initialized
+INFO - 2015-10-05 16:02:14 --> Model Class Initialized
+DEBUG - 2015-10-05 16:02:14 --> Aauth class already loaded. Second attempt ignored.
+INFO - 2015-10-05 16:02:14 --> User Agent Class Initialized
+INFO - 2015-10-05 16:02:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-10-05 16:02:15 --> Pagination Class Initialized
+INFO - 2015-10-05 16:02:15 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-10-05 16:02:15 --> File loaded: /opt/lampp/htdocs/team/application/views/index.php
+INFO - 2015-10-05 16:02:15 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-10-05 16:02:15 --> Final output sent to browser
+DEBUG - 2015-10-05 16:02:15 --> Total execution time: 3.7048
+INFO - 2015-10-05 16:02:17 --> Config Class Initialized
+INFO - 2015-10-05 16:02:17 --> Hooks Class Initialized
+DEBUG - 2015-10-05 16:02:17 --> UTF-8 Support Enabled
+INFO - 2015-10-05 16:02:17 --> Utf8 Class Initialized
+INFO - 2015-10-05 16:02:17 --> URI Class Initialized
+INFO - 2015-10-05 16:02:17 --> Router Class Initialized
+INFO - 2015-10-05 16:02:17 --> Output Class Initialized
+INFO - 2015-10-05 16:02:17 --> Security Class Initialized
+DEBUG - 2015-10-05 16:02:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-05 16:02:17 --> Input Class Initialized
+INFO - 2015-10-05 16:02:17 --> Language Class Initialized
+INFO - 2015-10-05 16:02:17 --> Config Class Initialized
+INFO - 2015-10-05 16:02:17 --> Hooks Class Initialized
+DEBUG - 2015-10-05 16:02:17 --> UTF-8 Support Enabled
+INFO - 2015-10-05 16:02:17 --> Utf8 Class Initialized
+INFO - 2015-10-05 16:02:17 --> URI Class Initialized
+INFO - 2015-10-05 16:02:17 --> Router Class Initialized
+INFO - 2015-10-05 16:02:17 --> Output Class Initialized
+INFO - 2015-10-05 16:02:17 --> Security Class Initialized
+DEBUG - 2015-10-05 16:02:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-05 16:02:17 --> Input Class Initialized
+INFO - 2015-10-05 16:02:17 --> Language Class Initialized
+INFO - 2015-10-05 16:02:17 --> Config Class Initialized
+INFO - 2015-10-05 16:02:17 --> Hooks Class Initialized
+DEBUG - 2015-10-05 16:02:17 --> UTF-8 Support Enabled
+INFO - 2015-10-05 16:02:17 --> Utf8 Class Initialized
+INFO - 2015-10-05 16:02:17 --> URI Class Initialized
+INFO - 2015-10-05 16:02:17 --> Router Class Initialized
+INFO - 2015-10-05 16:02:17 --> Output Class Initialized
+INFO - 2015-10-05 16:02:17 --> Security Class Initialized
+DEBUG - 2015-10-05 16:02:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-05 16:02:17 --> Input Class Initialized
+INFO - 2015-10-05 16:02:17 --> Language Class Initialized
+INFO - 2015-10-05 16:02:17 --> Config Class Initialized
+INFO - 2015-10-05 16:02:17 --> Hooks Class Initialized
+DEBUG - 2015-10-05 16:02:17 --> UTF-8 Support Enabled
+INFO - 2015-10-05 16:02:17 --> Utf8 Class Initialized
+INFO - 2015-10-05 16:02:17 --> URI Class Initialized
+INFO - 2015-10-05 16:02:17 --> Router Class Initialized
+INFO - 2015-10-05 16:02:17 --> Output Class Initialized
+INFO - 2015-10-05 16:02:17 --> Security Class Initialized
+DEBUG - 2015-10-05 16:02:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-05 16:02:17 --> Input Class Initialized
+INFO - 2015-10-05 16:02:17 --> Language Class Initialized
+INFO - 2015-10-05 16:02:17 --> Loader Class Initialized
+INFO - 2015-10-05 16:02:17 --> Loader Class Initialized
+INFO - 2015-10-05 16:02:17 --> Helper loaded: url_helper
+INFO - 2015-10-05 16:02:17 --> Loader Class Initialized
+INFO - 2015-10-05 16:02:17 --> Helper loaded: thumb_helper
+INFO - 2015-10-05 16:02:17 --> Helper loaded: url_helper
+INFO - 2015-10-05 16:02:17 --> Helper loaded: thumb_helper
+INFO - 2015-10-05 16:02:17 --> Loader Class Initialized
+INFO - 2015-10-05 16:02:17 --> Helper loaded: url_helper
+INFO - 2015-10-05 16:02:17 --> Helper loaded: thumb_helper
+INFO - 2015-10-05 16:02:17 --> Helper loaded: url_helper
+INFO - 2015-10-05 16:02:17 --> Helper loaded: thumb_helper
+INFO - 2015-10-05 16:02:17 --> Database Driver Class Initialized
+INFO - 2015-10-05 16:02:17 --> Database Driver Class Initialized
+INFO - 2015-10-05 16:02:17 --> Database Driver Class Initialized
+INFO - 2015-10-05 16:02:17 --> Session: Class initialized using 'files' driver.
+INFO - 2015-10-05 16:02:17 --> Database Driver Class Initialized
+DEBUG - 2015-10-05 16:02:17 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-05 16:02:17 --> Email Class Initialized
+INFO - 2015-10-05 16:02:17 --> Helper loaded: string_helper
+INFO - 2015-10-05 16:02:17 --> Helper loaded: email_helper
+INFO - 2015-10-05 16:02:17 --> Helper loaded: language_helper
+INFO - 2015-10-05 16:02:17 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-05 16:02:17 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-05 16:02:17 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-05 16:02:17 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-10-05 16:02:17 --> Database Driver Class Initialized
+INFO - 2015-10-05 16:02:17 --> Helper loaded: form_helper
+INFO - 2015-10-05 16:02:17 --> Form Validation Class Initialized
+INFO - 2015-10-05 16:02:17 --> Parser Class Initialized
+INFO - 2015-10-05 16:02:17 --> Controller Class Initialized
+INFO - 2015-10-05 16:02:17 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-10-05 16:02:17 --> File loaded: /opt/lampp/htdocs/team/application/views/errors/html/custom.php
+ERROR - 2015-10-05 16:02:17 --> Severity: Notice --> Undefined variable: gender /opt/lampp/htdocs/team/application/views/layout/footer.php 158
+ERROR - 2015-10-05 16:02:17 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/team/application/views/layout/footer.php 158
+ERROR - 2015-10-05 16:02:17 --> Severity: Notice --> Undefined variable: state /opt/lampp/htdocs/team/application/views/layout/footer.php 166
+ERROR - 2015-10-05 16:02:17 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/team/application/views/layout/footer.php 166
+INFO - 2015-10-05 16:02:17 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-10-05 16:02:17 --> Final output sent to browser
+DEBUG - 2015-10-05 16:02:17 --> Total execution time: 0.3624
+INFO - 2015-10-05 16:02:17 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-05 16:02:18 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-05 16:02:18 --> Email Class Initialized
+INFO - 2015-10-05 16:02:18 --> Helper loaded: string_helper
+INFO - 2015-10-05 16:02:18 --> Helper loaded: email_helper
+INFO - 2015-10-05 16:02:18 --> Helper loaded: language_helper
+INFO - 2015-10-05 16:02:18 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-05 16:02:18 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-05 16:02:18 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-05 16:02:18 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-10-05 16:02:18 --> Database Driver Class Initialized
+INFO - 2015-10-05 16:02:18 --> Helper loaded: form_helper
+INFO - 2015-10-05 16:02:18 --> Form Validation Class Initialized
+INFO - 2015-10-05 16:02:18 --> Parser Class Initialized
+INFO - 2015-10-05 16:02:18 --> Controller Class Initialized
+INFO - 2015-10-05 16:02:18 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-10-05 16:02:18 --> File loaded: /opt/lampp/htdocs/team/application/views/errors/html/custom.php
+ERROR - 2015-10-05 16:02:18 --> Severity: Notice --> Undefined variable: gender /opt/lampp/htdocs/team/application/views/layout/footer.php 158
+ERROR - 2015-10-05 16:02:18 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/team/application/views/layout/footer.php 158
+ERROR - 2015-10-05 16:02:18 --> Severity: Notice --> Undefined variable: state /opt/lampp/htdocs/team/application/views/layout/footer.php 166
+ERROR - 2015-10-05 16:02:18 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/team/application/views/layout/footer.php 166
+INFO - 2015-10-05 16:02:18 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-10-05 16:02:18 --> Final output sent to browser
+DEBUG - 2015-10-05 16:02:18 --> Total execution time: 0.4454
+INFO - 2015-10-05 16:02:18 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-05 16:02:18 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-05 16:02:18 --> Email Class Initialized
+INFO - 2015-10-05 16:02:18 --> Helper loaded: string_helper
+INFO - 2015-10-05 16:02:18 --> Helper loaded: email_helper
+INFO - 2015-10-05 16:02:18 --> Helper loaded: language_helper
+INFO - 2015-10-05 16:02:18 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-05 16:02:18 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-05 16:02:18 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-05 16:02:18 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-10-05 16:02:18 --> Database Driver Class Initialized
+INFO - 2015-10-05 16:02:18 --> Helper loaded: form_helper
+INFO - 2015-10-05 16:02:18 --> Form Validation Class Initialized
+INFO - 2015-10-05 16:02:18 --> Parser Class Initialized
+INFO - 2015-10-05 16:02:18 --> Controller Class Initialized
+INFO - 2015-10-05 16:02:18 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-10-05 16:02:18 --> File loaded: /opt/lampp/htdocs/team/application/views/errors/html/custom.php
+ERROR - 2015-10-05 16:02:18 --> Severity: Notice --> Undefined variable: gender /opt/lampp/htdocs/team/application/views/layout/footer.php 158
+ERROR - 2015-10-05 16:02:18 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/team/application/views/layout/footer.php 158
+ERROR - 2015-10-05 16:02:18 --> Severity: Notice --> Undefined variable: state /opt/lampp/htdocs/team/application/views/layout/footer.php 166
+ERROR - 2015-10-05 16:02:18 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/team/application/views/layout/footer.php 166
+INFO - 2015-10-05 16:02:18 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-10-05 16:02:18 --> Final output sent to browser
+DEBUG - 2015-10-05 16:02:18 --> Total execution time: 0.3024
+INFO - 2015-10-05 16:02:18 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-05 16:02:18 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-05 16:02:18 --> Email Class Initialized
+INFO - 2015-10-05 16:02:18 --> Helper loaded: string_helper
+INFO - 2015-10-05 16:02:18 --> Helper loaded: email_helper
+INFO - 2015-10-05 16:02:18 --> Helper loaded: language_helper
+INFO - 2015-10-05 16:02:18 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-05 16:02:18 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-05 16:02:18 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-05 16:02:18 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-10-05 16:02:18 --> Database Driver Class Initialized
+INFO - 2015-10-05 16:02:18 --> Helper loaded: form_helper
+INFO - 2015-10-05 16:02:18 --> Form Validation Class Initialized
+INFO - 2015-10-05 16:02:18 --> Parser Class Initialized
+INFO - 2015-10-05 16:02:18 --> Controller Class Initialized
+INFO - 2015-10-05 16:02:18 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-10-05 16:02:18 --> File loaded: /opt/lampp/htdocs/team/application/views/errors/html/custom.php
+ERROR - 2015-10-05 16:02:18 --> Severity: Notice --> Undefined variable: gender /opt/lampp/htdocs/team/application/views/layout/footer.php 158
+ERROR - 2015-10-05 16:02:18 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/team/application/views/layout/footer.php 158
+ERROR - 2015-10-05 16:02:18 --> Severity: Notice --> Undefined variable: state /opt/lampp/htdocs/team/application/views/layout/footer.php 166
+ERROR - 2015-10-05 16:02:18 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/team/application/views/layout/footer.php 166
+INFO - 2015-10-05 16:02:18 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-10-05 16:02:18 --> Final output sent to browser
+DEBUG - 2015-10-05 16:02:18 --> Total execution time: 0.4544
+INFO - 2015-10-05 16:02:18 --> Config Class Initialized
+INFO - 2015-10-05 16:02:18 --> Hooks Class Initialized
+DEBUG - 2015-10-05 16:02:18 --> UTF-8 Support Enabled
+INFO - 2015-10-05 16:02:18 --> Utf8 Class Initialized
+INFO - 2015-10-05 16:02:18 --> URI Class Initialized
+INFO - 2015-10-05 16:02:18 --> Router Class Initialized
+INFO - 2015-10-05 16:02:18 --> Output Class Initialized
+INFO - 2015-10-05 16:02:18 --> Security Class Initialized
+DEBUG - 2015-10-05 16:02:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-05 16:02:18 --> Input Class Initialized
+INFO - 2015-10-05 16:02:18 --> Language Class Initialized
+INFO - 2015-10-05 16:02:18 --> Loader Class Initialized
+INFO - 2015-10-05 16:02:18 --> Helper loaded: url_helper
+INFO - 2015-10-05 16:02:18 --> Helper loaded: thumb_helper
+INFO - 2015-10-05 16:02:18 --> Database Driver Class Initialized
+INFO - 2015-10-05 16:02:18 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-05 16:02:18 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-05 16:02:18 --> Email Class Initialized
+INFO - 2015-10-05 16:02:18 --> Helper loaded: string_helper
+INFO - 2015-10-05 16:02:18 --> Helper loaded: email_helper
+INFO - 2015-10-05 16:02:18 --> Helper loaded: language_helper
+INFO - 2015-10-05 16:02:18 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-05 16:02:18 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-05 16:02:18 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-05 16:02:18 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-10-05 16:02:18 --> Database Driver Class Initialized
+INFO - 2015-10-05 16:02:18 --> Helper loaded: form_helper
+INFO - 2015-10-05 16:02:18 --> Form Validation Class Initialized
+INFO - 2015-10-05 16:02:18 --> Parser Class Initialized
+INFO - 2015-10-05 16:02:18 --> Controller Class Initialized
+INFO - 2015-10-05 16:02:18 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-10-05 16:02:18 --> File loaded: /opt/lampp/htdocs/team/application/views/errors/html/custom.php
+ERROR - 2015-10-05 16:02:18 --> Severity: Notice --> Undefined variable: gender /opt/lampp/htdocs/team/application/views/layout/footer.php 158
+ERROR - 2015-10-05 16:02:18 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/team/application/views/layout/footer.php 158
+ERROR - 2015-10-05 16:02:18 --> Severity: Notice --> Undefined variable: state /opt/lampp/htdocs/team/application/views/layout/footer.php 166
+ERROR - 2015-10-05 16:02:18 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/team/application/views/layout/footer.php 166
+INFO - 2015-10-05 16:02:18 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-10-05 16:02:18 --> Final output sent to browser
+DEBUG - 2015-10-05 16:02:18 --> Total execution time: 0.0407
+INFO - 2015-10-05 16:34:46 --> Config Class Initialized
+INFO - 2015-10-05 16:34:46 --> Hooks Class Initialized
+DEBUG - 2015-10-05 16:34:46 --> UTF-8 Support Enabled
+INFO - 2015-10-05 16:34:46 --> Utf8 Class Initialized
+INFO - 2015-10-05 16:34:46 --> URI Class Initialized
+DEBUG - 2015-10-05 16:34:46 --> No URI present. Default controller set.
+INFO - 2015-10-05 16:34:46 --> Router Class Initialized
+INFO - 2015-10-05 16:34:46 --> Output Class Initialized
+INFO - 2015-10-05 16:34:46 --> Security Class Initialized
+DEBUG - 2015-10-05 16:34:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-05 16:34:46 --> Input Class Initialized
+INFO - 2015-10-05 16:34:46 --> Language Class Initialized
+INFO - 2015-10-05 16:34:46 --> Loader Class Initialized
+INFO - 2015-10-05 16:34:46 --> Helper loaded: url_helper
+INFO - 2015-10-05 16:34:46 --> Helper loaded: thumb_helper
+INFO - 2015-10-05 16:34:46 --> Database Driver Class Initialized
+INFO - 2015-10-05 16:34:46 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-05 16:34:46 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-05 16:34:46 --> Email Class Initialized
+INFO - 2015-10-05 16:34:46 --> Helper loaded: string_helper
+INFO - 2015-10-05 16:34:46 --> Helper loaded: email_helper
+INFO - 2015-10-05 16:34:46 --> Helper loaded: language_helper
+INFO - 2015-10-05 16:34:46 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-05 16:34:46 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-05 16:34:46 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-05 16:34:46 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-10-05 16:34:46 --> Database Driver Class Initialized
+INFO - 2015-10-05 16:34:47 --> Helper loaded: form_helper
+INFO - 2015-10-05 16:34:47 --> Form Validation Class Initialized
+INFO - 2015-10-05 16:34:47 --> Parser Class Initialized
+INFO - 2015-10-05 16:34:47 --> Controller Class Initialized
+INFO - 2015-10-05 16:34:47 --> Model Class Initialized
+INFO - 2015-10-05 16:34:47 --> Model Class Initialized
+INFO - 2015-10-05 16:34:47 --> Model Class Initialized
+INFO - 2015-10-05 16:34:47 --> Model Class Initialized
+INFO - 2015-10-05 16:34:47 --> Model Class Initialized
+DEBUG - 2015-10-05 16:34:47 --> Aauth class already loaded. Second attempt ignored.
+INFO - 2015-10-05 16:34:47 --> User Agent Class Initialized
+INFO - 2015-10-05 16:34:47 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-10-05 16:34:47 --> Pagination Class Initialized
+INFO - 2015-10-05 16:34:47 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-10-05 16:34:47 --> File loaded: /opt/lampp/htdocs/team/application/views/index.php
+INFO - 2015-10-05 16:34:47 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-10-05 16:34:47 --> Final output sent to browser
+DEBUG - 2015-10-05 16:34:47 --> Total execution time: 0.0627
+INFO - 2015-10-05 16:34:47 --> Config Class Initialized
+INFO - 2015-10-05 16:34:47 --> Hooks Class Initialized
+DEBUG - 2015-10-05 16:34:47 --> UTF-8 Support Enabled
+INFO - 2015-10-05 16:34:47 --> Utf8 Class Initialized
+INFO - 2015-10-05 16:34:47 --> URI Class Initialized
+INFO - 2015-10-05 16:34:47 --> Router Class Initialized
+INFO - 2015-10-05 16:34:47 --> Output Class Initialized
+INFO - 2015-10-05 16:34:47 --> Security Class Initialized
+DEBUG - 2015-10-05 16:34:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-05 16:34:47 --> Input Class Initialized
+INFO - 2015-10-05 16:34:47 --> Language Class Initialized
+INFO - 2015-10-05 16:34:47 --> Loader Class Initialized
+INFO - 2015-10-05 16:34:47 --> Helper loaded: url_helper
+INFO - 2015-10-05 16:34:47 --> Helper loaded: thumb_helper
+INFO - 2015-10-05 16:34:47 --> Database Driver Class Initialized
+INFO - 2015-10-05 16:34:47 --> Session: Class initialized using 'files' driver.
+INFO - 2015-10-05 16:34:47 --> Config Class Initialized
+INFO - 2015-10-05 16:34:47 --> Hooks Class Initialized
+DEBUG - 2015-10-05 16:34:47 --> UTF-8 Support Enabled
+INFO - 2015-10-05 16:34:47 --> Utf8 Class Initialized
+INFO - 2015-10-05 16:34:47 --> Config Class Initialized
+INFO - 2015-10-05 16:34:47 --> Hooks Class Initialized
+INFO - 2015-10-05 16:34:47 --> URI Class Initialized
+DEBUG - 2015-10-05 16:34:47 --> UTF-8 Support Enabled
+INFO - 2015-10-05 16:34:47 --> Utf8 Class Initialized
+INFO - 2015-10-05 16:34:47 --> Router Class Initialized
+INFO - 2015-10-05 16:34:47 --> URI Class Initialized
+INFO - 2015-10-05 16:34:47 --> Router Class Initialized
+INFO - 2015-10-05 16:34:47 --> Output Class Initialized
+INFO - 2015-10-05 16:34:47 --> Output Class Initialized
+INFO - 2015-10-05 16:34:47 --> Security Class Initialized
+INFO - 2015-10-05 16:34:47 --> Config Class Initialized
+INFO - 2015-10-05 16:34:47 --> Hooks Class Initialized
+DEBUG - 2015-10-05 16:34:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-05 16:34:47 --> Input Class Initialized
+INFO - 2015-10-05 16:34:47 --> Language Class Initialized
+DEBUG - 2015-10-05 16:34:47 --> UTF-8 Support Enabled
+INFO - 2015-10-05 16:34:47 --> Utf8 Class Initialized
+INFO - 2015-10-05 16:34:47 --> URI Class Initialized
+INFO - 2015-10-05 16:34:47 --> Router Class Initialized
+INFO - 2015-10-05 16:34:47 --> Loader Class Initialized
+INFO - 2015-10-05 16:34:47 --> Output Class Initialized
+INFO - 2015-10-05 16:34:47 --> Helper loaded: url_helper
+INFO - 2015-10-05 16:34:47 --> Helper loaded: thumb_helper
+INFO - 2015-10-05 16:34:47 --> Security Class Initialized
+DEBUG - 2015-10-05 16:34:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-05 16:34:47 --> Input Class Initialized
+DEBUG - 2015-10-05 16:34:47 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-05 16:34:47 --> Email Class Initialized
+INFO - 2015-10-05 16:34:47 --> Helper loaded: string_helper
+INFO - 2015-10-05 16:34:47 --> Helper loaded: email_helper
+INFO - 2015-10-05 16:34:47 --> Helper loaded: language_helper
+INFO - 2015-10-05 16:34:47 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-05 16:34:47 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-05 16:34:47 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-05 16:34:47 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-10-05 16:34:47 --> Database Driver Class Initialized
+INFO - 2015-10-05 16:34:47 --> Security Class Initialized
+INFO - 2015-10-05 16:34:47 --> Database Driver Class Initialized
+DEBUG - 2015-10-05 16:34:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-05 16:34:47 --> Input Class Initialized
+INFO - 2015-10-05 16:34:47 --> Language Class Initialized
+INFO - 2015-10-05 16:34:47 --> Loader Class Initialized
+INFO - 2015-10-05 16:34:47 --> Helper loaded: url_helper
+INFO - 2015-10-05 16:34:47 --> Helper loaded: thumb_helper
+INFO - 2015-10-05 16:34:47 --> Helper loaded: form_helper
+INFO - 2015-10-05 16:34:47 --> Form Validation Class Initialized
+INFO - 2015-10-05 16:34:47 --> Language Class Initialized
+INFO - 2015-10-05 16:34:47 --> Parser Class Initialized
+INFO - 2015-10-05 16:34:47 --> Controller Class Initialized
+INFO - 2015-10-05 16:34:47 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-10-05 16:34:47 --> Loader Class Initialized
+INFO - 2015-10-05 16:34:47 --> File loaded: /opt/lampp/htdocs/team/application/views/errors/html/custom.php
+INFO - 2015-10-05 16:34:47 --> Helper loaded: url_helper
+INFO - 2015-10-05 16:34:47 --> Helper loaded: thumb_helper
+ERROR - 2015-10-05 16:34:47 --> Severity: Notice --> Undefined variable: gender /opt/lampp/htdocs/team/application/views/layout/footer.php 158
+ERROR - 2015-10-05 16:34:47 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/team/application/views/layout/footer.php 158
+ERROR - 2015-10-05 16:34:47 --> Severity: Notice --> Undefined variable: state /opt/lampp/htdocs/team/application/views/layout/footer.php 166
+ERROR - 2015-10-05 16:34:47 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/team/application/views/layout/footer.php 166
+INFO - 2015-10-05 16:34:47 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-10-05 16:34:47 --> Final output sent to browser
+DEBUG - 2015-10-05 16:34:47 --> Total execution time: 0.0712
+INFO - 2015-10-05 16:34:47 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-05 16:34:47 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-05 16:34:47 --> Database Driver Class Initialized
+INFO - 2015-10-05 16:34:47 --> Database Driver Class Initialized
+INFO - 2015-10-05 16:34:47 --> Email Class Initialized
+INFO - 2015-10-05 16:34:47 --> Helper loaded: string_helper
+INFO - 2015-10-05 16:34:47 --> Helper loaded: email_helper
+INFO - 2015-10-05 16:34:47 --> Helper loaded: language_helper
+INFO - 2015-10-05 16:34:47 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-05 16:34:47 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-05 16:34:47 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-05 16:34:47 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-10-05 16:34:47 --> Database Driver Class Initialized
+INFO - 2015-10-05 16:34:47 --> Helper loaded: form_helper
+INFO - 2015-10-05 16:34:47 --> Form Validation Class Initialized
+INFO - 2015-10-05 16:34:47 --> Parser Class Initialized
+INFO - 2015-10-05 16:34:47 --> Controller Class Initialized
+INFO - 2015-10-05 16:34:47 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-10-05 16:34:47 --> File loaded: /opt/lampp/htdocs/team/application/views/errors/html/custom.php
+ERROR - 2015-10-05 16:34:47 --> Severity: Notice --> Undefined variable: gender /opt/lampp/htdocs/team/application/views/layout/footer.php 158
+ERROR - 2015-10-05 16:34:47 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/team/application/views/layout/footer.php 158
+ERROR - 2015-10-05 16:34:47 --> Severity: Notice --> Undefined variable: state /opt/lampp/htdocs/team/application/views/layout/footer.php 166
+ERROR - 2015-10-05 16:34:47 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/team/application/views/layout/footer.php 166
+INFO - 2015-10-05 16:34:47 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-10-05 16:34:47 --> Final output sent to browser
+DEBUG - 2015-10-05 16:34:47 --> Total execution time: 0.0663
+INFO - 2015-10-05 16:34:47 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-05 16:34:47 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-05 16:34:47 --> Email Class Initialized
+INFO - 2015-10-05 16:34:47 --> Helper loaded: string_helper
+INFO - 2015-10-05 16:34:47 --> Helper loaded: email_helper
+INFO - 2015-10-05 16:34:47 --> Helper loaded: language_helper
+INFO - 2015-10-05 16:34:47 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-05 16:34:47 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-05 16:34:47 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-05 16:34:47 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-10-05 16:34:47 --> Database Driver Class Initialized
+INFO - 2015-10-05 16:34:47 --> Helper loaded: form_helper
+INFO - 2015-10-05 16:34:47 --> Form Validation Class Initialized
+INFO - 2015-10-05 16:34:47 --> Parser Class Initialized
+INFO - 2015-10-05 16:34:47 --> Controller Class Initialized
+INFO - 2015-10-05 16:34:47 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-10-05 16:34:47 --> File loaded: /opt/lampp/htdocs/team/application/views/errors/html/custom.php
+ERROR - 2015-10-05 16:34:47 --> Severity: Notice --> Undefined variable: gender /opt/lampp/htdocs/team/application/views/layout/footer.php 158
+ERROR - 2015-10-05 16:34:47 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/team/application/views/layout/footer.php 158
+ERROR - 2015-10-05 16:34:47 --> Severity: Notice --> Undefined variable: state /opt/lampp/htdocs/team/application/views/layout/footer.php 166
+ERROR - 2015-10-05 16:34:47 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/team/application/views/layout/footer.php 166
+INFO - 2015-10-05 16:34:47 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-10-05 16:34:47 --> Final output sent to browser
+DEBUG - 2015-10-05 16:34:47 --> Total execution time: 0.0821
+INFO - 2015-10-05 16:34:47 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-05 16:34:47 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-05 16:34:47 --> Email Class Initialized
+INFO - 2015-10-05 16:34:47 --> Helper loaded: string_helper
+INFO - 2015-10-05 16:34:47 --> Helper loaded: email_helper
+INFO - 2015-10-05 16:34:47 --> Helper loaded: language_helper
+INFO - 2015-10-05 16:34:47 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-05 16:34:47 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-05 16:34:47 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-05 16:34:47 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-10-05 16:34:47 --> Database Driver Class Initialized
+INFO - 2015-10-05 16:34:47 --> Helper loaded: form_helper
+INFO - 2015-10-05 16:34:47 --> Form Validation Class Initialized
+INFO - 2015-10-05 16:34:47 --> Parser Class Initialized
+INFO - 2015-10-05 16:34:47 --> Controller Class Initialized
+INFO - 2015-10-05 16:34:47 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-10-05 16:34:47 --> File loaded: /opt/lampp/htdocs/team/application/views/errors/html/custom.php
+ERROR - 2015-10-05 16:34:47 --> Severity: Notice --> Undefined variable: gender /opt/lampp/htdocs/team/application/views/layout/footer.php 158
+ERROR - 2015-10-05 16:34:47 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/team/application/views/layout/footer.php 158
+ERROR - 2015-10-05 16:34:47 --> Severity: Notice --> Undefined variable: state /opt/lampp/htdocs/team/application/views/layout/footer.php 166
+ERROR - 2015-10-05 16:34:47 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/team/application/views/layout/footer.php 166
+INFO - 2015-10-05 16:34:47 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-10-05 16:34:47 --> Final output sent to browser
+DEBUG - 2015-10-05 16:34:47 --> Total execution time: 0.0962
+INFO - 2015-10-05 16:34:47 --> Config Class Initialized
+INFO - 2015-10-05 16:34:47 --> Hooks Class Initialized
+DEBUG - 2015-10-05 16:34:47 --> UTF-8 Support Enabled
+INFO - 2015-10-05 16:34:47 --> Utf8 Class Initialized
+INFO - 2015-10-05 16:34:47 --> URI Class Initialized
+INFO - 2015-10-05 16:34:47 --> Router Class Initialized
+INFO - 2015-10-05 16:34:47 --> Output Class Initialized
+INFO - 2015-10-05 16:34:47 --> Security Class Initialized
+DEBUG - 2015-10-05 16:34:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-05 16:34:47 --> Input Class Initialized
+INFO - 2015-10-05 16:34:47 --> Language Class Initialized
+INFO - 2015-10-05 16:34:47 --> Loader Class Initialized
+INFO - 2015-10-05 16:34:47 --> Helper loaded: url_helper
+INFO - 2015-10-05 16:34:47 --> Helper loaded: thumb_helper
+INFO - 2015-10-05 16:34:47 --> Database Driver Class Initialized
+INFO - 2015-10-05 16:34:47 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-05 16:34:47 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-05 16:34:47 --> Email Class Initialized
+INFO - 2015-10-05 16:34:47 --> Helper loaded: string_helper
+INFO - 2015-10-05 16:34:47 --> Helper loaded: email_helper
+INFO - 2015-10-05 16:34:47 --> Helper loaded: language_helper
+INFO - 2015-10-05 16:34:47 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-05 16:34:47 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-05 16:34:47 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-05 16:34:47 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-10-05 16:34:47 --> Database Driver Class Initialized
+INFO - 2015-10-05 16:34:47 --> Helper loaded: form_helper
+INFO - 2015-10-05 16:34:47 --> Form Validation Class Initialized
+INFO - 2015-10-05 16:34:47 --> Parser Class Initialized
+INFO - 2015-10-05 16:34:47 --> Controller Class Initialized
+INFO - 2015-10-05 16:34:47 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-10-05 16:34:47 --> File loaded: /opt/lampp/htdocs/team/application/views/errors/html/custom.php
+ERROR - 2015-10-05 16:34:47 --> Severity: Notice --> Undefined variable: gender /opt/lampp/htdocs/team/application/views/layout/footer.php 158
+ERROR - 2015-10-05 16:34:47 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/team/application/views/layout/footer.php 158
+ERROR - 2015-10-05 16:34:47 --> Severity: Notice --> Undefined variable: state /opt/lampp/htdocs/team/application/views/layout/footer.php 166
+ERROR - 2015-10-05 16:34:47 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/team/application/views/layout/footer.php 166
+INFO - 2015-10-05 16:34:47 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-10-05 16:34:47 --> Final output sent to browser
+DEBUG - 2015-10-05 16:34:47 --> Total execution time: 0.0420

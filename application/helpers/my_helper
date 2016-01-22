@@ -1,0 +1,39 @@
+<?
+
+	function url_pl($text)
+	{
+		$litery1 = array('ę', 'ó', 'ą', 'ś', 'ł', 'ż', 'ź', 'ć', 'ń', 'Ę', 'Ó', 'Ą', 'Ś', 'Ł', 'Ż', 'Ź', 'Ć', 'Ń', ' ');		
+		$litery2 = array('e', 'o', 'a', 's', 'l', 'z', 'z', 'c', 'n', 'e', 'o', 'a', 's', 'l', 'z', 'z', 'c', 'n', '-');
+		
+		$text = trim($text);
+		$text = str_replace($litery1, $litery2, $text);
+		$text = strtolower($text);
+		
+		$pattern = '/[^a-zA-Z0-9\-^]/';
+		$text = preg_replace($pattern, '', $text);
+		
+		$pattern = '/-+/';
+		$text = preg_replace($pattern, '-', $text);
+		
+		return $text;
+	}
+	
+	
+	function parse_spin($spin)
+	{
+	    if (is_array($spin)) {
+	        $spin = $spin[1];
+	    }
+
+	    if (preg_match('/^[^{}]+$/', $spin)) {
+	        $strings = explode('|', $spin);
+	        return $strings[array_rand($strings)];
+	    }
+
+	    return parse_spin(preg_replace_callback('/{([^{}]+)}/', 'parse_spin', $spin));
+	}
+
+	
+
+	
+?>

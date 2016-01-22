@@ -1,0 +1,1185 @@
+INFO - 2015-10-26 18:57:21 --> Config Class Initialized
+INFO - 2015-10-26 18:57:21 --> Hooks Class Initialized
+DEBUG - 2015-10-26 18:57:22 --> UTF-8 Support Enabled
+INFO - 2015-10-26 18:57:22 --> Utf8 Class Initialized
+INFO - 2015-10-26 18:57:23 --> URI Class Initialized
+DEBUG - 2015-10-26 18:57:24 --> No URI present. Default controller set.
+INFO - 2015-10-26 18:57:24 --> Router Class Initialized
+INFO - 2015-10-26 18:57:24 --> Output Class Initialized
+INFO - 2015-10-26 18:57:25 --> Security Class Initialized
+DEBUG - 2015-10-26 18:57:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-26 18:57:25 --> Input Class Initialized
+INFO - 2015-10-26 18:57:25 --> Language Class Initialized
+INFO - 2015-10-26 18:57:26 --> Loader Class Initialized
+INFO - 2015-10-26 18:57:26 --> Helper loaded: url_helper
+INFO - 2015-10-26 18:57:26 --> Helper loaded: thumb_helper
+INFO - 2015-10-26 18:57:27 --> Database Driver Class Initialized
+INFO - 2015-10-26 18:57:29 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-26 18:57:29 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-26 18:57:30 --> Email Class Initialized
+INFO - 2015-10-26 18:57:30 --> Helper loaded: string_helper
+INFO - 2015-10-26 18:57:30 --> Helper loaded: email_helper
+INFO - 2015-10-26 18:57:30 --> Helper loaded: language_helper
+INFO - 2015-10-26 18:57:30 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-26 18:57:30 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-26 18:57:31 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-26 18:57:31 --> Config file loaded: C:\xampp\htdocs\team\application\config/aauth.php
+INFO - 2015-10-26 18:57:31 --> Database Driver Class Initialized
+INFO - 2015-10-26 18:57:31 --> Helper loaded: form_helper
+INFO - 2015-10-26 18:57:31 --> Form Validation Class Initialized
+INFO - 2015-10-26 18:57:32 --> Parser Class Initialized
+INFO - 2015-10-26 18:57:32 --> Controller Class Initialized
+INFO - 2015-10-26 18:57:32 --> Model Class Initialized
+INFO - 2015-10-26 18:57:32 --> Model Class Initialized
+INFO - 2015-10-26 18:57:32 --> Model Class Initialized
+INFO - 2015-10-26 18:57:33 --> Model Class Initialized
+INFO - 2015-10-26 18:57:33 --> Model Class Initialized
+DEBUG - 2015-10-26 18:57:33 --> Aauth class already loaded. Second attempt ignored.
+INFO - 2015-10-26 18:57:34 --> User Agent Class Initialized
+INFO - 2015-10-26 18:57:37 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-10-26 18:57:37 --> Pagination Class Initialized
+INFO - 2015-10-26 18:57:38 --> File loaded: C:\xampp\htdocs\team\application\views\layout/header.php
+INFO - 2015-10-26 18:57:38 --> File loaded: C:\xampp\htdocs\team\application\views\index.php
+INFO - 2015-10-26 18:57:39 --> File loaded: C:\xampp\htdocs\team\application\views\layout/footer.php
+INFO - 2015-10-26 18:57:39 --> Final output sent to browser
+DEBUG - 2015-10-26 18:57:39 --> Total execution time: 18.2734
+INFO - 2015-10-26 18:57:41 --> Config Class Initialized
+INFO - 2015-10-26 18:57:41 --> Hooks Class Initialized
+DEBUG - 2015-10-26 18:57:41 --> UTF-8 Support Enabled
+INFO - 2015-10-26 18:57:42 --> Utf8 Class Initialized
+INFO - 2015-10-26 18:57:42 --> URI Class Initialized
+INFO - 2015-10-26 18:57:42 --> Config Class Initialized
+INFO - 2015-10-26 18:57:42 --> Config Class Initialized
+INFO - 2015-10-26 18:57:42 --> Hooks Class Initialized
+DEBUG - 2015-10-26 18:57:43 --> UTF-8 Support Enabled
+INFO - 2015-10-26 18:57:43 --> Utf8 Class Initialized
+INFO - 2015-10-26 18:57:43 --> URI Class Initialized
+INFO - 2015-10-26 18:57:43 --> Router Class Initialized
+INFO - 2015-10-26 18:57:43 --> Output Class Initialized
+INFO - 2015-10-26 18:57:43 --> Security Class Initialized
+DEBUG - 2015-10-26 18:57:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-26 18:57:43 --> Input Class Initialized
+INFO - 2015-10-26 18:57:43 --> Language Class Initialized
+INFO - 2015-10-26 18:57:43 --> Router Class Initialized
+INFO - 2015-10-26 18:57:43 --> Hooks Class Initialized
+INFO - 2015-10-26 18:57:43 --> Config Class Initialized
+INFO - 2015-10-26 18:57:43 --> Hooks Class Initialized
+INFO - 2015-10-26 18:57:43 --> Output Class Initialized
+DEBUG - 2015-10-26 18:57:44 --> UTF-8 Support Enabled
+INFO - 2015-10-26 18:57:44 --> Utf8 Class Initialized
+INFO - 2015-10-26 18:57:44 --> URI Class Initialized
+INFO - 2015-10-26 18:57:44 --> Router Class Initialized
+INFO - 2015-10-26 18:57:44 --> Output Class Initialized
+INFO - 2015-10-26 18:57:44 --> Security Class Initialized
+DEBUG - 2015-10-26 18:57:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-26 18:57:44 --> Input Class Initialized
+INFO - 2015-10-26 18:57:45 --> Language Class Initialized
+INFO - 2015-10-26 18:57:45 --> Loader Class Initialized
+INFO - 2015-10-26 18:57:45 --> Security Class Initialized
+INFO - 2015-10-26 18:57:45 --> Helper loaded: url_helper
+INFO - 2015-10-26 18:57:45 --> Loader Class Initialized
+INFO - 2015-10-26 18:57:45 --> Helper loaded: thumb_helper
+INFO - 2015-10-26 18:57:45 --> Database Driver Class Initialized
+DEBUG - 2015-10-26 18:57:45 --> UTF-8 Support Enabled
+INFO - 2015-10-26 18:57:46 --> Utf8 Class Initialized
+INFO - 2015-10-26 18:57:46 --> Session: Class initialized using 'files' driver.
+INFO - 2015-10-26 18:57:46 --> URI Class Initialized
+DEBUG - 2015-10-26 18:57:46 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-26 18:57:46 --> Email Class Initialized
+INFO - 2015-10-26 18:57:46 --> Helper loaded: string_helper
+INFO - 2015-10-26 18:57:46 --> Helper loaded: email_helper
+INFO - 2015-10-26 18:57:46 --> Helper loaded: language_helper
+INFO - 2015-10-26 18:57:46 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-26 18:57:47 --> Helper loaded: googleauthenticator_helper
+DEBUG - 2015-10-26 18:57:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-26 18:57:47 --> Helper loaded: url_helper
+INFO - 2015-10-26 18:57:47 --> Language file loaded: language/english/aauth_lang.php
+INFO - 2015-10-26 18:57:47 --> Config Class Initialized
+DEBUG - 2015-10-26 18:57:47 --> Config file loaded: C:\xampp\htdocs\team\application\config/aauth.php
+INFO - 2015-10-26 18:57:47 --> Database Driver Class Initialized
+INFO - 2015-10-26 18:57:47 --> Helper loaded: form_helper
+INFO - 2015-10-26 18:57:47 --> Router Class Initialized
+INFO - 2015-10-26 18:57:47 --> Form Validation Class Initialized
+INFO - 2015-10-26 18:57:47 --> Parser Class Initialized
+INFO - 2015-10-26 18:57:47 --> Controller Class Initialized
+INFO - 2015-10-26 18:57:47 --> Helper loaded: thumb_helper
+INFO - 2015-10-26 18:57:47 --> Database Driver Class Initialized
+INFO - 2015-10-26 18:57:48 --> Input Class Initialized
+INFO - 2015-10-26 18:57:48 --> Language Class Initialized
+INFO - 2015-10-26 18:57:48 --> Hooks Class Initialized
+INFO - 2015-10-26 18:57:48 --> Loader Class Initialized
+INFO - 2015-10-26 18:57:48 --> Helper loaded: url_helper
+INFO - 2015-10-26 18:57:48 --> Helper loaded: thumb_helper
+INFO - 2015-10-26 18:57:48 --> Output Class Initialized
+INFO - 2015-10-26 18:57:48 --> Database Driver Class Initialized
+INFO - 2015-10-26 18:57:48 --> Security Class Initialized
+DEBUG - 2015-10-26 18:57:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-26 18:57:48 --> Input Class Initialized
+INFO - 2015-10-26 18:57:49 --> Language Class Initialized
+INFO - 2015-10-26 18:57:49 --> File loaded: C:\xampp\htdocs\team\application\views\layout/header.php
+INFO - 2015-10-26 18:57:49 --> Loader Class Initialized
+INFO - 2015-10-26 18:57:49 --> Helper loaded: url_helper
+DEBUG - 2015-10-26 18:57:49 --> UTF-8 Support Enabled
+INFO - 2015-10-26 18:57:49 --> Helper loaded: thumb_helper
+INFO - 2015-10-26 18:57:49 --> Database Driver Class Initialized
+INFO - 2015-10-26 18:57:49 --> Utf8 Class Initialized
+INFO - 2015-10-26 18:57:49 --> URI Class Initialized
+INFO - 2015-10-26 18:57:50 --> Router Class Initialized
+INFO - 2015-10-26 18:57:50 --> Output Class Initialized
+INFO - 2015-10-26 18:57:50 --> Security Class Initialized
+DEBUG - 2015-10-26 18:57:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-26 18:57:50 --> Input Class Initialized
+INFO - 2015-10-26 18:57:50 --> Language Class Initialized
+INFO - 2015-10-26 18:57:50 --> File loaded: C:\xampp\htdocs\team\application\views\errors/html/custom.php
+INFO - 2015-10-26 18:57:50 --> Loader Class Initialized
+INFO - 2015-10-26 18:57:51 --> Helper loaded: url_helper
+ERROR - 2015-10-26 18:57:51 --> Severity: Notice --> Undefined variable: gender C:\xampp\htdocs\team\application\views\layout\footer.php 158
+INFO - 2015-10-26 18:57:51 --> Helper loaded: thumb_helper
+INFO - 2015-10-26 18:57:51 --> Database Driver Class Initialized
+ERROR - 2015-10-26 18:57:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 158
+ERROR - 2015-10-26 18:57:51 --> Severity: Notice --> Undefined variable: state C:\xampp\htdocs\team\application\views\layout\footer.php 166
+ERROR - 2015-10-26 18:57:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 166
+INFO - 2015-10-26 18:57:52 --> File loaded: C:\xampp\htdocs\team\application\views\layout/footer.php
+INFO - 2015-10-26 18:57:52 --> Final output sent to browser
+DEBUG - 2015-10-26 18:57:52 --> Total execution time: 10.5949
+INFO - 2015-10-26 18:57:52 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-26 18:57:52 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-26 18:57:52 --> Email Class Initialized
+INFO - 2015-10-26 18:57:53 --> Helper loaded: string_helper
+INFO - 2015-10-26 18:57:53 --> Helper loaded: email_helper
+INFO - 2015-10-26 18:57:53 --> Helper loaded: language_helper
+INFO - 2015-10-26 18:57:53 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-26 18:57:53 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-26 18:57:53 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-26 18:57:53 --> Config file loaded: C:\xampp\htdocs\team\application\config/aauth.php
+INFO - 2015-10-26 18:57:53 --> Database Driver Class Initialized
+INFO - 2015-10-26 18:57:53 --> Helper loaded: form_helper
+INFO - 2015-10-26 18:57:53 --> Form Validation Class Initialized
+INFO - 2015-10-26 18:57:54 --> Parser Class Initialized
+INFO - 2015-10-26 18:57:54 --> Controller Class Initialized
+INFO - 2015-10-26 18:57:54 --> File loaded: C:\xampp\htdocs\team\application\views\layout/header.php
+INFO - 2015-10-26 18:57:54 --> File loaded: C:\xampp\htdocs\team\application\views\errors/html/custom.php
+ERROR - 2015-10-26 18:57:54 --> Severity: Notice --> Undefined variable: gender C:\xampp\htdocs\team\application\views\layout\footer.php 158
+ERROR - 2015-10-26 18:57:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 158
+ERROR - 2015-10-26 18:57:55 --> Severity: Notice --> Undefined variable: state C:\xampp\htdocs\team\application\views\layout\footer.php 166
+ERROR - 2015-10-26 18:57:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 166
+INFO - 2015-10-26 18:57:55 --> File loaded: C:\xampp\htdocs\team\application\views\layout/footer.php
+INFO - 2015-10-26 18:57:55 --> Final output sent to browser
+DEBUG - 2015-10-26 18:57:55 --> Total execution time: 12.9537
+INFO - 2015-10-26 18:57:55 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-26 18:57:55 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-26 18:57:56 --> Email Class Initialized
+INFO - 2015-10-26 18:57:56 --> Helper loaded: string_helper
+INFO - 2015-10-26 18:57:56 --> Helper loaded: email_helper
+INFO - 2015-10-26 18:57:56 --> Helper loaded: language_helper
+INFO - 2015-10-26 18:57:56 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-26 18:57:57 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-26 18:57:57 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-26 18:57:57 --> Config file loaded: C:\xampp\htdocs\team\application\config/aauth.php
+INFO - 2015-10-26 18:57:57 --> Database Driver Class Initialized
+INFO - 2015-10-26 18:57:58 --> Helper loaded: form_helper
+INFO - 2015-10-26 18:57:58 --> Form Validation Class Initialized
+INFO - 2015-10-26 18:57:58 --> Parser Class Initialized
+INFO - 2015-10-26 18:57:58 --> Controller Class Initialized
+INFO - 2015-10-26 18:57:58 --> File loaded: C:\xampp\htdocs\team\application\views\layout/header.php
+INFO - 2015-10-26 18:57:58 --> File loaded: C:\xampp\htdocs\team\application\views\errors/html/custom.php
+ERROR - 2015-10-26 18:57:58 --> Severity: Notice --> Undefined variable: gender C:\xampp\htdocs\team\application\views\layout\footer.php 158
+ERROR - 2015-10-26 18:57:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 158
+ERROR - 2015-10-26 18:57:59 --> Severity: Notice --> Undefined variable: state C:\xampp\htdocs\team\application\views\layout\footer.php 166
+ERROR - 2015-10-26 18:57:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 166
+INFO - 2015-10-26 18:57:59 --> File loaded: C:\xampp\htdocs\team\application\views\layout/footer.php
+INFO - 2015-10-26 18:57:59 --> Final output sent to browser
+DEBUG - 2015-10-26 18:57:59 --> Total execution time: 17.5116
+INFO - 2015-10-26 18:57:59 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-26 18:57:59 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-26 18:57:59 --> Email Class Initialized
+INFO - 2015-10-26 18:57:59 --> Helper loaded: string_helper
+INFO - 2015-10-26 18:57:59 --> Helper loaded: email_helper
+INFO - 2015-10-26 18:57:59 --> Helper loaded: language_helper
+INFO - 2015-10-26 18:57:59 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-26 18:57:59 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-26 18:58:00 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-26 18:58:00 --> Config file loaded: C:\xampp\htdocs\team\application\config/aauth.php
+INFO - 2015-10-26 18:58:00 --> Database Driver Class Initialized
+INFO - 2015-10-26 18:58:00 --> Helper loaded: form_helper
+INFO - 2015-10-26 18:58:00 --> Form Validation Class Initialized
+INFO - 2015-10-26 18:58:00 --> Parser Class Initialized
+INFO - 2015-10-26 18:58:00 --> Controller Class Initialized
+INFO - 2015-10-26 18:58:00 --> File loaded: C:\xampp\htdocs\team\application\views\layout/header.php
+INFO - 2015-10-26 18:58:00 --> File loaded: C:\xampp\htdocs\team\application\views\errors/html/custom.php
+ERROR - 2015-10-26 18:58:00 --> Severity: Notice --> Undefined variable: gender C:\xampp\htdocs\team\application\views\layout\footer.php 158
+ERROR - 2015-10-26 18:58:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 158
+ERROR - 2015-10-26 18:58:01 --> Severity: Notice --> Undefined variable: state C:\xampp\htdocs\team\application\views\layout\footer.php 166
+ERROR - 2015-10-26 18:58:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 166
+INFO - 2015-10-26 18:58:01 --> File loaded: C:\xampp\htdocs\team\application\views\layout/footer.php
+INFO - 2015-10-26 18:58:01 --> Final output sent to browser
+DEBUG - 2015-10-26 18:58:01 --> Total execution time: 19.0724
+INFO - 2015-10-26 18:58:01 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-26 18:58:02 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-26 18:58:02 --> Email Class Initialized
+INFO - 2015-10-26 18:58:02 --> Helper loaded: string_helper
+INFO - 2015-10-26 18:58:02 --> Helper loaded: email_helper
+INFO - 2015-10-26 18:58:02 --> Helper loaded: language_helper
+INFO - 2015-10-26 18:58:02 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-26 18:58:02 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-26 18:58:03 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-26 18:58:03 --> Config file loaded: C:\xampp\htdocs\team\application\config/aauth.php
+INFO - 2015-10-26 18:58:03 --> Database Driver Class Initialized
+INFO - 2015-10-26 18:58:03 --> Helper loaded: form_helper
+INFO - 2015-10-26 18:58:03 --> Form Validation Class Initialized
+INFO - 2015-10-26 18:58:03 --> Parser Class Initialized
+INFO - 2015-10-26 18:58:03 --> Controller Class Initialized
+DEBUG - 2015-10-26 18:58:04 --> Aauth class already loaded. Second attempt ignored.
+INFO - 2015-10-26 18:58:04 --> Config Class Initialized
+INFO - 2015-10-26 18:58:04 --> Hooks Class Initialized
+DEBUG - 2015-10-26 18:58:04 --> UTF-8 Support Enabled
+INFO - 2015-10-26 18:58:04 --> Utf8 Class Initialized
+INFO - 2015-10-26 18:58:04 --> URI Class Initialized
+INFO - 2015-10-26 18:58:05 --> Router Class Initialized
+INFO - 2015-10-26 18:58:05 --> Output Class Initialized
+INFO - 2015-10-26 18:58:05 --> Security Class Initialized
+DEBUG - 2015-10-26 18:58:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-26 18:58:05 --> Input Class Initialized
+INFO - 2015-10-26 18:58:05 --> Language Class Initialized
+INFO - 2015-10-26 18:58:05 --> Upload Class Initialized
+INFO - 2015-10-26 18:58:05 --> Loader Class Initialized
+INFO - 2015-10-26 18:58:05 --> Helper loaded: url_helper
+INFO - 2015-10-26 18:58:05 --> Helper loaded: thumb_helper
+INFO - 2015-10-26 18:58:06 --> Database Driver Class Initialized
+INFO - 2015-10-26 18:58:06 --> Image Lib Class Initialized
+INFO - 2015-10-26 18:58:06 --> Model Class Initialized
+INFO - 2015-10-26 18:58:06 --> Model Class Initialized
+INFO - 2015-10-26 18:58:06 --> Model Class Initialized
+INFO - 2015-10-26 18:58:06 --> Model Class Initialized
+INFO - 2015-10-26 18:58:06 --> Model Class Initialized
+INFO - 2015-10-26 18:58:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-10-26 18:58:07 --> Pagination Class Initialized
+INFO - 2015-10-26 18:58:08 --> File loaded: C:\xampp\htdocs\team\application\views\camera/layout/header.php
+INFO - 2015-10-26 18:58:08 --> File loaded: C:\xampp\htdocs\team\application\views\camera/index.php
+INFO - 2015-10-26 18:58:08 --> File loaded: C:\xampp\htdocs\team\application\views\camera/layout/footer.php
+INFO - 2015-10-26 18:58:09 --> Final output sent to browser
+DEBUG - 2015-10-26 18:58:09 --> Total execution time: 21.8544
+INFO - 2015-10-26 18:58:09 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-26 18:58:09 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-26 18:58:09 --> Email Class Initialized
+INFO - 2015-10-26 18:58:09 --> Helper loaded: string_helper
+INFO - 2015-10-26 18:58:09 --> Helper loaded: email_helper
+INFO - 2015-10-26 18:58:09 --> Helper loaded: language_helper
+INFO - 2015-10-26 18:58:09 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-26 18:58:09 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-26 18:58:09 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-26 18:58:09 --> Config file loaded: C:\xampp\htdocs\team\application\config/aauth.php
+INFO - 2015-10-26 18:58:09 --> Database Driver Class Initialized
+INFO - 2015-10-26 18:58:09 --> Helper loaded: form_helper
+INFO - 2015-10-26 18:58:09 --> Form Validation Class Initialized
+INFO - 2015-10-26 18:58:10 --> Parser Class Initialized
+INFO - 2015-10-26 18:58:10 --> Controller Class Initialized
+DEBUG - 2015-10-26 18:58:10 --> Aauth class already loaded. Second attempt ignored.
+INFO - 2015-10-26 18:58:10 --> Upload Class Initialized
+INFO - 2015-10-26 18:58:10 --> Image Lib Class Initialized
+INFO - 2015-10-26 18:58:10 --> Model Class Initialized
+INFO - 2015-10-26 18:58:10 --> Model Class Initialized
+INFO - 2015-10-26 18:58:10 --> Model Class Initialized
+INFO - 2015-10-26 18:58:10 --> Model Class Initialized
+INFO - 2015-10-26 18:58:10 --> Model Class Initialized
+INFO - 2015-10-26 18:58:10 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-10-26 18:58:10 --> Pagination Class Initialized
+INFO - 2015-10-26 18:58:10 --> File loaded: C:\xampp\htdocs\team\application\views\camera/layout/header.php
+INFO - 2015-10-26 18:58:10 --> File loaded: C:\xampp\htdocs\team\application\views\camera/index.php
+INFO - 2015-10-26 18:58:10 --> File loaded: C:\xampp\htdocs\team\application\views\camera/layout/footer.php
+INFO - 2015-10-26 18:58:11 --> Final output sent to browser
+DEBUG - 2015-10-26 18:58:11 --> Total execution time: 6.6136
+INFO - 2015-10-26 18:58:13 --> Config Class Initialized
+INFO - 2015-10-26 18:58:14 --> Hooks Class Initialized
+DEBUG - 2015-10-26 18:58:14 --> UTF-8 Support Enabled
+INFO - 2015-10-26 18:58:15 --> Utf8 Class Initialized
+INFO - 2015-10-26 18:58:15 --> URI Class Initialized
+INFO - 2015-10-26 18:58:15 --> Router Class Initialized
+INFO - 2015-10-26 18:58:15 --> Output Class Initialized
+INFO - 2015-10-26 18:58:15 --> Security Class Initialized
+DEBUG - 2015-10-26 18:58:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-26 18:58:16 --> Input Class Initialized
+INFO - 2015-10-26 18:58:16 --> Language Class Initialized
+INFO - 2015-10-26 18:58:16 --> Loader Class Initialized
+INFO - 2015-10-26 18:58:16 --> Helper loaded: url_helper
+INFO - 2015-10-26 18:58:16 --> Helper loaded: thumb_helper
+INFO - 2015-10-26 18:58:16 --> Database Driver Class Initialized
+INFO - 2015-10-26 18:58:16 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-26 18:58:17 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-26 18:58:17 --> Email Class Initialized
+INFO - 2015-10-26 18:58:17 --> Helper loaded: string_helper
+INFO - 2015-10-26 18:58:17 --> Helper loaded: email_helper
+INFO - 2015-10-26 18:58:17 --> Helper loaded: language_helper
+INFO - 2015-10-26 18:58:17 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-26 18:58:17 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-26 18:58:17 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-26 18:58:17 --> Config file loaded: C:\xampp\htdocs\team\application\config/aauth.php
+INFO - 2015-10-26 18:58:17 --> Database Driver Class Initialized
+INFO - 2015-10-26 18:58:18 --> Helper loaded: form_helper
+INFO - 2015-10-26 18:58:18 --> Form Validation Class Initialized
+INFO - 2015-10-26 18:58:18 --> Parser Class Initialized
+INFO - 2015-10-26 18:58:18 --> Controller Class Initialized
+INFO - 2015-10-26 18:58:18 --> File loaded: C:\xampp\htdocs\team\application\views\layout/header.php
+INFO - 2015-10-26 18:58:18 --> File loaded: C:\xampp\htdocs\team\application\views\errors/html/custom.php
+ERROR - 2015-10-26 18:58:19 --> Severity: Notice --> Undefined variable: gender C:\xampp\htdocs\team\application\views\layout\footer.php 158
+ERROR - 2015-10-26 18:58:19 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 158
+ERROR - 2015-10-26 18:58:19 --> Severity: Notice --> Undefined variable: state C:\xampp\htdocs\team\application\views\layout\footer.php 166
+ERROR - 2015-10-26 18:58:20 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 166
+INFO - 2015-10-26 18:58:20 --> File loaded: C:\xampp\htdocs\team\application\views\layout/footer.php
+INFO - 2015-10-26 18:58:20 --> Final output sent to browser
+DEBUG - 2015-10-26 18:58:21 --> Total execution time: 7.4732
+INFO - 2015-10-26 18:58:42 --> Config Class Initialized
+INFO - 2015-10-26 18:58:42 --> Hooks Class Initialized
+DEBUG - 2015-10-26 18:58:42 --> UTF-8 Support Enabled
+INFO - 2015-10-26 18:58:42 --> Utf8 Class Initialized
+INFO - 2015-10-26 18:58:42 --> URI Class Initialized
+INFO - 2015-10-26 18:58:42 --> Router Class Initialized
+INFO - 2015-10-26 18:58:42 --> Output Class Initialized
+INFO - 2015-10-26 18:58:42 --> Security Class Initialized
+DEBUG - 2015-10-26 18:58:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-26 18:58:42 --> Input Class Initialized
+INFO - 2015-10-26 18:58:42 --> Language Class Initialized
+INFO - 2015-10-26 18:58:42 --> Loader Class Initialized
+INFO - 2015-10-26 18:58:42 --> Helper loaded: url_helper
+INFO - 2015-10-26 18:58:43 --> Helper loaded: thumb_helper
+INFO - 2015-10-26 18:58:43 --> Database Driver Class Initialized
+INFO - 2015-10-26 18:58:43 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-26 18:58:43 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-26 18:58:43 --> Email Class Initialized
+INFO - 2015-10-26 18:58:43 --> Helper loaded: string_helper
+INFO - 2015-10-26 18:58:43 --> Helper loaded: email_helper
+INFO - 2015-10-26 18:58:43 --> Helper loaded: language_helper
+INFO - 2015-10-26 18:58:44 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-26 18:58:44 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-26 18:58:44 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-26 18:58:44 --> Config file loaded: C:\xampp\htdocs\team\application\config/aauth.php
+INFO - 2015-10-26 18:58:44 --> Database Driver Class Initialized
+INFO - 2015-10-26 18:58:44 --> Helper loaded: form_helper
+INFO - 2015-10-26 18:58:44 --> Form Validation Class Initialized
+INFO - 2015-10-26 18:58:44 --> Parser Class Initialized
+INFO - 2015-10-26 18:58:44 --> Controller Class Initialized
+DEBUG - 2015-10-26 18:58:45 --> Aauth class already loaded. Second attempt ignored.
+INFO - 2015-10-26 18:58:45 --> Upload Class Initialized
+INFO - 2015-10-26 18:58:45 --> Image Lib Class Initialized
+INFO - 2015-10-26 18:58:45 --> Model Class Initialized
+INFO - 2015-10-26 18:58:45 --> Model Class Initialized
+INFO - 2015-10-26 18:58:45 --> Model Class Initialized
+INFO - 2015-10-26 18:58:45 --> Model Class Initialized
+INFO - 2015-10-26 18:58:45 --> Model Class Initialized
+INFO - 2015-10-26 18:58:45 --> File loaded: C:\xampp\htdocs\team\application\views\camera/layout/header.php
+INFO - 2015-10-26 18:58:46 --> File loaded: C:\xampp\htdocs\team\application\views\camera/presenters.php
+INFO - 2015-10-26 18:58:46 --> File loaded: C:\xampp\htdocs\team\application\views\camera/layout/footer.php
+INFO - 2015-10-26 18:58:46 --> Final output sent to browser
+DEBUG - 2015-10-26 18:58:46 --> Total execution time: 4.3713
+INFO - 2015-10-26 18:58:47 --> Config Class Initialized
+INFO - 2015-10-26 18:58:47 --> Hooks Class Initialized
+DEBUG - 2015-10-26 18:58:47 --> UTF-8 Support Enabled
+INFO - 2015-10-26 18:58:48 --> Utf8 Class Initialized
+INFO - 2015-10-26 18:58:48 --> URI Class Initialized
+INFO - 2015-10-26 18:58:49 --> Router Class Initialized
+INFO - 2015-10-26 18:58:49 --> Output Class Initialized
+INFO - 2015-10-26 18:58:49 --> Security Class Initialized
+DEBUG - 2015-10-26 18:58:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-26 18:58:49 --> Input Class Initialized
+INFO - 2015-10-26 18:58:50 --> Language Class Initialized
+INFO - 2015-10-26 18:58:50 --> Loader Class Initialized
+INFO - 2015-10-26 18:58:50 --> Helper loaded: url_helper
+INFO - 2015-10-26 18:58:50 --> Helper loaded: thumb_helper
+INFO - 2015-10-26 18:58:50 --> Database Driver Class Initialized
+INFO - 2015-10-26 18:58:50 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-26 18:58:50 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-26 18:58:50 --> Email Class Initialized
+INFO - 2015-10-26 18:58:51 --> Helper loaded: string_helper
+INFO - 2015-10-26 18:58:51 --> Helper loaded: email_helper
+INFO - 2015-10-26 18:58:51 --> Helper loaded: language_helper
+INFO - 2015-10-26 18:58:51 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-26 18:58:51 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-26 18:58:51 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-26 18:58:51 --> Config file loaded: C:\xampp\htdocs\team\application\config/aauth.php
+INFO - 2015-10-26 18:58:51 --> Database Driver Class Initialized
+INFO - 2015-10-26 18:58:51 --> Helper loaded: form_helper
+INFO - 2015-10-26 18:58:52 --> Form Validation Class Initialized
+INFO - 2015-10-26 18:58:52 --> Parser Class Initialized
+INFO - 2015-10-26 18:58:52 --> Controller Class Initialized
+INFO - 2015-10-26 18:58:52 --> File loaded: C:\xampp\htdocs\team\application\views\layout/header.php
+INFO - 2015-10-26 18:58:52 --> File loaded: C:\xampp\htdocs\team\application\views\errors/html/custom.php
+ERROR - 2015-10-26 18:58:52 --> Severity: Notice --> Undefined variable: gender C:\xampp\htdocs\team\application\views\layout\footer.php 158
+ERROR - 2015-10-26 18:58:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 158
+ERROR - 2015-10-26 18:58:52 --> Severity: Notice --> Undefined variable: state C:\xampp\htdocs\team\application\views\layout\footer.php 166
+ERROR - 2015-10-26 18:58:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 166
+INFO - 2015-10-26 18:58:52 --> File loaded: C:\xampp\htdocs\team\application\views\layout/footer.php
+INFO - 2015-10-26 18:58:53 --> Final output sent to browser
+DEBUG - 2015-10-26 18:58:53 --> Total execution time: 6.1136
+INFO - 2015-10-26 18:59:59 --> Config Class Initialized
+INFO - 2015-10-26 18:59:59 --> Hooks Class Initialized
+DEBUG - 2015-10-26 18:59:59 --> UTF-8 Support Enabled
+INFO - 2015-10-26 18:59:59 --> Utf8 Class Initialized
+INFO - 2015-10-26 19:00:00 --> URI Class Initialized
+INFO - 2015-10-26 19:00:00 --> Router Class Initialized
+INFO - 2015-10-26 19:00:00 --> Output Class Initialized
+INFO - 2015-10-26 19:00:00 --> Security Class Initialized
+DEBUG - 2015-10-26 19:00:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-26 19:00:00 --> Input Class Initialized
+INFO - 2015-10-26 19:00:00 --> Language Class Initialized
+INFO - 2015-10-26 19:00:00 --> Loader Class Initialized
+INFO - 2015-10-26 19:00:00 --> Helper loaded: url_helper
+INFO - 2015-10-26 19:00:01 --> Helper loaded: thumb_helper
+INFO - 2015-10-26 19:00:01 --> Database Driver Class Initialized
+INFO - 2015-10-26 19:00:01 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-26 19:00:01 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-26 19:00:01 --> Email Class Initialized
+INFO - 2015-10-26 19:00:01 --> Helper loaded: string_helper
+INFO - 2015-10-26 19:00:02 --> Helper loaded: email_helper
+INFO - 2015-10-26 19:00:02 --> Helper loaded: language_helper
+INFO - 2015-10-26 19:00:02 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-26 19:00:02 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-26 19:00:02 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-26 19:00:02 --> Config file loaded: C:\xampp\htdocs\team\application\config/aauth.php
+INFO - 2015-10-26 19:00:03 --> Database Driver Class Initialized
+INFO - 2015-10-26 19:00:03 --> Helper loaded: form_helper
+INFO - 2015-10-26 19:00:03 --> Form Validation Class Initialized
+INFO - 2015-10-26 19:00:03 --> Parser Class Initialized
+INFO - 2015-10-26 19:00:03 --> Controller Class Initialized
+DEBUG - 2015-10-26 19:00:04 --> Aauth class already loaded. Second attempt ignored.
+INFO - 2015-10-26 19:00:04 --> Upload Class Initialized
+INFO - 2015-10-26 19:00:04 --> Image Lib Class Initialized
+INFO - 2015-10-26 19:00:04 --> Model Class Initialized
+INFO - 2015-10-26 19:00:04 --> Model Class Initialized
+INFO - 2015-10-26 19:00:05 --> Model Class Initialized
+INFO - 2015-10-26 19:00:05 --> Model Class Initialized
+INFO - 2015-10-26 19:00:05 --> Model Class Initialized
+INFO - 2015-10-26 19:00:05 --> File loaded: C:\xampp\htdocs\team\application\views\camera/layout/header.php
+INFO - 2015-10-26 19:00:05 --> File loaded: C:\xampp\htdocs\team\application\views\camera/event.php
+INFO - 2015-10-26 19:00:05 --> File loaded: C:\xampp\htdocs\team\application\views\camera/layout/footer.php
+INFO - 2015-10-26 19:00:05 --> Final output sent to browser
+DEBUG - 2015-10-26 19:00:06 --> Total execution time: 6.2664
+INFO - 2015-10-26 19:00:06 --> Config Class Initialized
+INFO - 2015-10-26 19:00:06 --> Hooks Class Initialized
+DEBUG - 2015-10-26 19:00:07 --> UTF-8 Support Enabled
+INFO - 2015-10-26 19:00:07 --> Utf8 Class Initialized
+INFO - 2015-10-26 19:00:08 --> URI Class Initialized
+INFO - 2015-10-26 19:00:08 --> Router Class Initialized
+INFO - 2015-10-26 19:00:08 --> Output Class Initialized
+INFO - 2015-10-26 19:00:08 --> Security Class Initialized
+DEBUG - 2015-10-26 19:00:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-26 19:00:08 --> Input Class Initialized
+INFO - 2015-10-26 19:00:09 --> Language Class Initialized
+INFO - 2015-10-26 19:00:09 --> Loader Class Initialized
+INFO - 2015-10-26 19:00:09 --> Helper loaded: url_helper
+INFO - 2015-10-26 19:00:09 --> Helper loaded: thumb_helper
+INFO - 2015-10-26 19:00:09 --> Database Driver Class Initialized
+INFO - 2015-10-26 19:00:09 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-26 19:00:10 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-26 19:00:10 --> Email Class Initialized
+INFO - 2015-10-26 19:00:10 --> Helper loaded: string_helper
+INFO - 2015-10-26 19:00:10 --> Helper loaded: email_helper
+INFO - 2015-10-26 19:00:10 --> Helper loaded: language_helper
+INFO - 2015-10-26 19:00:10 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-26 19:00:10 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-26 19:00:10 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-26 19:00:10 --> Config file loaded: C:\xampp\htdocs\team\application\config/aauth.php
+INFO - 2015-10-26 19:00:10 --> Database Driver Class Initialized
+INFO - 2015-10-26 19:00:11 --> Helper loaded: form_helper
+INFO - 2015-10-26 19:00:11 --> Form Validation Class Initialized
+INFO - 2015-10-26 19:00:11 --> Parser Class Initialized
+INFO - 2015-10-26 19:00:11 --> Controller Class Initialized
+INFO - 2015-10-26 19:00:11 --> File loaded: C:\xampp\htdocs\team\application\views\layout/header.php
+INFO - 2015-10-26 19:00:12 --> File loaded: C:\xampp\htdocs\team\application\views\errors/html/custom.php
+ERROR - 2015-10-26 19:00:12 --> Severity: Notice --> Undefined variable: gender C:\xampp\htdocs\team\application\views\layout\footer.php 158
+ERROR - 2015-10-26 19:00:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 158
+ERROR - 2015-10-26 19:00:12 --> Severity: Notice --> Undefined variable: state C:\xampp\htdocs\team\application\views\layout\footer.php 166
+ERROR - 2015-10-26 19:00:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 166
+INFO - 2015-10-26 19:00:13 --> File loaded: C:\xampp\htdocs\team\application\views\layout/footer.php
+INFO - 2015-10-26 19:00:13 --> Final output sent to browser
+DEBUG - 2015-10-26 19:00:13 --> Total execution time: 6.7467
+INFO - 2015-10-26 19:01:01 --> Config Class Initialized
+INFO - 2015-10-26 19:01:01 --> Hooks Class Initialized
+DEBUG - 2015-10-26 19:01:01 --> UTF-8 Support Enabled
+INFO - 2015-10-26 19:01:01 --> Utf8 Class Initialized
+INFO - 2015-10-26 19:01:01 --> URI Class Initialized
+INFO - 2015-10-26 19:01:02 --> Router Class Initialized
+INFO - 2015-10-26 19:01:02 --> Output Class Initialized
+INFO - 2015-10-26 19:01:02 --> Security Class Initialized
+DEBUG - 2015-10-26 19:01:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-26 19:01:02 --> Input Class Initialized
+INFO - 2015-10-26 19:01:02 --> Language Class Initialized
+INFO - 2015-10-26 19:01:02 --> Loader Class Initialized
+INFO - 2015-10-26 19:01:02 --> Helper loaded: url_helper
+INFO - 2015-10-26 19:01:02 --> Helper loaded: thumb_helper
+INFO - 2015-10-26 19:01:02 --> Database Driver Class Initialized
+INFO - 2015-10-26 19:01:02 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-26 19:01:02 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-26 19:01:03 --> Email Class Initialized
+INFO - 2015-10-26 19:01:03 --> Helper loaded: string_helper
+INFO - 2015-10-26 19:01:03 --> Helper loaded: email_helper
+INFO - 2015-10-26 19:01:03 --> Helper loaded: language_helper
+INFO - 2015-10-26 19:01:03 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-26 19:01:03 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-26 19:01:03 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-26 19:01:03 --> Config file loaded: C:\xampp\htdocs\team\application\config/aauth.php
+INFO - 2015-10-26 19:01:03 --> Database Driver Class Initialized
+INFO - 2015-10-26 19:01:03 --> Helper loaded: form_helper
+INFO - 2015-10-26 19:01:03 --> Form Validation Class Initialized
+INFO - 2015-10-26 19:01:03 --> Parser Class Initialized
+INFO - 2015-10-26 19:01:03 --> Controller Class Initialized
+DEBUG - 2015-10-26 19:01:03 --> Aauth class already loaded. Second attempt ignored.
+INFO - 2015-10-26 19:01:03 --> Upload Class Initialized
+INFO - 2015-10-26 19:01:03 --> Image Lib Class Initialized
+INFO - 2015-10-26 19:01:03 --> Model Class Initialized
+INFO - 2015-10-26 19:01:03 --> Model Class Initialized
+INFO - 2015-10-26 19:01:04 --> Model Class Initialized
+INFO - 2015-10-26 19:01:04 --> Model Class Initialized
+INFO - 2015-10-26 19:01:04 --> Model Class Initialized
+INFO - 2015-10-26 19:01:04 --> File loaded: C:\xampp\htdocs\team\application\views\camera/layout/header.php
+INFO - 2015-10-26 19:01:04 --> File loaded: C:\xampp\htdocs\team\application\views\camera/contest.php
+INFO - 2015-10-26 19:01:04 --> File loaded: C:\xampp\htdocs\team\application\views\camera/layout/footer.php
+INFO - 2015-10-26 19:01:05 --> Final output sent to browser
+DEBUG - 2015-10-26 19:01:05 --> Total execution time: 3.4331
+INFO - 2015-10-26 19:01:06 --> Config Class Initialized
+INFO - 2015-10-26 19:01:07 --> Hooks Class Initialized
+DEBUG - 2015-10-26 19:01:07 --> UTF-8 Support Enabled
+INFO - 2015-10-26 19:01:07 --> Utf8 Class Initialized
+INFO - 2015-10-26 19:01:08 --> URI Class Initialized
+INFO - 2015-10-26 19:01:08 --> Router Class Initialized
+INFO - 2015-10-26 19:01:08 --> Output Class Initialized
+INFO - 2015-10-26 19:01:08 --> Security Class Initialized
+DEBUG - 2015-10-26 19:01:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-26 19:01:08 --> Input Class Initialized
+INFO - 2015-10-26 19:01:08 --> Language Class Initialized
+INFO - 2015-10-26 19:01:08 --> Loader Class Initialized
+INFO - 2015-10-26 19:01:09 --> Helper loaded: url_helper
+INFO - 2015-10-26 19:01:09 --> Helper loaded: thumb_helper
+INFO - 2015-10-26 19:01:09 --> Database Driver Class Initialized
+INFO - 2015-10-26 19:01:09 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-26 19:01:09 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-26 19:01:09 --> Email Class Initialized
+INFO - 2015-10-26 19:01:09 --> Helper loaded: string_helper
+INFO - 2015-10-26 19:01:09 --> Helper loaded: email_helper
+INFO - 2015-10-26 19:01:09 --> Helper loaded: language_helper
+INFO - 2015-10-26 19:01:09 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-26 19:01:10 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-26 19:01:10 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-26 19:01:10 --> Config file loaded: C:\xampp\htdocs\team\application\config/aauth.php
+INFO - 2015-10-26 19:01:10 --> Database Driver Class Initialized
+INFO - 2015-10-26 19:01:10 --> Helper loaded: form_helper
+INFO - 2015-10-26 19:01:10 --> Form Validation Class Initialized
+INFO - 2015-10-26 19:01:10 --> Parser Class Initialized
+INFO - 2015-10-26 19:01:10 --> Controller Class Initialized
+INFO - 2015-10-26 19:01:10 --> File loaded: C:\xampp\htdocs\team\application\views\layout/header.php
+INFO - 2015-10-26 19:01:10 --> File loaded: C:\xampp\htdocs\team\application\views\errors/html/custom.php
+ERROR - 2015-10-26 19:01:10 --> Severity: Notice --> Undefined variable: gender C:\xampp\htdocs\team\application\views\layout\footer.php 158
+ERROR - 2015-10-26 19:01:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 158
+ERROR - 2015-10-26 19:01:10 --> Severity: Notice --> Undefined variable: state C:\xampp\htdocs\team\application\views\layout\footer.php 166
+ERROR - 2015-10-26 19:01:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 166
+INFO - 2015-10-26 19:01:10 --> File loaded: C:\xampp\htdocs\team\application\views\layout/footer.php
+INFO - 2015-10-26 19:01:10 --> Final output sent to browser
+DEBUG - 2015-10-26 19:01:10 --> Total execution time: 4.7223
+INFO - 2015-10-26 19:01:28 --> Config Class Initialized
+INFO - 2015-10-26 19:01:28 --> Hooks Class Initialized
+DEBUG - 2015-10-26 19:01:28 --> UTF-8 Support Enabled
+INFO - 2015-10-26 19:01:28 --> Utf8 Class Initialized
+INFO - 2015-10-26 19:01:28 --> URI Class Initialized
+INFO - 2015-10-26 19:01:28 --> Router Class Initialized
+INFO - 2015-10-26 19:01:28 --> Output Class Initialized
+INFO - 2015-10-26 19:01:28 --> Security Class Initialized
+DEBUG - 2015-10-26 19:01:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-26 19:01:29 --> Input Class Initialized
+INFO - 2015-10-26 19:01:29 --> Language Class Initialized
+INFO - 2015-10-26 19:01:29 --> Loader Class Initialized
+INFO - 2015-10-26 19:01:29 --> Helper loaded: url_helper
+INFO - 2015-10-26 19:01:29 --> Helper loaded: thumb_helper
+INFO - 2015-10-26 19:01:30 --> Database Driver Class Initialized
+INFO - 2015-10-26 19:01:30 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-26 19:01:30 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-26 19:01:30 --> Email Class Initialized
+INFO - 2015-10-26 19:01:30 --> Helper loaded: string_helper
+INFO - 2015-10-26 19:01:30 --> Helper loaded: email_helper
+INFO - 2015-10-26 19:01:31 --> Helper loaded: language_helper
+INFO - 2015-10-26 19:01:31 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-26 19:01:31 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-26 19:01:32 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-26 19:01:32 --> Config file loaded: C:\xampp\htdocs\team\application\config/aauth.php
+INFO - 2015-10-26 19:01:32 --> Database Driver Class Initialized
+INFO - 2015-10-26 19:01:32 --> Helper loaded: form_helper
+INFO - 2015-10-26 19:01:32 --> Form Validation Class Initialized
+INFO - 2015-10-26 19:01:32 --> Parser Class Initialized
+INFO - 2015-10-26 19:01:32 --> Controller Class Initialized
+DEBUG - 2015-10-26 19:01:32 --> Aauth class already loaded. Second attempt ignored.
+INFO - 2015-10-26 19:01:32 --> Upload Class Initialized
+INFO - 2015-10-26 19:01:33 --> Image Lib Class Initialized
+INFO - 2015-10-26 19:01:33 --> Model Class Initialized
+INFO - 2015-10-26 19:01:33 --> Model Class Initialized
+INFO - 2015-10-26 19:01:33 --> Model Class Initialized
+INFO - 2015-10-26 19:01:33 --> Model Class Initialized
+INFO - 2015-10-26 19:01:33 --> Model Class Initialized
+INFO - 2015-10-26 19:01:34 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-10-26 19:01:34 --> Pagination Class Initialized
+INFO - 2015-10-26 19:01:34 --> File loaded: C:\xampp\htdocs\team\application\views\camera/layout/header.php
+INFO - 2015-10-26 19:01:34 --> File loaded: C:\xampp\htdocs\team\application\views\camera/index.php
+INFO - 2015-10-26 19:01:35 --> File loaded: C:\xampp\htdocs\team\application\views\camera/layout/footer.php
+INFO - 2015-10-26 19:01:35 --> Final output sent to browser
+DEBUG - 2015-10-26 19:01:36 --> Total execution time: 7.1412
+INFO - 2015-10-26 19:01:36 --> Config Class Initialized
+INFO - 2015-10-26 19:01:36 --> Hooks Class Initialized
+DEBUG - 2015-10-26 19:01:36 --> UTF-8 Support Enabled
+INFO - 2015-10-26 19:01:37 --> Utf8 Class Initialized
+INFO - 2015-10-26 19:01:37 --> URI Class Initialized
+INFO - 2015-10-26 19:01:37 --> Router Class Initialized
+INFO - 2015-10-26 19:01:37 --> Output Class Initialized
+INFO - 2015-10-26 19:01:37 --> Security Class Initialized
+DEBUG - 2015-10-26 19:01:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-26 19:01:38 --> Input Class Initialized
+INFO - 2015-10-26 19:01:38 --> Language Class Initialized
+INFO - 2015-10-26 19:01:38 --> Loader Class Initialized
+INFO - 2015-10-26 19:01:38 --> Helper loaded: url_helper
+INFO - 2015-10-26 19:01:38 --> Helper loaded: thumb_helper
+INFO - 2015-10-26 19:01:39 --> Database Driver Class Initialized
+INFO - 2015-10-26 19:01:39 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-26 19:01:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-26 19:01:39 --> Email Class Initialized
+INFO - 2015-10-26 19:01:39 --> Helper loaded: string_helper
+INFO - 2015-10-26 19:01:39 --> Helper loaded: email_helper
+INFO - 2015-10-26 19:01:39 --> Helper loaded: language_helper
+INFO - 2015-10-26 19:01:39 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-26 19:01:40 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-26 19:01:40 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-26 19:01:40 --> Config file loaded: C:\xampp\htdocs\team\application\config/aauth.php
+INFO - 2015-10-26 19:01:40 --> Database Driver Class Initialized
+INFO - 2015-10-26 19:01:40 --> Helper loaded: form_helper
+INFO - 2015-10-26 19:01:40 --> Form Validation Class Initialized
+INFO - 2015-10-26 19:01:40 --> Parser Class Initialized
+INFO - 2015-10-26 19:01:41 --> Controller Class Initialized
+INFO - 2015-10-26 19:01:41 --> File loaded: C:\xampp\htdocs\team\application\views\layout/header.php
+INFO - 2015-10-26 19:01:41 --> File loaded: C:\xampp\htdocs\team\application\views\errors/html/custom.php
+ERROR - 2015-10-26 19:01:41 --> Severity: Notice --> Undefined variable: gender C:\xampp\htdocs\team\application\views\layout\footer.php 158
+ERROR - 2015-10-26 19:01:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 158
+ERROR - 2015-10-26 19:01:41 --> Severity: Notice --> Undefined variable: state C:\xampp\htdocs\team\application\views\layout\footer.php 166
+ERROR - 2015-10-26 19:01:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 166
+INFO - 2015-10-26 19:01:41 --> File loaded: C:\xampp\htdocs\team\application\views\layout/footer.php
+INFO - 2015-10-26 19:01:41 --> Final output sent to browser
+DEBUG - 2015-10-26 19:01:41 --> Total execution time: 5.7585
+INFO - 2015-10-26 19:01:48 --> Config Class Initialized
+INFO - 2015-10-26 19:01:48 --> Hooks Class Initialized
+DEBUG - 2015-10-26 19:01:48 --> UTF-8 Support Enabled
+INFO - 2015-10-26 19:01:48 --> Utf8 Class Initialized
+INFO - 2015-10-26 19:01:48 --> URI Class Initialized
+INFO - 2015-10-26 19:01:48 --> Router Class Initialized
+INFO - 2015-10-26 19:01:48 --> Output Class Initialized
+INFO - 2015-10-26 19:01:48 --> Security Class Initialized
+DEBUG - 2015-10-26 19:01:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-26 19:01:48 --> Input Class Initialized
+INFO - 2015-10-26 19:01:49 --> Language Class Initialized
+INFO - 2015-10-26 19:01:49 --> Loader Class Initialized
+INFO - 2015-10-26 19:01:49 --> Helper loaded: url_helper
+INFO - 2015-10-26 19:01:49 --> Helper loaded: thumb_helper
+INFO - 2015-10-26 19:01:50 --> Database Driver Class Initialized
+INFO - 2015-10-26 19:01:50 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-26 19:01:50 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-26 19:01:50 --> Email Class Initialized
+INFO - 2015-10-26 19:01:51 --> Helper loaded: string_helper
+INFO - 2015-10-26 19:01:51 --> Helper loaded: email_helper
+INFO - 2015-10-26 19:01:51 --> Helper loaded: language_helper
+INFO - 2015-10-26 19:01:51 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-26 19:01:51 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-26 19:01:51 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-26 19:01:52 --> Config file loaded: C:\xampp\htdocs\team\application\config/aauth.php
+INFO - 2015-10-26 19:01:52 --> Database Driver Class Initialized
+INFO - 2015-10-26 19:01:52 --> Helper loaded: form_helper
+INFO - 2015-10-26 19:01:52 --> Form Validation Class Initialized
+INFO - 2015-10-26 19:01:52 --> Parser Class Initialized
+INFO - 2015-10-26 19:01:52 --> Controller Class Initialized
+INFO - 2015-10-26 19:01:53 --> File loaded: C:\xampp\htdocs\team\application\views\layout/header.php
+INFO - 2015-10-26 19:01:53 --> File loaded: C:\xampp\htdocs\team\application\views\errors/html/custom.php
+ERROR - 2015-10-26 19:01:53 --> Severity: Notice --> Undefined variable: gender C:\xampp\htdocs\team\application\views\layout\footer.php 158
+ERROR - 2015-10-26 19:01:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 158
+ERROR - 2015-10-26 19:01:53 --> Severity: Notice --> Undefined variable: state C:\xampp\htdocs\team\application\views\layout\footer.php 166
+ERROR - 2015-10-26 19:01:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 166
+INFO - 2015-10-26 19:01:53 --> File loaded: C:\xampp\htdocs\team\application\views\layout/footer.php
+INFO - 2015-10-26 19:01:54 --> Final output sent to browser
+DEBUG - 2015-10-26 19:01:54 --> Total execution time: 5.6962
+INFO - 2015-10-26 19:01:55 --> Config Class Initialized
+INFO - 2015-10-26 19:01:55 --> Config Class Initialized
+INFO - 2015-10-26 19:01:56 --> Config Class Initialized
+INFO - 2015-10-26 19:01:56 --> Hooks Class Initialized
+INFO - 2015-10-26 19:01:56 --> Hooks Class Initialized
+INFO - 2015-10-26 19:01:56 --> Config Class Initialized
+DEBUG - 2015-10-26 19:01:56 --> UTF-8 Support Enabled
+INFO - 2015-10-26 19:01:56 --> Utf8 Class Initialized
+INFO - 2015-10-26 19:01:56 --> URI Class Initialized
+INFO - 2015-10-26 19:01:56 --> Router Class Initialized
+INFO - 2015-10-26 19:01:57 --> Hooks Class Initialized
+DEBUG - 2015-10-26 19:01:57 --> UTF-8 Support Enabled
+DEBUG - 2015-10-26 19:01:57 --> UTF-8 Support Enabled
+INFO - 2015-10-26 19:01:57 --> Utf8 Class Initialized
+INFO - 2015-10-26 19:01:57 --> URI Class Initialized
+INFO - 2015-10-26 19:01:57 --> Output Class Initialized
+INFO - 2015-10-26 19:01:58 --> Hooks Class Initialized
+INFO - 2015-10-26 19:01:58 --> Security Class Initialized
+DEBUG - 2015-10-26 19:01:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-26 19:01:58 --> Input Class Initialized
+INFO - 2015-10-26 19:01:58 --> Language Class Initialized
+INFO - 2015-10-26 19:01:58 --> Loader Class Initialized
+INFO - 2015-10-26 19:01:58 --> Helper loaded: url_helper
+INFO - 2015-10-26 19:01:58 --> Helper loaded: thumb_helper
+INFO - 2015-10-26 19:01:58 --> Router Class Initialized
+INFO - 2015-10-26 19:01:58 --> Output Class Initialized
+INFO - 2015-10-26 19:01:59 --> Security Class Initialized
+INFO - 2015-10-26 19:01:59 --> Utf8 Class Initialized
+DEBUG - 2015-10-26 19:01:59 --> UTF-8 Support Enabled
+INFO - 2015-10-26 19:01:59 --> URI Class Initialized
+DEBUG - 2015-10-26 19:01:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-26 19:01:59 --> Database Driver Class Initialized
+INFO - 2015-10-26 19:01:59 --> Router Class Initialized
+INFO - 2015-10-26 19:01:59 --> Output Class Initialized
+INFO - 2015-10-26 19:01:59 --> Security Class Initialized
+DEBUG - 2015-10-26 19:01:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-26 19:01:59 --> Input Class Initialized
+INFO - 2015-10-26 19:01:59 --> Language Class Initialized
+INFO - 2015-10-26 19:01:59 --> Loader Class Initialized
+INFO - 2015-10-26 19:01:59 --> Utf8 Class Initialized
+INFO - 2015-10-26 19:01:59 --> Helper loaded: url_helper
+INFO - 2015-10-26 19:01:59 --> URI Class Initialized
+INFO - 2015-10-26 19:01:59 --> Session: Class initialized using 'files' driver.
+INFO - 2015-10-26 19:01:59 --> Router Class Initialized
+INFO - 2015-10-26 19:01:59 --> Input Class Initialized
+DEBUG - 2015-10-26 19:02:00 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-26 19:02:00 --> Email Class Initialized
+INFO - 2015-10-26 19:02:00 --> Helper loaded: string_helper
+INFO - 2015-10-26 19:02:00 --> Helper loaded: email_helper
+INFO - 2015-10-26 19:02:00 --> Helper loaded: language_helper
+INFO - 2015-10-26 19:02:00 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-26 19:02:00 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-26 19:02:00 --> Language file loaded: language/english/aauth_lang.php
+INFO - 2015-10-26 19:02:00 --> Helper loaded: thumb_helper
+DEBUG - 2015-10-26 19:02:00 --> Config file loaded: C:\xampp\htdocs\team\application\config/aauth.php
+INFO - 2015-10-26 19:02:00 --> Database Driver Class Initialized
+INFO - 2015-10-26 19:02:00 --> Output Class Initialized
+INFO - 2015-10-26 19:02:00 --> Database Driver Class Initialized
+INFO - 2015-10-26 19:02:00 --> Language Class Initialized
+INFO - 2015-10-26 19:02:01 --> Helper loaded: form_helper
+INFO - 2015-10-26 19:02:01 --> Loader Class Initialized
+INFO - 2015-10-26 19:02:01 --> Form Validation Class Initialized
+INFO - 2015-10-26 19:02:01 --> Parser Class Initialized
+INFO - 2015-10-26 19:02:01 --> Controller Class Initialized
+INFO - 2015-10-26 19:02:01 --> File loaded: C:\xampp\htdocs\team\application\views\layout/header.php
+INFO - 2015-10-26 19:02:01 --> Security Class Initialized
+DEBUG - 2015-10-26 19:02:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-26 19:02:01 --> Input Class Initialized
+INFO - 2015-10-26 19:02:01 --> Language Class Initialized
+INFO - 2015-10-26 19:02:01 --> File loaded: C:\xampp\htdocs\team\application\views\errors/html/custom.php
+ERROR - 2015-10-26 19:02:02 --> Severity: Notice --> Undefined variable: gender C:\xampp\htdocs\team\application\views\layout\footer.php 158
+INFO - 2015-10-26 19:02:02 --> Helper loaded: url_helper
+INFO - 2015-10-26 19:02:02 --> Loader Class Initialized
+INFO - 2015-10-26 19:02:02 --> Helper loaded: url_helper
+INFO - 2015-10-26 19:02:02 --> Helper loaded: thumb_helper
+INFO - 2015-10-26 19:02:03 --> Database Driver Class Initialized
+INFO - 2015-10-26 19:02:03 --> Config Class Initialized
+INFO - 2015-10-26 19:02:03 --> Hooks Class Initialized
+DEBUG - 2015-10-26 19:02:04 --> UTF-8 Support Enabled
+INFO - 2015-10-26 19:02:04 --> Utf8 Class Initialized
+INFO - 2015-10-26 19:02:04 --> URI Class Initialized
+INFO - 2015-10-26 19:02:04 --> Router Class Initialized
+INFO - 2015-10-26 19:02:04 --> Output Class Initialized
+ERROR - 2015-10-26 19:02:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 158
+INFO - 2015-10-26 19:02:04 --> Helper loaded: thumb_helper
+INFO - 2015-10-26 19:02:05 --> Security Class Initialized
+DEBUG - 2015-10-26 19:02:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-26 19:02:05 --> Input Class Initialized
+INFO - 2015-10-26 19:02:05 --> Language Class Initialized
+INFO - 2015-10-26 19:02:05 --> Loader Class Initialized
+INFO - 2015-10-26 19:02:05 --> Helper loaded: url_helper
+INFO - 2015-10-26 19:02:05 --> Helper loaded: thumb_helper
+INFO - 2015-10-26 19:02:05 --> Database Driver Class Initialized
+ERROR - 2015-10-26 19:02:05 --> Severity: Notice --> Undefined variable: state C:\xampp\htdocs\team\application\views\layout\footer.php 166
+ERROR - 2015-10-26 19:02:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 166
+INFO - 2015-10-26 19:02:06 --> File loaded: C:\xampp\htdocs\team\application\views\layout/footer.php
+INFO - 2015-10-26 19:02:06 --> Final output sent to browser
+DEBUG - 2015-10-26 19:02:06 --> Total execution time: 11.2690
+INFO - 2015-10-26 19:02:06 --> Session: Class initialized using 'files' driver.
+INFO - 2015-10-26 19:02:06 --> Database Driver Class Initialized
+DEBUG - 2015-10-26 19:02:06 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-26 19:02:06 --> Email Class Initialized
+INFO - 2015-10-26 19:02:06 --> Helper loaded: string_helper
+INFO - 2015-10-26 19:02:06 --> Helper loaded: email_helper
+INFO - 2015-10-26 19:02:06 --> Helper loaded: language_helper
+INFO - 2015-10-26 19:02:07 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-26 19:02:07 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-26 19:02:07 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-26 19:02:07 --> Config file loaded: C:\xampp\htdocs\team\application\config/aauth.php
+INFO - 2015-10-26 19:02:07 --> Database Driver Class Initialized
+INFO - 2015-10-26 19:02:07 --> Helper loaded: form_helper
+INFO - 2015-10-26 19:02:07 --> Form Validation Class Initialized
+INFO - 2015-10-26 19:02:07 --> Parser Class Initialized
+INFO - 2015-10-26 19:02:07 --> Controller Class Initialized
+INFO - 2015-10-26 19:02:07 --> File loaded: C:\xampp\htdocs\team\application\views\layout/header.php
+INFO - 2015-10-26 19:02:08 --> File loaded: C:\xampp\htdocs\team\application\views\errors/html/custom.php
+ERROR - 2015-10-26 19:02:08 --> Severity: Notice --> Undefined variable: gender C:\xampp\htdocs\team\application\views\layout\footer.php 158
+ERROR - 2015-10-26 19:02:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 158
+ERROR - 2015-10-26 19:02:08 --> Severity: Notice --> Undefined variable: state C:\xampp\htdocs\team\application\views\layout\footer.php 166
+ERROR - 2015-10-26 19:02:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 166
+INFO - 2015-10-26 19:02:08 --> File loaded: C:\xampp\htdocs\team\application\views\layout/footer.php
+INFO - 2015-10-26 19:02:08 --> Final output sent to browser
+DEBUG - 2015-10-26 19:02:08 --> Total execution time: 13.4771
+INFO - 2015-10-26 19:02:08 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-26 19:02:08 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-26 19:02:09 --> Email Class Initialized
+INFO - 2015-10-26 19:02:09 --> Helper loaded: string_helper
+INFO - 2015-10-26 19:02:09 --> Helper loaded: email_helper
+INFO - 2015-10-26 19:02:09 --> Helper loaded: language_helper
+INFO - 2015-10-26 19:02:09 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-26 19:02:10 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-26 19:02:10 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-26 19:02:10 --> Config file loaded: C:\xampp\htdocs\team\application\config/aauth.php
+INFO - 2015-10-26 19:02:10 --> Database Driver Class Initialized
+INFO - 2015-10-26 19:02:11 --> Helper loaded: form_helper
+INFO - 2015-10-26 19:02:11 --> Form Validation Class Initialized
+INFO - 2015-10-26 19:02:11 --> Parser Class Initialized
+INFO - 2015-10-26 19:02:11 --> Controller Class Initialized
+INFO - 2015-10-26 19:02:11 --> File loaded: C:\xampp\htdocs\team\application\views\layout/header.php
+INFO - 2015-10-26 19:02:11 --> File loaded: C:\xampp\htdocs\team\application\views\errors/html/custom.php
+ERROR - 2015-10-26 19:02:12 --> Severity: Notice --> Undefined variable: gender C:\xampp\htdocs\team\application\views\layout\footer.php 158
+ERROR - 2015-10-26 19:02:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 158
+ERROR - 2015-10-26 19:02:12 --> Severity: Notice --> Undefined variable: state C:\xampp\htdocs\team\application\views\layout\footer.php 166
+ERROR - 2015-10-26 19:02:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 166
+INFO - 2015-10-26 19:02:12 --> File loaded: C:\xampp\htdocs\team\application\views\layout/footer.php
+INFO - 2015-10-26 19:02:12 --> Final output sent to browser
+DEBUG - 2015-10-26 19:02:13 --> Total execution time: 16.9273
+INFO - 2015-10-26 19:02:13 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-26 19:02:13 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-26 19:02:13 --> Email Class Initialized
+INFO - 2015-10-26 19:02:13 --> Helper loaded: string_helper
+INFO - 2015-10-26 19:02:13 --> Helper loaded: email_helper
+INFO - 2015-10-26 19:02:13 --> Helper loaded: language_helper
+INFO - 2015-10-26 19:02:13 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-26 19:02:14 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-26 19:02:14 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-26 19:02:14 --> Config file loaded: C:\xampp\htdocs\team\application\config/aauth.php
+INFO - 2015-10-26 19:02:14 --> Database Driver Class Initialized
+INFO - 2015-10-26 19:02:14 --> Helper loaded: form_helper
+INFO - 2015-10-26 19:02:15 --> Form Validation Class Initialized
+INFO - 2015-10-26 19:02:15 --> Parser Class Initialized
+INFO - 2015-10-26 19:02:15 --> Controller Class Initialized
+DEBUG - 2015-10-26 19:02:15 --> Aauth class already loaded. Second attempt ignored.
+INFO - 2015-10-26 19:02:15 --> Upload Class Initialized
+INFO - 2015-10-26 19:02:15 --> Image Lib Class Initialized
+INFO - 2015-10-26 19:02:15 --> Model Class Initialized
+INFO - 2015-10-26 19:02:15 --> Model Class Initialized
+INFO - 2015-10-26 19:02:16 --> Model Class Initialized
+INFO - 2015-10-26 19:02:16 --> Model Class Initialized
+INFO - 2015-10-26 19:02:16 --> Model Class Initialized
+INFO - 2015-10-26 19:02:16 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-10-26 19:02:16 --> Pagination Class Initialized
+INFO - 2015-10-26 19:02:16 --> File loaded: C:\xampp\htdocs\team\application\views\camera/layout/header.php
+INFO - 2015-10-26 19:02:16 --> File loaded: C:\xampp\htdocs\team\application\views\camera/index.php
+INFO - 2015-10-26 19:02:17 --> File loaded: C:\xampp\htdocs\team\application\views\camera/layout/footer.php
+INFO - 2015-10-26 19:02:17 --> Final output sent to browser
+DEBUG - 2015-10-26 19:02:18 --> Total execution time: 14.9363
+INFO - 2015-10-26 19:02:18 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-26 19:02:18 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-26 19:02:18 --> Email Class Initialized
+INFO - 2015-10-26 19:02:18 --> Helper loaded: string_helper
+INFO - 2015-10-26 19:02:18 --> Helper loaded: email_helper
+INFO - 2015-10-26 19:02:18 --> Helper loaded: language_helper
+INFO - 2015-10-26 19:02:18 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-26 19:02:19 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-26 19:02:19 --> Language file loaded: language/english/aauth_lang.php
+INFO - 2015-10-26 19:02:19 --> Config Class Initialized
+DEBUG - 2015-10-26 19:02:19 --> Config file loaded: C:\xampp\htdocs\team\application\config/aauth.php
+INFO - 2015-10-26 19:02:19 --> Database Driver Class Initialized
+INFO - 2015-10-26 19:02:19 --> Helper loaded: form_helper
+INFO - 2015-10-26 19:02:19 --> Form Validation Class Initialized
+INFO - 2015-10-26 19:02:19 --> Parser Class Initialized
+INFO - 2015-10-26 19:02:20 --> Controller Class Initialized
+INFO - 2015-10-26 19:02:20 --> File loaded: C:\xampp\htdocs\team\application\views\layout/header.php
+INFO - 2015-10-26 19:02:20 --> File loaded: C:\xampp\htdocs\team\application\views\errors/html/custom.php
+INFO - 2015-10-26 19:02:20 --> Hooks Class Initialized
+DEBUG - 2015-10-26 19:02:20 --> UTF-8 Support Enabled
+INFO - 2015-10-26 19:02:21 --> Utf8 Class Initialized
+INFO - 2015-10-26 19:02:21 --> URI Class Initialized
+INFO - 2015-10-26 19:02:21 --> Router Class Initialized
+INFO - 2015-10-26 19:02:21 --> Output Class Initialized
+INFO - 2015-10-26 19:02:21 --> Security Class Initialized
+DEBUG - 2015-10-26 19:02:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-26 19:02:21 --> Input Class Initialized
+INFO - 2015-10-26 19:02:21 --> Config Class Initialized
+ERROR - 2015-10-26 19:02:21 --> Severity: Notice --> Undefined variable: gender C:\xampp\htdocs\team\application\views\layout\footer.php 158
+INFO - 2015-10-26 19:02:21 --> Language Class Initialized
+INFO - 2015-10-26 19:02:21 --> Hooks Class Initialized
+DEBUG - 2015-10-26 19:02:21 --> UTF-8 Support Enabled
+INFO - 2015-10-26 19:02:21 --> Utf8 Class Initialized
+INFO - 2015-10-26 19:02:22 --> URI Class Initialized
+INFO - 2015-10-26 19:02:22 --> Router Class Initialized
+INFO - 2015-10-26 19:02:22 --> Output Class Initialized
+INFO - 2015-10-26 19:02:22 --> Security Class Initialized
+DEBUG - 2015-10-26 19:02:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-26 19:02:22 --> Input Class Initialized
+INFO - 2015-10-26 19:02:22 --> Language Class Initialized
+ERROR - 2015-10-26 19:02:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 158
+INFO - 2015-10-26 19:02:22 --> Loader Class Initialized
+INFO - 2015-10-26 19:02:22 --> Loader Class Initialized
+INFO - 2015-10-26 19:02:22 --> Helper loaded: url_helper
+INFO - 2015-10-26 19:02:22 --> Helper loaded: thumb_helper
+ERROR - 2015-10-26 19:02:23 --> Severity: Notice --> Undefined variable: state C:\xampp\htdocs\team\application\views\layout\footer.php 166
+ERROR - 2015-10-26 19:02:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 166
+INFO - 2015-10-26 19:02:23 --> File loaded: C:\xampp\htdocs\team\application\views\layout/footer.php
+INFO - 2015-10-26 19:02:23 --> Final output sent to browser
+DEBUG - 2015-10-26 19:02:23 --> Total execution time: 27.3867
+INFO - 2015-10-26 19:02:23 --> Helper loaded: url_helper
+INFO - 2015-10-26 19:02:23 --> Helper loaded: thumb_helper
+INFO - 2015-10-26 19:02:23 --> Database Driver Class Initialized
+INFO - 2015-10-26 19:02:23 --> Session: Class initialized using 'files' driver.
+INFO - 2015-10-26 19:02:23 --> Database Driver Class Initialized
+DEBUG - 2015-10-26 19:02:23 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-26 19:02:23 --> Email Class Initialized
+INFO - 2015-10-26 19:02:23 --> Helper loaded: string_helper
+INFO - 2015-10-26 19:02:23 --> Helper loaded: email_helper
+INFO - 2015-10-26 19:02:23 --> Helper loaded: language_helper
+INFO - 2015-10-26 19:02:23 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-26 19:02:24 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-26 19:02:24 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-26 19:02:24 --> Config file loaded: C:\xampp\htdocs\team\application\config/aauth.php
+INFO - 2015-10-26 19:02:24 --> Database Driver Class Initialized
+INFO - 2015-10-26 19:02:24 --> Helper loaded: form_helper
+INFO - 2015-10-26 19:02:24 --> Form Validation Class Initialized
+INFO - 2015-10-26 19:02:24 --> Parser Class Initialized
+INFO - 2015-10-26 19:02:24 --> Controller Class Initialized
+DEBUG - 2015-10-26 19:02:24 --> Aauth class already loaded. Second attempt ignored.
+INFO - 2015-10-26 19:02:25 --> Upload Class Initialized
+INFO - 2015-10-26 19:02:25 --> Image Lib Class Initialized
+INFO - 2015-10-26 19:02:25 --> Model Class Initialized
+INFO - 2015-10-26 19:02:25 --> Model Class Initialized
+INFO - 2015-10-26 19:02:25 --> Model Class Initialized
+INFO - 2015-10-26 19:02:25 --> Model Class Initialized
+INFO - 2015-10-26 19:02:25 --> Model Class Initialized
+INFO - 2015-10-26 19:02:26 --> File loaded: C:\xampp\htdocs\team\application\views\camera/layout/header.php
+INFO - 2015-10-26 19:02:26 --> File loaded: C:\xampp\htdocs\team\application\views\camera/display_photos.php
+INFO - 2015-10-26 19:02:26 --> File loaded: C:\xampp\htdocs\team\application\views\camera/layout/footer.php
+INFO - 2015-10-26 19:02:26 --> Final output sent to browser
+DEBUG - 2015-10-26 19:02:26 --> Total execution time: 6.0605
+INFO - 2015-10-26 19:02:27 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-26 19:02:27 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-26 19:02:28 --> Email Class Initialized
+INFO - 2015-10-26 19:02:28 --> Helper loaded: string_helper
+INFO - 2015-10-26 19:02:28 --> Helper loaded: email_helper
+INFO - 2015-10-26 19:02:28 --> Helper loaded: language_helper
+INFO - 2015-10-26 19:02:28 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-26 19:02:28 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-26 19:02:29 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-26 19:02:29 --> Config file loaded: C:\xampp\htdocs\team\application\config/aauth.php
+INFO - 2015-10-26 19:02:29 --> Database Driver Class Initialized
+INFO - 2015-10-26 19:02:29 --> Helper loaded: form_helper
+INFO - 2015-10-26 19:02:29 --> Form Validation Class Initialized
+INFO - 2015-10-26 19:02:30 --> Parser Class Initialized
+INFO - 2015-10-26 19:02:30 --> Controller Class Initialized
+INFO - 2015-10-26 19:02:30 --> File loaded: C:\xampp\htdocs\team\application\views\layout/header.php
+INFO - 2015-10-26 19:02:30 --> File loaded: C:\xampp\htdocs\team\application\views\errors/html/custom.php
+ERROR - 2015-10-26 19:02:30 --> Severity: Notice --> Undefined variable: gender C:\xampp\htdocs\team\application\views\layout\footer.php 158
+ERROR - 2015-10-26 19:02:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 158
+ERROR - 2015-10-26 19:02:31 --> Severity: Notice --> Undefined variable: state C:\xampp\htdocs\team\application\views\layout\footer.php 166
+ERROR - 2015-10-26 19:02:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 166
+INFO - 2015-10-26 19:02:31 --> File loaded: C:\xampp\htdocs\team\application\views\layout/footer.php
+INFO - 2015-10-26 19:02:31 --> Config Class Initialized
+INFO - 2015-10-26 19:02:31 --> Hooks Class Initialized
+DEBUG - 2015-10-26 19:02:31 --> UTF-8 Support Enabled
+INFO - 2015-10-26 19:02:31 --> Utf8 Class Initialized
+INFO - 2015-10-26 19:02:31 --> URI Class Initialized
+INFO - 2015-10-26 19:02:32 --> Router Class Initialized
+INFO - 2015-10-26 19:02:32 --> Final output sent to browser
+DEBUG - 2015-10-26 19:02:32 --> Total execution time: 13.6391
+INFO - 2015-10-26 19:02:32 --> Config Class Initialized
+INFO - 2015-10-26 19:02:32 --> Hooks Class Initialized
+DEBUG - 2015-10-26 19:02:32 --> UTF-8 Support Enabled
+INFO - 2015-10-26 19:02:32 --> Output Class Initialized
+INFO - 2015-10-26 19:02:32 --> Utf8 Class Initialized
+INFO - 2015-10-26 19:02:32 --> URI Class Initialized
+INFO - 2015-10-26 19:02:32 --> Security Class Initialized
+INFO - 2015-10-26 19:02:32 --> Router Class Initialized
+INFO - 2015-10-26 19:02:32 --> Output Class Initialized
+INFO - 2015-10-26 19:02:32 --> Security Class Initialized
+DEBUG - 2015-10-26 19:02:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-26 19:02:33 --> Input Class Initialized
+INFO - 2015-10-26 19:02:33 --> Language Class Initialized
+INFO - 2015-10-26 19:02:33 --> Loader Class Initialized
+INFO - 2015-10-26 19:02:33 --> Helper loaded: url_helper
+INFO - 2015-10-26 19:02:33 --> Helper loaded: thumb_helper
+DEBUG - 2015-10-26 19:02:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-26 19:02:34 --> Database Driver Class Initialized
+INFO - 2015-10-26 19:02:34 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-26 19:02:34 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-26 19:02:34 --> Email Class Initialized
+INFO - 2015-10-26 19:02:34 --> Helper loaded: string_helper
+INFO - 2015-10-26 19:02:34 --> Helper loaded: email_helper
+INFO - 2015-10-26 19:02:34 --> Helper loaded: language_helper
+INFO - 2015-10-26 19:02:34 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-26 19:02:34 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-26 19:02:34 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-26 19:02:35 --> Config file loaded: C:\xampp\htdocs\team\application\config/aauth.php
+INFO - 2015-10-26 19:02:35 --> Input Class Initialized
+INFO - 2015-10-26 19:02:35 --> Database Driver Class Initialized
+INFO - 2015-10-26 19:02:35 --> Helper loaded: form_helper
+INFO - 2015-10-26 19:02:35 --> Form Validation Class Initialized
+INFO - 2015-10-26 19:02:35 --> Parser Class Initialized
+INFO - 2015-10-26 19:02:35 --> Controller Class Initialized
+DEBUG - 2015-10-26 19:02:35 --> Aauth class already loaded. Second attempt ignored.
+INFO - 2015-10-26 19:02:35 --> Upload Class Initialized
+INFO - 2015-10-26 19:02:35 --> Image Lib Class Initialized
+INFO - 2015-10-26 19:02:35 --> Model Class Initialized
+INFO - 2015-10-26 19:02:35 --> Model Class Initialized
+INFO - 2015-10-26 19:02:36 --> Model Class Initialized
+INFO - 2015-10-26 19:02:36 --> Model Class Initialized
+INFO - 2015-10-26 19:02:36 --> Model Class Initialized
+INFO - 2015-10-26 19:02:36 --> File loaded: C:\xampp\htdocs\team\application\views\camera/layout/header.php
+INFO - 2015-10-26 19:02:36 --> Language Class Initialized
+INFO - 2015-10-26 19:02:36 --> Loader Class Initialized
+INFO - 2015-10-26 19:02:36 --> Helper loaded: url_helper
+INFO - 2015-10-26 19:02:36 --> Helper loaded: thumb_helper
+INFO - 2015-10-26 19:02:36 --> File loaded: C:\xampp\htdocs\team\application\views\camera/user_preview.php
+INFO - 2015-10-26 19:02:36 --> File loaded: C:\xampp\htdocs\team\application\views\camera/layout/footer.php
+INFO - 2015-10-26 19:02:37 --> Final output sent to browser
+DEBUG - 2015-10-26 19:02:37 --> Total execution time: 5.1658
+INFO - 2015-10-26 19:02:37 --> Config Class Initialized
+INFO - 2015-10-26 19:02:38 --> Hooks Class Initialized
+DEBUG - 2015-10-26 19:02:38 --> UTF-8 Support Enabled
+INFO - 2015-10-26 19:02:38 --> Database Driver Class Initialized
+INFO - 2015-10-26 19:02:38 --> Utf8 Class Initialized
+INFO - 2015-10-26 19:02:38 --> URI Class Initialized
+INFO - 2015-10-26 19:02:38 --> Router Class Initialized
+INFO - 2015-10-26 19:02:39 --> Output Class Initialized
+INFO - 2015-10-26 19:02:39 --> Security Class Initialized
+DEBUG - 2015-10-26 19:02:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-26 19:02:39 --> Input Class Initialized
+INFO - 2015-10-26 19:02:39 --> Language Class Initialized
+INFO - 2015-10-26 19:02:39 --> Loader Class Initialized
+INFO - 2015-10-26 19:02:39 --> Helper loaded: url_helper
+INFO - 2015-10-26 19:02:39 --> Session: Class initialized using 'files' driver.
+INFO - 2015-10-26 19:02:39 --> Helper loaded: thumb_helper
+INFO - 2015-10-26 19:02:40 --> Database Driver Class Initialized
+INFO - 2015-10-26 19:02:40 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-26 19:02:40 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-26 19:02:40 --> Email Class Initialized
+INFO - 2015-10-26 19:02:40 --> Helper loaded: string_helper
+INFO - 2015-10-26 19:02:40 --> Helper loaded: email_helper
+INFO - 2015-10-26 19:02:40 --> Helper loaded: language_helper
+INFO - 2015-10-26 19:02:41 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-26 19:02:41 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-26 19:02:41 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-26 19:02:41 --> Config file loaded: C:\xampp\htdocs\team\application\config/aauth.php
+DEBUG - 2015-10-26 19:02:41 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-26 19:02:41 --> Database Driver Class Initialized
+INFO - 2015-10-26 19:02:41 --> Helper loaded: form_helper
+INFO - 2015-10-26 19:02:41 --> Form Validation Class Initialized
+INFO - 2015-10-26 19:02:41 --> Parser Class Initialized
+INFO - 2015-10-26 19:02:41 --> Controller Class Initialized
+INFO - 2015-10-26 19:02:41 --> File loaded: C:\xampp\htdocs\team\application\views\layout/header.php
+INFO - 2015-10-26 19:02:41 --> File loaded: C:\xampp\htdocs\team\application\views\errors/html/custom.php
+ERROR - 2015-10-26 19:02:42 --> Severity: Notice --> Undefined variable: gender C:\xampp\htdocs\team\application\views\layout\footer.php 158
+ERROR - 2015-10-26 19:02:42 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 158
+ERROR - 2015-10-26 19:02:42 --> Severity: Notice --> Undefined variable: state C:\xampp\htdocs\team\application\views\layout\footer.php 166
+ERROR - 2015-10-26 19:02:42 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 166
+INFO - 2015-10-26 19:02:42 --> File loaded: C:\xampp\htdocs\team\application\views\layout/footer.php
+INFO - 2015-10-26 19:02:42 --> Email Class Initialized
+INFO - 2015-10-26 19:02:42 --> Final output sent to browser
+DEBUG - 2015-10-26 19:02:42 --> Total execution time: 5.0338
+INFO - 2015-10-26 19:02:42 --> Helper loaded: string_helper
+INFO - 2015-10-26 19:02:42 --> Helper loaded: email_helper
+INFO - 2015-10-26 19:02:42 --> Helper loaded: language_helper
+INFO - 2015-10-26 19:02:43 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-26 19:02:43 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-26 19:02:43 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-26 19:02:43 --> Config file loaded: C:\xampp\htdocs\team\application\config/aauth.php
+INFO - 2015-10-26 19:02:43 --> Database Driver Class Initialized
+INFO - 2015-10-26 19:02:43 --> Helper loaded: form_helper
+INFO - 2015-10-26 19:02:43 --> Form Validation Class Initialized
+INFO - 2015-10-26 19:02:43 --> Parser Class Initialized
+INFO - 2015-10-26 19:02:43 --> Controller Class Initialized
+INFO - 2015-10-26 19:02:43 --> File loaded: C:\xampp\htdocs\team\application\views\layout/header.php
+INFO - 2015-10-26 19:02:43 --> File loaded: C:\xampp\htdocs\team\application\views\errors/html/custom.php
+ERROR - 2015-10-26 19:02:44 --> Severity: Notice --> Undefined variable: gender C:\xampp\htdocs\team\application\views\layout\footer.php 158
+ERROR - 2015-10-26 19:02:44 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 158
+ERROR - 2015-10-26 19:02:44 --> Severity: Notice --> Undefined variable: state C:\xampp\htdocs\team\application\views\layout\footer.php 166
+ERROR - 2015-10-26 19:02:44 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 166
+INFO - 2015-10-26 19:02:44 --> File loaded: C:\xampp\htdocs\team\application\views\layout/footer.php
+INFO - 2015-10-26 19:02:44 --> Final output sent to browser
+DEBUG - 2015-10-26 19:02:44 --> Total execution time: 13.2097
+INFO - 2015-10-26 19:03:28 --> Config Class Initialized
+INFO - 2015-10-26 19:03:28 --> Hooks Class Initialized
+DEBUG - 2015-10-26 19:03:28 --> UTF-8 Support Enabled
+INFO - 2015-10-26 19:03:28 --> Utf8 Class Initialized
+INFO - 2015-10-26 19:03:28 --> URI Class Initialized
+INFO - 2015-10-26 19:03:28 --> Router Class Initialized
+INFO - 2015-10-26 19:03:29 --> Output Class Initialized
+INFO - 2015-10-26 19:03:29 --> Security Class Initialized
+DEBUG - 2015-10-26 19:03:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-26 19:03:30 --> Input Class Initialized
+INFO - 2015-10-26 19:03:30 --> Language Class Initialized
+INFO - 2015-10-26 19:03:30 --> Loader Class Initialized
+INFO - 2015-10-26 19:03:30 --> Helper loaded: url_helper
+INFO - 2015-10-26 19:03:30 --> Helper loaded: thumb_helper
+INFO - 2015-10-26 19:03:30 --> Database Driver Class Initialized
+INFO - 2015-10-26 19:03:30 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-26 19:03:30 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-26 19:03:31 --> Email Class Initialized
+INFO - 2015-10-26 19:03:31 --> Helper loaded: string_helper
+INFO - 2015-10-26 19:03:31 --> Helper loaded: email_helper
+INFO - 2015-10-26 19:03:31 --> Helper loaded: language_helper
+INFO - 2015-10-26 19:03:31 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-26 19:03:31 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-26 19:03:31 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-26 19:03:31 --> Config file loaded: C:\xampp\htdocs\team\application\config/aauth.php
+INFO - 2015-10-26 19:03:32 --> Database Driver Class Initialized
+INFO - 2015-10-26 19:03:32 --> Helper loaded: form_helper
+INFO - 2015-10-26 19:03:32 --> Form Validation Class Initialized
+INFO - 2015-10-26 19:03:32 --> Parser Class Initialized
+INFO - 2015-10-26 19:03:32 --> Controller Class Initialized
+DEBUG - 2015-10-26 19:03:32 --> Aauth class already loaded. Second attempt ignored.
+INFO - 2015-10-26 19:03:32 --> Upload Class Initialized
+INFO - 2015-10-26 19:03:32 --> Image Lib Class Initialized
+INFO - 2015-10-26 19:03:32 --> Model Class Initialized
+INFO - 2015-10-26 19:03:33 --> Model Class Initialized
+INFO - 2015-10-26 19:03:33 --> Model Class Initialized
+INFO - 2015-10-26 19:03:33 --> Model Class Initialized
+INFO - 2015-10-26 19:03:33 --> Model Class Initialized
+INFO - 2015-10-26 19:03:33 --> File loaded: C:\xampp\htdocs\team\application\views\camera/layout/header.php
+INFO - 2015-10-26 19:03:33 --> File loaded: C:\xampp\htdocs\team\application\views\camera/user_preview.php
+INFO - 2015-10-26 19:03:33 --> File loaded: C:\xampp\htdocs\team\application\views\camera/layout/footer.php
+INFO - 2015-10-26 19:03:34 --> Final output sent to browser
+DEBUG - 2015-10-26 19:03:34 --> Total execution time: 5.5165
+INFO - 2015-10-26 19:03:35 --> Config Class Initialized
+INFO - 2015-10-26 19:03:35 --> Hooks Class Initialized
+DEBUG - 2015-10-26 19:03:35 --> UTF-8 Support Enabled
+INFO - 2015-10-26 19:03:36 --> Utf8 Class Initialized
+INFO - 2015-10-26 19:03:36 --> URI Class Initialized
+INFO - 2015-10-26 19:03:36 --> Router Class Initialized
+INFO - 2015-10-26 19:03:36 --> Output Class Initialized
+INFO - 2015-10-26 19:03:36 --> Security Class Initialized
+DEBUG - 2015-10-26 19:03:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-26 19:03:37 --> Input Class Initialized
+INFO - 2015-10-26 19:03:37 --> Language Class Initialized
+INFO - 2015-10-26 19:03:37 --> Loader Class Initialized
+INFO - 2015-10-26 19:03:37 --> Helper loaded: url_helper
+INFO - 2015-10-26 19:03:37 --> Helper loaded: thumb_helper
+INFO - 2015-10-26 19:03:37 --> Database Driver Class Initialized
+INFO - 2015-10-26 19:03:39 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-26 19:03:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-26 19:03:39 --> Email Class Initialized
+INFO - 2015-10-26 19:03:39 --> Helper loaded: string_helper
+INFO - 2015-10-26 19:03:39 --> Helper loaded: email_helper
+INFO - 2015-10-26 19:03:40 --> Helper loaded: language_helper
+INFO - 2015-10-26 19:03:40 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-26 19:03:40 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-26 19:03:41 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-26 19:03:41 --> Config file loaded: C:\xampp\htdocs\team\application\config/aauth.php
+INFO - 2015-10-26 19:03:41 --> Database Driver Class Initialized
+INFO - 2015-10-26 19:03:41 --> Helper loaded: form_helper
+INFO - 2015-10-26 19:03:41 --> Form Validation Class Initialized
+INFO - 2015-10-26 19:03:41 --> Parser Class Initialized
+INFO - 2015-10-26 19:03:41 --> Controller Class Initialized
+INFO - 2015-10-26 19:03:41 --> File loaded: C:\xampp\htdocs\team\application\views\layout/header.php
+INFO - 2015-10-26 19:03:41 --> File loaded: C:\xampp\htdocs\team\application\views\errors/html/custom.php
+ERROR - 2015-10-26 19:03:42 --> Severity: Notice --> Undefined variable: gender C:\xampp\htdocs\team\application\views\layout\footer.php 158
+ERROR - 2015-10-26 19:03:42 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 158
+ERROR - 2015-10-26 19:03:42 --> Severity: Notice --> Undefined variable: state C:\xampp\htdocs\team\application\views\layout\footer.php 166
+ERROR - 2015-10-26 19:03:42 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\team\application\views\layout\footer.php 166
+INFO - 2015-10-26 19:03:42 --> File loaded: C:\xampp\htdocs\team\application\views\layout/footer.php
+INFO - 2015-10-26 19:03:42 --> Final output sent to browser
+DEBUG - 2015-10-26 19:03:42 --> Total execution time: 7.7270

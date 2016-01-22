@@ -1,0 +1,1051 @@
+INFO - 2015-09-22 00:12:03 --> Config Class Initialized
+INFO - 2015-09-22 00:12:03 --> Hooks Class Initialized
+DEBUG - 2015-09-22 00:12:03 --> UTF-8 Support Enabled
+INFO - 2015-09-22 00:12:03 --> Utf8 Class Initialized
+INFO - 2015-09-22 00:12:03 --> URI Class Initialized
+DEBUG - 2015-09-22 00:12:03 --> No URI present. Default controller set.
+INFO - 2015-09-22 00:12:03 --> Router Class Initialized
+INFO - 2015-09-22 00:12:03 --> Output Class Initialized
+INFO - 2015-09-22 00:12:03 --> Security Class Initialized
+DEBUG - 2015-09-22 00:12:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-22 00:12:03 --> Input Class Initialized
+INFO - 2015-09-22 00:12:03 --> Language Class Initialized
+INFO - 2015-09-22 00:12:03 --> Loader Class Initialized
+INFO - 2015-09-22 00:12:03 --> Helper loaded: url_helper
+INFO - 2015-09-22 00:12:03 --> Helper loaded: thumb_helper
+INFO - 2015-09-22 00:12:03 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:03 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-09-22 00:12:03 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-09-22 00:12:03 --> Email Class Initialized
+INFO - 2015-09-22 00:12:03 --> Helper loaded: string_helper
+INFO - 2015-09-22 00:12:03 --> Helper loaded: email_helper
+INFO - 2015-09-22 00:12:03 --> Helper loaded: language_helper
+INFO - 2015-09-22 00:12:03 --> Helper loaded: recaptchalib_helper
+INFO - 2015-09-22 00:12:03 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-09-22 00:12:03 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-09-22 00:12:03 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-09-22 00:12:03 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:03 --> Helper loaded: form_helper
+INFO - 2015-09-22 00:12:03 --> Form Validation Class Initialized
+INFO - 2015-09-22 00:12:03 --> Parser Class Initialized
+INFO - 2015-09-22 00:12:03 --> Controller Class Initialized
+INFO - 2015-09-22 00:12:03 --> Model Class Initialized
+INFO - 2015-09-22 00:12:03 --> Model Class Initialized
+INFO - 2015-09-22 00:12:03 --> Model Class Initialized
+INFO - 2015-09-22 00:12:03 --> Model Class Initialized
+INFO - 2015-09-22 00:12:03 --> Model Class Initialized
+DEBUG - 2015-09-22 00:12:03 --> Aauth class already loaded. Second attempt ignored.
+INFO - 2015-09-22 00:12:03 --> User Agent Class Initialized
+INFO - 2015-09-22 00:12:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-09-22 00:12:03 --> Pagination Class Initialized
+INFO - 2015-09-22 00:12:03 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-09-22 00:12:03 --> File loaded: /opt/lampp/htdocs/team/application/views/index.php
+INFO - 2015-09-22 00:12:03 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-09-22 00:12:03 --> Final output sent to browser
+DEBUG - 2015-09-22 00:12:03 --> Total execution time: 0.0859
+INFO - 2015-09-22 00:12:03 --> Config Class Initialized
+INFO - 2015-09-22 00:12:03 --> Hooks Class Initialized
+DEBUG - 2015-09-22 00:12:03 --> UTF-8 Support Enabled
+INFO - 2015-09-22 00:12:03 --> Utf8 Class Initialized
+INFO - 2015-09-22 00:12:03 --> URI Class Initialized
+INFO - 2015-09-22 00:12:03 --> Config Class Initialized
+INFO - 2015-09-22 00:12:03 --> Hooks Class Initialized
+INFO - 2015-09-22 00:12:03 --> Config Class Initialized
+INFO - 2015-09-22 00:12:03 --> Hooks Class Initialized
+DEBUG - 2015-09-22 00:12:03 --> UTF-8 Support Enabled
+INFO - 2015-09-22 00:12:03 --> Utf8 Class Initialized
+INFO - 2015-09-22 00:12:03 --> URI Class Initialized
+INFO - 2015-09-22 00:12:03 --> Router Class Initialized
+DEBUG - 2015-09-22 00:12:03 --> UTF-8 Support Enabled
+INFO - 2015-09-22 00:12:03 --> Utf8 Class Initialized
+INFO - 2015-09-22 00:12:03 --> URI Class Initialized
+INFO - 2015-09-22 00:12:03 --> Router Class Initialized
+INFO - 2015-09-22 00:12:03 --> Config Class Initialized
+INFO - 2015-09-22 00:12:04 --> Hooks Class Initialized
+DEBUG - 2015-09-22 00:12:04 --> UTF-8 Support Enabled
+INFO - 2015-09-22 00:12:04 --> Utf8 Class Initialized
+INFO - 2015-09-22 00:12:04 --> URI Class Initialized
+INFO - 2015-09-22 00:12:03 --> Router Class Initialized
+INFO - 2015-09-22 00:12:04 --> Output Class Initialized
+INFO - 2015-09-22 00:12:04 --> Security Class Initialized
+DEBUG - 2015-09-22 00:12:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-22 00:12:04 --> Output Class Initialized
+INFO - 2015-09-22 00:12:04 --> Security Class Initialized
+DEBUG - 2015-09-22 00:12:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-22 00:12:04 --> Input Class Initialized
+INFO - 2015-09-22 00:12:04 --> Output Class Initialized
+INFO - 2015-09-22 00:12:04 --> Security Class Initialized
+DEBUG - 2015-09-22 00:12:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-22 00:12:04 --> Input Class Initialized
+INFO - 2015-09-22 00:12:04 --> Language Class Initialized
+INFO - 2015-09-22 00:12:04 --> Router Class Initialized
+INFO - 2015-09-22 00:12:04 --> Input Class Initialized
+INFO - 2015-09-22 00:12:04 --> Language Class Initialized
+INFO - 2015-09-22 00:12:04 --> Output Class Initialized
+INFO - 2015-09-22 00:12:04 --> Security Class Initialized
+INFO - 2015-09-22 00:12:04 --> Loader Class Initialized
+INFO - 2015-09-22 00:12:04 --> Loader Class Initialized
+INFO - 2015-09-22 00:12:04 --> Helper loaded: url_helper
+INFO - 2015-09-22 00:12:04 --> Helper loaded: thumb_helper
+DEBUG - 2015-09-22 00:12:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-22 00:12:04 --> Input Class Initialized
+INFO - 2015-09-22 00:12:04 --> Language Class Initialized
+INFO - 2015-09-22 00:12:04 --> Loader Class Initialized
+INFO - 2015-09-22 00:12:04 --> Helper loaded: url_helper
+INFO - 2015-09-22 00:12:04 --> Helper loaded: thumb_helper
+INFO - 2015-09-22 00:12:04 --> Language Class Initialized
+INFO - 2015-09-22 00:12:04 --> Loader Class Initialized
+INFO - 2015-09-22 00:12:04 --> Helper loaded: url_helper
+INFO - 2015-09-22 00:12:04 --> Helper loaded: thumb_helper
+INFO - 2015-09-22 00:12:04 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:04 --> Helper loaded: url_helper
+INFO - 2015-09-22 00:12:04 --> Helper loaded: thumb_helper
+INFO - 2015-09-22 00:12:04 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:04 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-09-22 00:12:04 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-09-22 00:12:04 --> Email Class Initialized
+INFO - 2015-09-22 00:12:04 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:04 --> Helper loaded: string_helper
+INFO - 2015-09-22 00:12:04 --> Helper loaded: email_helper
+INFO - 2015-09-22 00:12:04 --> Helper loaded: language_helper
+INFO - 2015-09-22 00:12:04 --> Helper loaded: recaptchalib_helper
+INFO - 2015-09-22 00:12:04 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-09-22 00:12:04 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-09-22 00:12:04 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-09-22 00:12:04 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:04 --> Helper loaded: form_helper
+INFO - 2015-09-22 00:12:04 --> Form Validation Class Initialized
+INFO - 2015-09-22 00:12:04 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:04 --> Parser Class Initialized
+INFO - 2015-09-22 00:12:04 --> Controller Class Initialized
+INFO - 2015-09-22 00:12:04 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-09-22 00:12:04 --> File loaded: /opt/lampp/htdocs/team/application/views/errors/html/custom.php
+INFO - 2015-09-22 00:12:04 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-09-22 00:12:04 --> Final output sent to browser
+DEBUG - 2015-09-22 00:12:04 --> Total execution time: 0.1211
+INFO - 2015-09-22 00:12:04 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-09-22 00:12:04 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-09-22 00:12:04 --> Email Class Initialized
+INFO - 2015-09-22 00:12:04 --> Helper loaded: string_helper
+INFO - 2015-09-22 00:12:04 --> Helper loaded: email_helper
+INFO - 2015-09-22 00:12:04 --> Helper loaded: language_helper
+INFO - 2015-09-22 00:12:04 --> Helper loaded: recaptchalib_helper
+INFO - 2015-09-22 00:12:04 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-09-22 00:12:04 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-09-22 00:12:04 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-09-22 00:12:04 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:04 --> Helper loaded: form_helper
+INFO - 2015-09-22 00:12:04 --> Form Validation Class Initialized
+INFO - 2015-09-22 00:12:04 --> Parser Class Initialized
+INFO - 2015-09-22 00:12:04 --> Controller Class Initialized
+INFO - 2015-09-22 00:12:04 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-09-22 00:12:04 --> File loaded: /opt/lampp/htdocs/team/application/views/errors/html/custom.php
+INFO - 2015-09-22 00:12:04 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-09-22 00:12:04 --> Final output sent to browser
+DEBUG - 2015-09-22 00:12:04 --> Total execution time: 0.1478
+INFO - 2015-09-22 00:12:04 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-09-22 00:12:04 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-09-22 00:12:04 --> Email Class Initialized
+INFO - 2015-09-22 00:12:04 --> Helper loaded: string_helper
+INFO - 2015-09-22 00:12:04 --> Helper loaded: email_helper
+INFO - 2015-09-22 00:12:04 --> Helper loaded: language_helper
+INFO - 2015-09-22 00:12:04 --> Helper loaded: recaptchalib_helper
+INFO - 2015-09-22 00:12:04 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-09-22 00:12:04 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-09-22 00:12:04 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-09-22 00:12:04 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:04 --> Helper loaded: form_helper
+INFO - 2015-09-22 00:12:04 --> Form Validation Class Initialized
+INFO - 2015-09-22 00:12:04 --> Parser Class Initialized
+INFO - 2015-09-22 00:12:04 --> Controller Class Initialized
+INFO - 2015-09-22 00:12:04 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-09-22 00:12:04 --> File loaded: /opt/lampp/htdocs/team/application/views/errors/html/custom.php
+INFO - 2015-09-22 00:12:04 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-09-22 00:12:04 --> Final output sent to browser
+DEBUG - 2015-09-22 00:12:04 --> Total execution time: 0.1575
+INFO - 2015-09-22 00:12:04 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-09-22 00:12:04 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-09-22 00:12:04 --> Email Class Initialized
+INFO - 2015-09-22 00:12:04 --> Helper loaded: string_helper
+INFO - 2015-09-22 00:12:04 --> Helper loaded: email_helper
+INFO - 2015-09-22 00:12:04 --> Helper loaded: language_helper
+INFO - 2015-09-22 00:12:04 --> Helper loaded: recaptchalib_helper
+INFO - 2015-09-22 00:12:04 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-09-22 00:12:04 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-09-22 00:12:04 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-09-22 00:12:04 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:04 --> Helper loaded: form_helper
+INFO - 2015-09-22 00:12:04 --> Form Validation Class Initialized
+INFO - 2015-09-22 00:12:04 --> Parser Class Initialized
+INFO - 2015-09-22 00:12:04 --> Controller Class Initialized
+INFO - 2015-09-22 00:12:04 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-09-22 00:12:04 --> File loaded: /opt/lampp/htdocs/team/application/views/errors/html/custom.php
+INFO - 2015-09-22 00:12:04 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-09-22 00:12:04 --> Final output sent to browser
+DEBUG - 2015-09-22 00:12:04 --> Total execution time: 0.1809
+INFO - 2015-09-22 00:12:06 --> Config Class Initialized
+INFO - 2015-09-22 00:12:06 --> Hooks Class Initialized
+DEBUG - 2015-09-22 00:12:06 --> UTF-8 Support Enabled
+INFO - 2015-09-22 00:12:06 --> Utf8 Class Initialized
+INFO - 2015-09-22 00:12:06 --> URI Class Initialized
+INFO - 2015-09-22 00:12:06 --> Router Class Initialized
+INFO - 2015-09-22 00:12:06 --> Output Class Initialized
+INFO - 2015-09-22 00:12:06 --> Security Class Initialized
+DEBUG - 2015-09-22 00:12:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-22 00:12:06 --> Input Class Initialized
+INFO - 2015-09-22 00:12:06 --> Language Class Initialized
+INFO - 2015-09-22 00:12:06 --> Loader Class Initialized
+INFO - 2015-09-22 00:12:06 --> Helper loaded: url_helper
+INFO - 2015-09-22 00:12:06 --> Helper loaded: thumb_helper
+INFO - 2015-09-22 00:12:06 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:06 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-09-22 00:12:06 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-09-22 00:12:06 --> Email Class Initialized
+INFO - 2015-09-22 00:12:06 --> Helper loaded: string_helper
+INFO - 2015-09-22 00:12:06 --> Helper loaded: email_helper
+INFO - 2015-09-22 00:12:06 --> Helper loaded: language_helper
+INFO - 2015-09-22 00:12:06 --> Helper loaded: recaptchalib_helper
+INFO - 2015-09-22 00:12:06 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-09-22 00:12:06 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-09-22 00:12:06 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-09-22 00:12:06 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:06 --> Helper loaded: form_helper
+INFO - 2015-09-22 00:12:06 --> Form Validation Class Initialized
+INFO - 2015-09-22 00:12:06 --> Parser Class Initialized
+INFO - 2015-09-22 00:12:06 --> Controller Class Initialized
+INFO - 2015-09-22 00:12:06 --> Upload Class Initialized
+INFO - 2015-09-22 00:12:06 --> Model Class Initialized
+INFO - 2015-09-22 00:12:06 --> Model Class Initialized
+INFO - 2015-09-22 00:12:06 --> Model Class Initialized
+INFO - 2015-09-22 00:12:06 --> Model Class Initialized
+INFO - 2015-09-22 00:12:06 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-09-22 00:12:06 --> Pagination Class Initialized
+INFO - 2015-09-22 00:12:06 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-09-22 00:12:06 --> File loaded: /opt/lampp/htdocs/team/application/views/camera/index.php
+INFO - 2015-09-22 00:12:06 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-09-22 00:12:06 --> Final output sent to browser
+DEBUG - 2015-09-22 00:12:06 --> Total execution time: 0.0556
+INFO - 2015-09-22 00:12:06 --> Config Class Initialized
+INFO - 2015-09-22 00:12:06 --> Hooks Class Initialized
+DEBUG - 2015-09-22 00:12:06 --> UTF-8 Support Enabled
+INFO - 2015-09-22 00:12:06 --> Utf8 Class Initialized
+INFO - 2015-09-22 00:12:06 --> URI Class Initialized
+INFO - 2015-09-22 00:12:06 --> Router Class Initialized
+INFO - 2015-09-22 00:12:06 --> Output Class Initialized
+INFO - 2015-09-22 00:12:06 --> Config Class Initialized
+INFO - 2015-09-22 00:12:06 --> Hooks Class Initialized
+DEBUG - 2015-09-22 00:12:06 --> UTF-8 Support Enabled
+INFO - 2015-09-22 00:12:06 --> Utf8 Class Initialized
+INFO - 2015-09-22 00:12:06 --> URI Class Initialized
+INFO - 2015-09-22 00:12:06 --> Router Class Initialized
+INFO - 2015-09-22 00:12:06 --> Output Class Initialized
+INFO - 2015-09-22 00:12:06 --> Security Class Initialized
+DEBUG - 2015-09-22 00:12:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-22 00:12:06 --> Input Class Initialized
+INFO - 2015-09-22 00:12:06 --> Language Class Initialized
+INFO - 2015-09-22 00:12:06 --> Config Class Initialized
+INFO - 2015-09-22 00:12:06 --> Hooks Class Initialized
+INFO - 2015-09-22 00:12:06 --> Loader Class Initialized
+DEBUG - 2015-09-22 00:12:06 --> UTF-8 Support Enabled
+INFO - 2015-09-22 00:12:06 --> Utf8 Class Initialized
+INFO - 2015-09-22 00:12:06 --> Helper loaded: url_helper
+INFO - 2015-09-22 00:12:06 --> Helper loaded: thumb_helper
+INFO - 2015-09-22 00:12:06 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:06 --> URI Class Initialized
+INFO - 2015-09-22 00:12:06 --> Router Class Initialized
+INFO - 2015-09-22 00:12:06 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-22 00:12:06 --> Output Class Initialized
+INFO - 2015-09-22 00:12:06 --> Security Class Initialized
+INFO - 2015-09-22 00:12:06 --> Security Class Initialized
+DEBUG - 2015-09-22 00:12:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-22 00:12:06 --> Input Class Initialized
+INFO - 2015-09-22 00:12:06 --> Language Class Initialized
+DEBUG - 2015-09-22 00:12:06 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-09-22 00:12:06 --> Loader Class Initialized
+INFO - 2015-09-22 00:12:06 --> Email Class Initialized
+INFO - 2015-09-22 00:12:06 --> Helper loaded: string_helper
+INFO - 2015-09-22 00:12:06 --> Helper loaded: email_helper
+INFO - 2015-09-22 00:12:06 --> Helper loaded: language_helper
+INFO - 2015-09-22 00:12:06 --> Helper loaded: recaptchalib_helper
+INFO - 2015-09-22 00:12:06 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-09-22 00:12:06 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-09-22 00:12:06 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-09-22 00:12:06 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:06 --> Helper loaded: form_helper
+INFO - 2015-09-22 00:12:06 --> Form Validation Class Initialized
+INFO - 2015-09-22 00:12:06 --> Parser Class Initialized
+INFO - 2015-09-22 00:12:06 --> Controller Class Initialized
+INFO - 2015-09-22 00:12:06 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-09-22 00:12:06 --> File loaded: /opt/lampp/htdocs/team/application/views/errors/html/custom.php
+INFO - 2015-09-22 00:12:06 --> Config Class Initialized
+INFO - 2015-09-22 00:12:06 --> Hooks Class Initialized
+INFO - 2015-09-22 00:12:06 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-09-22 00:12:06 --> Final output sent to browser
+DEBUG - 2015-09-22 00:12:06 --> Total execution time: 0.0406
+DEBUG - 2015-09-22 00:12:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-22 00:12:06 --> Input Class Initialized
+INFO - 2015-09-22 00:12:06 --> Language Class Initialized
+INFO - 2015-09-22 00:12:06 --> Loader Class Initialized
+INFO - 2015-09-22 00:12:06 --> Helper loaded: url_helper
+INFO - 2015-09-22 00:12:06 --> Helper loaded: thumb_helper
+INFO - 2015-09-22 00:12:06 --> Helper loaded: url_helper
+INFO - 2015-09-22 00:12:06 --> Helper loaded: thumb_helper
+DEBUG - 2015-09-22 00:12:06 --> UTF-8 Support Enabled
+INFO - 2015-09-22 00:12:06 --> Utf8 Class Initialized
+INFO - 2015-09-22 00:12:06 --> URI Class Initialized
+INFO - 2015-09-22 00:12:06 --> Router Class Initialized
+INFO - 2015-09-22 00:12:06 --> Output Class Initialized
+INFO - 2015-09-22 00:12:06 --> Security Class Initialized
+DEBUG - 2015-09-22 00:12:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-22 00:12:06 --> Input Class Initialized
+INFO - 2015-09-22 00:12:06 --> Language Class Initialized
+INFO - 2015-09-22 00:12:06 --> Loader Class Initialized
+INFO - 2015-09-22 00:12:06 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:06 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-22 00:12:06 --> Helper loaded: url_helper
+INFO - 2015-09-22 00:12:06 --> Helper loaded: thumb_helper
+DEBUG - 2015-09-22 00:12:06 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-09-22 00:12:06 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:06 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:06 --> Email Class Initialized
+INFO - 2015-09-22 00:12:06 --> Helper loaded: string_helper
+INFO - 2015-09-22 00:12:06 --> Helper loaded: email_helper
+INFO - 2015-09-22 00:12:06 --> Helper loaded: language_helper
+INFO - 2015-09-22 00:12:06 --> Helper loaded: recaptchalib_helper
+INFO - 2015-09-22 00:12:06 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-09-22 00:12:06 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-09-22 00:12:06 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-09-22 00:12:06 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:06 --> Helper loaded: form_helper
+INFO - 2015-09-22 00:12:06 --> Form Validation Class Initialized
+INFO - 2015-09-22 00:12:06 --> Parser Class Initialized
+INFO - 2015-09-22 00:12:06 --> Controller Class Initialized
+INFO - 2015-09-22 00:12:06 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-09-22 00:12:06 --> File loaded: /opt/lampp/htdocs/team/application/views/errors/html/custom.php
+INFO - 2015-09-22 00:12:06 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-09-22 00:12:06 --> Final output sent to browser
+DEBUG - 2015-09-22 00:12:06 --> Total execution time: 0.0968
+INFO - 2015-09-22 00:12:06 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-09-22 00:12:06 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-09-22 00:12:06 --> Email Class Initialized
+INFO - 2015-09-22 00:12:06 --> Helper loaded: string_helper
+INFO - 2015-09-22 00:12:06 --> Helper loaded: email_helper
+INFO - 2015-09-22 00:12:06 --> Helper loaded: language_helper
+INFO - 2015-09-22 00:12:06 --> Helper loaded: recaptchalib_helper
+INFO - 2015-09-22 00:12:06 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-09-22 00:12:06 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-09-22 00:12:06 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-09-22 00:12:06 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:06 --> Helper loaded: form_helper
+INFO - 2015-09-22 00:12:06 --> Form Validation Class Initialized
+INFO - 2015-09-22 00:12:06 --> Parser Class Initialized
+INFO - 2015-09-22 00:12:06 --> Controller Class Initialized
+INFO - 2015-09-22 00:12:06 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-09-22 00:12:06 --> File loaded: /opt/lampp/htdocs/team/application/views/errors/html/custom.php
+INFO - 2015-09-22 00:12:06 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-09-22 00:12:06 --> Final output sent to browser
+DEBUG - 2015-09-22 00:12:06 --> Total execution time: 0.0794
+INFO - 2015-09-22 00:12:06 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-09-22 00:12:06 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-09-22 00:12:06 --> Email Class Initialized
+INFO - 2015-09-22 00:12:06 --> Helper loaded: string_helper
+INFO - 2015-09-22 00:12:06 --> Helper loaded: email_helper
+INFO - 2015-09-22 00:12:06 --> Helper loaded: language_helper
+INFO - 2015-09-22 00:12:06 --> Helper loaded: recaptchalib_helper
+INFO - 2015-09-22 00:12:06 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-09-22 00:12:06 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-09-22 00:12:06 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-09-22 00:12:06 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:06 --> Helper loaded: form_helper
+INFO - 2015-09-22 00:12:06 --> Form Validation Class Initialized
+INFO - 2015-09-22 00:12:06 --> Parser Class Initialized
+INFO - 2015-09-22 00:12:06 --> Controller Class Initialized
+INFO - 2015-09-22 00:12:06 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-09-22 00:12:06 --> File loaded: /opt/lampp/htdocs/team/application/views/errors/html/custom.php
+INFO - 2015-09-22 00:12:06 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-09-22 00:12:06 --> Final output sent to browser
+DEBUG - 2015-09-22 00:12:06 --> Total execution time: 0.1335
+INFO - 2015-09-22 00:12:13 --> Config Class Initialized
+INFO - 2015-09-22 00:12:13 --> Hooks Class Initialized
+DEBUG - 2015-09-22 00:12:13 --> UTF-8 Support Enabled
+INFO - 2015-09-22 00:12:13 --> Utf8 Class Initialized
+INFO - 2015-09-22 00:12:13 --> URI Class Initialized
+INFO - 2015-09-22 00:12:13 --> Router Class Initialized
+INFO - 2015-09-22 00:12:13 --> Output Class Initialized
+INFO - 2015-09-22 00:12:13 --> Security Class Initialized
+DEBUG - 2015-09-22 00:12:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-22 00:12:13 --> Input Class Initialized
+INFO - 2015-09-22 00:12:13 --> Language Class Initialized
+INFO - 2015-09-22 00:12:13 --> Loader Class Initialized
+INFO - 2015-09-22 00:12:13 --> Helper loaded: url_helper
+INFO - 2015-09-22 00:12:13 --> Helper loaded: thumb_helper
+INFO - 2015-09-22 00:12:13 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:13 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-09-22 00:12:13 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-09-22 00:12:13 --> Email Class Initialized
+INFO - 2015-09-22 00:12:13 --> Helper loaded: string_helper
+INFO - 2015-09-22 00:12:13 --> Helper loaded: email_helper
+INFO - 2015-09-22 00:12:13 --> Helper loaded: language_helper
+INFO - 2015-09-22 00:12:13 --> Helper loaded: recaptchalib_helper
+INFO - 2015-09-22 00:12:13 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-09-22 00:12:13 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-09-22 00:12:13 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-09-22 00:12:13 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:13 --> Helper loaded: form_helper
+INFO - 2015-09-22 00:12:13 --> Form Validation Class Initialized
+INFO - 2015-09-22 00:12:13 --> Parser Class Initialized
+INFO - 2015-09-22 00:12:13 --> Controller Class Initialized
+INFO - 2015-09-22 00:12:13 --> Upload Class Initialized
+INFO - 2015-09-22 00:12:13 --> Table Class Initialized
+INFO - 2015-09-22 00:12:13 --> Model Class Initialized
+INFO - 2015-09-22 00:12:13 --> Model Class Initialized
+INFO - 2015-09-22 00:12:13 --> Model Class Initialized
+INFO - 2015-09-22 00:12:13 --> Model Class Initialized
+INFO - 2015-09-22 00:12:13 --> Model Class Initialized
+INFO - 2015-09-22 00:12:13 --> Model Class Initialized
+INFO - 2015-09-22 00:12:13 --> User Agent Class Initialized
+INFO - 2015-09-22 00:12:13 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-09-22 00:12:13 --> Pagination Class Initialized
+INFO - 2015-09-22 00:12:13 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-09-22 00:12:13 --> File loaded: /opt/lampp/htdocs/team/application/views/news/all.php
+INFO - 2015-09-22 00:12:13 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-09-22 00:12:13 --> Final output sent to browser
+DEBUG - 2015-09-22 00:12:13 --> Total execution time: 0.1296
+INFO - 2015-09-22 00:12:13 --> Config Class Initialized
+INFO - 2015-09-22 00:12:13 --> Hooks Class Initialized
+INFO - 2015-09-22 00:12:13 --> Config Class Initialized
+INFO - 2015-09-22 00:12:13 --> Hooks Class Initialized
+INFO - 2015-09-22 00:12:13 --> Config Class Initialized
+INFO - 2015-09-22 00:12:13 --> Hooks Class Initialized
+DEBUG - 2015-09-22 00:12:13 --> UTF-8 Support Enabled
+INFO - 2015-09-22 00:12:13 --> Utf8 Class Initialized
+DEBUG - 2015-09-22 00:12:13 --> UTF-8 Support Enabled
+INFO - 2015-09-22 00:12:13 --> Utf8 Class Initialized
+INFO - 2015-09-22 00:12:13 --> URI Class Initialized
+INFO - 2015-09-22 00:12:13 --> Router Class Initialized
+DEBUG - 2015-09-22 00:12:13 --> UTF-8 Support Enabled
+INFO - 2015-09-22 00:12:13 --> Utf8 Class Initialized
+INFO - 2015-09-22 00:12:13 --> URI Class Initialized
+INFO - 2015-09-22 00:12:13 --> Router Class Initialized
+INFO - 2015-09-22 00:12:13 --> URI Class Initialized
+INFO - 2015-09-22 00:12:13 --> Router Class Initialized
+INFO - 2015-09-22 00:12:13 --> Output Class Initialized
+INFO - 2015-09-22 00:12:13 --> Config Class Initialized
+INFO - 2015-09-22 00:12:13 --> Hooks Class Initialized
+INFO - 2015-09-22 00:12:13 --> Output Class Initialized
+INFO - 2015-09-22 00:12:13 --> Output Class Initialized
+INFO - 2015-09-22 00:12:13 --> Security Class Initialized
+INFO - 2015-09-22 00:12:13 --> Security Class Initialized
+DEBUG - 2015-09-22 00:12:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-22 00:12:13 --> Input Class Initialized
+INFO - 2015-09-22 00:12:13 --> Language Class Initialized
+DEBUG - 2015-09-22 00:12:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-22 00:12:13 --> Input Class Initialized
+INFO - 2015-09-22 00:12:13 --> Language Class Initialized
+DEBUG - 2015-09-22 00:12:13 --> UTF-8 Support Enabled
+INFO - 2015-09-22 00:12:13 --> Utf8 Class Initialized
+INFO - 2015-09-22 00:12:13 --> URI Class Initialized
+INFO - 2015-09-22 00:12:13 --> Security Class Initialized
+INFO - 2015-09-22 00:12:13 --> Router Class Initialized
+DEBUG - 2015-09-22 00:12:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-22 00:12:13 --> Input Class Initialized
+INFO - 2015-09-22 00:12:13 --> Output Class Initialized
+INFO - 2015-09-22 00:12:13 --> Language Class Initialized
+INFO - 2015-09-22 00:12:13 --> Loader Class Initialized
+INFO - 2015-09-22 00:12:13 --> Loader Class Initialized
+INFO - 2015-09-22 00:12:13 --> Security Class Initialized
+INFO - 2015-09-22 00:12:13 --> Helper loaded: url_helper
+INFO - 2015-09-22 00:12:13 --> Helper loaded: thumb_helper
+DEBUG - 2015-09-22 00:12:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-22 00:12:13 --> Loader Class Initialized
+INFO - 2015-09-22 00:12:13 --> Helper loaded: url_helper
+INFO - 2015-09-22 00:12:13 --> Helper loaded: thumb_helper
+INFO - 2015-09-22 00:12:13 --> Helper loaded: url_helper
+INFO - 2015-09-22 00:12:13 --> Helper loaded: thumb_helper
+INFO - 2015-09-22 00:12:13 --> Input Class Initialized
+INFO - 2015-09-22 00:12:13 --> Language Class Initialized
+INFO - 2015-09-22 00:12:13 --> Loader Class Initialized
+INFO - 2015-09-22 00:12:13 --> Helper loaded: url_helper
+INFO - 2015-09-22 00:12:13 --> Helper loaded: thumb_helper
+INFO - 2015-09-22 00:12:13 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:13 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:13 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-22 00:12:13 --> Database Driver Class Initialized
+DEBUG - 2015-09-22 00:12:13 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-09-22 00:12:13 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:13 --> Email Class Initialized
+INFO - 2015-09-22 00:12:13 --> Helper loaded: string_helper
+INFO - 2015-09-22 00:12:13 --> Helper loaded: email_helper
+INFO - 2015-09-22 00:12:13 --> Helper loaded: language_helper
+INFO - 2015-09-22 00:12:13 --> Helper loaded: recaptchalib_helper
+INFO - 2015-09-22 00:12:13 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-09-22 00:12:13 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-09-22 00:12:13 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-09-22 00:12:13 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:13 --> Helper loaded: form_helper
+INFO - 2015-09-22 00:12:13 --> Form Validation Class Initialized
+INFO - 2015-09-22 00:12:13 --> Parser Class Initialized
+INFO - 2015-09-22 00:12:13 --> Controller Class Initialized
+INFO - 2015-09-22 00:12:13 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-09-22 00:12:13 --> File loaded: /opt/lampp/htdocs/team/application/views/errors/html/custom.php
+INFO - 2015-09-22 00:12:13 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-09-22 00:12:13 --> Final output sent to browser
+DEBUG - 2015-09-22 00:12:13 --> Total execution time: 0.0902
+INFO - 2015-09-22 00:12:13 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-09-22 00:12:13 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-09-22 00:12:13 --> Email Class Initialized
+INFO - 2015-09-22 00:12:13 --> Helper loaded: string_helper
+INFO - 2015-09-22 00:12:13 --> Helper loaded: email_helper
+INFO - 2015-09-22 00:12:13 --> Helper loaded: language_helper
+INFO - 2015-09-22 00:12:13 --> Helper loaded: recaptchalib_helper
+INFO - 2015-09-22 00:12:13 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-09-22 00:12:13 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-09-22 00:12:13 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-09-22 00:12:13 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:14 --> Helper loaded: form_helper
+INFO - 2015-09-22 00:12:14 --> Form Validation Class Initialized
+INFO - 2015-09-22 00:12:14 --> Parser Class Initialized
+INFO - 2015-09-22 00:12:14 --> Controller Class Initialized
+INFO - 2015-09-22 00:12:14 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-09-22 00:12:14 --> File loaded: /opt/lampp/htdocs/team/application/views/errors/html/custom.php
+INFO - 2015-09-22 00:12:14 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-09-22 00:12:14 --> Final output sent to browser
+DEBUG - 2015-09-22 00:12:14 --> Total execution time: 0.0907
+INFO - 2015-09-22 00:12:14 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-09-22 00:12:14 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-09-22 00:12:14 --> Email Class Initialized
+INFO - 2015-09-22 00:12:14 --> Helper loaded: string_helper
+INFO - 2015-09-22 00:12:14 --> Helper loaded: email_helper
+INFO - 2015-09-22 00:12:14 --> Helper loaded: language_helper
+INFO - 2015-09-22 00:12:14 --> Helper loaded: recaptchalib_helper
+INFO - 2015-09-22 00:12:14 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-09-22 00:12:14 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-09-22 00:12:14 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-09-22 00:12:14 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:14 --> Helper loaded: form_helper
+INFO - 2015-09-22 00:12:14 --> Form Validation Class Initialized
+INFO - 2015-09-22 00:12:14 --> Parser Class Initialized
+INFO - 2015-09-22 00:12:14 --> Controller Class Initialized
+INFO - 2015-09-22 00:12:14 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-09-22 00:12:14 --> File loaded: /opt/lampp/htdocs/team/application/views/errors/html/custom.php
+INFO - 2015-09-22 00:12:14 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-09-22 00:12:14 --> Final output sent to browser
+DEBUG - 2015-09-22 00:12:14 --> Total execution time: 0.1346
+INFO - 2015-09-22 00:12:14 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-09-22 00:12:14 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-09-22 00:12:14 --> Email Class Initialized
+INFO - 2015-09-22 00:12:14 --> Helper loaded: string_helper
+INFO - 2015-09-22 00:12:14 --> Helper loaded: email_helper
+INFO - 2015-09-22 00:12:14 --> Helper loaded: language_helper
+INFO - 2015-09-22 00:12:14 --> Helper loaded: recaptchalib_helper
+INFO - 2015-09-22 00:12:14 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-09-22 00:12:14 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-09-22 00:12:14 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-09-22 00:12:14 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:14 --> Helper loaded: form_helper
+INFO - 2015-09-22 00:12:14 --> Form Validation Class Initialized
+INFO - 2015-09-22 00:12:14 --> Parser Class Initialized
+INFO - 2015-09-22 00:12:14 --> Controller Class Initialized
+INFO - 2015-09-22 00:12:14 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-09-22 00:12:14 --> File loaded: /opt/lampp/htdocs/team/application/views/errors/html/custom.php
+INFO - 2015-09-22 00:12:14 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-09-22 00:12:14 --> Final output sent to browser
+DEBUG - 2015-09-22 00:12:14 --> Total execution time: 0.1625
+INFO - 2015-09-22 00:12:22 --> Config Class Initialized
+INFO - 2015-09-22 00:12:22 --> Hooks Class Initialized
+DEBUG - 2015-09-22 00:12:22 --> UTF-8 Support Enabled
+INFO - 2015-09-22 00:12:22 --> Utf8 Class Initialized
+INFO - 2015-09-22 00:12:22 --> URI Class Initialized
+INFO - 2015-09-22 00:12:22 --> Router Class Initialized
+INFO - 2015-09-22 00:12:22 --> Output Class Initialized
+INFO - 2015-09-22 00:12:22 --> Security Class Initialized
+DEBUG - 2015-09-22 00:12:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-22 00:12:22 --> Input Class Initialized
+INFO - 2015-09-22 00:12:22 --> Language Class Initialized
+INFO - 2015-09-22 00:12:22 --> Loader Class Initialized
+INFO - 2015-09-22 00:12:22 --> Helper loaded: url_helper
+INFO - 2015-09-22 00:12:22 --> Helper loaded: thumb_helper
+INFO - 2015-09-22 00:12:22 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:22 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-09-22 00:12:22 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-09-22 00:12:22 --> Email Class Initialized
+INFO - 2015-09-22 00:12:22 --> Helper loaded: string_helper
+INFO - 2015-09-22 00:12:22 --> Helper loaded: email_helper
+INFO - 2015-09-22 00:12:22 --> Helper loaded: language_helper
+INFO - 2015-09-22 00:12:22 --> Helper loaded: recaptchalib_helper
+INFO - 2015-09-22 00:12:22 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-09-22 00:12:22 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-09-22 00:12:22 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-09-22 00:12:22 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:22 --> Helper loaded: form_helper
+INFO - 2015-09-22 00:12:22 --> Form Validation Class Initialized
+INFO - 2015-09-22 00:12:22 --> Parser Class Initialized
+INFO - 2015-09-22 00:12:22 --> Controller Class Initialized
+INFO - 2015-09-22 00:12:22 --> Upload Class Initialized
+INFO - 2015-09-22 00:12:22 --> Table Class Initialized
+INFO - 2015-09-22 00:12:22 --> Model Class Initialized
+INFO - 2015-09-22 00:12:22 --> Model Class Initialized
+INFO - 2015-09-22 00:12:22 --> Model Class Initialized
+INFO - 2015-09-22 00:12:22 --> Model Class Initialized
+INFO - 2015-09-22 00:12:22 --> Model Class Initialized
+INFO - 2015-09-22 00:12:22 --> Model Class Initialized
+INFO - 2015-09-22 00:12:22 --> User Agent Class Initialized
+INFO - 2015-09-22 00:12:22 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-09-22 00:12:22 --> File loaded: /opt/lampp/htdocs/team/application/views/news/view.php
+INFO - 2015-09-22 00:12:22 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-09-22 00:12:22 --> Final output sent to browser
+DEBUG - 2015-09-22 00:12:22 --> Total execution time: 0.1411
+INFO - 2015-09-22 00:12:23 --> Config Class Initialized
+INFO - 2015-09-22 00:12:23 --> Hooks Class Initialized
+DEBUG - 2015-09-22 00:12:23 --> UTF-8 Support Enabled
+INFO - 2015-09-22 00:12:23 --> Utf8 Class Initialized
+INFO - 2015-09-22 00:12:23 --> Config Class Initialized
+INFO - 2015-09-22 00:12:23 --> Hooks Class Initialized
+INFO - 2015-09-22 00:12:23 --> Config Class Initialized
+INFO - 2015-09-22 00:12:23 --> Hooks Class Initialized
+DEBUG - 2015-09-22 00:12:23 --> UTF-8 Support Enabled
+INFO - 2015-09-22 00:12:23 --> Utf8 Class Initialized
+DEBUG - 2015-09-22 00:12:23 --> UTF-8 Support Enabled
+INFO - 2015-09-22 00:12:23 --> Utf8 Class Initialized
+INFO - 2015-09-22 00:12:23 --> Config Class Initialized
+INFO - 2015-09-22 00:12:23 --> Hooks Class Initialized
+INFO - 2015-09-22 00:12:23 --> URI Class Initialized
+INFO - 2015-09-22 00:12:23 --> URI Class Initialized
+INFO - 2015-09-22 00:12:23 --> URI Class Initialized
+INFO - 2015-09-22 00:12:23 --> Router Class Initialized
+INFO - 2015-09-22 00:12:23 --> Output Class Initialized
+INFO - 2015-09-22 00:12:23 --> Router Class Initialized
+INFO - 2015-09-22 00:12:23 --> Router Class Initialized
+DEBUG - 2015-09-22 00:12:23 --> UTF-8 Support Enabled
+INFO - 2015-09-22 00:12:23 --> Utf8 Class Initialized
+INFO - 2015-09-22 00:12:23 --> URI Class Initialized
+INFO - 2015-09-22 00:12:23 --> Output Class Initialized
+INFO - 2015-09-22 00:12:23 --> Router Class Initialized
+INFO - 2015-09-22 00:12:23 --> Security Class Initialized
+INFO - 2015-09-22 00:12:23 --> Output Class Initialized
+DEBUG - 2015-09-22 00:12:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-22 00:12:23 --> Input Class Initialized
+INFO - 2015-09-22 00:12:23 --> Security Class Initialized
+INFO - 2015-09-22 00:12:23 --> Language Class Initialized
+INFO - 2015-09-22 00:12:23 --> Loader Class Initialized
+INFO - 2015-09-22 00:12:23 --> Helper loaded: url_helper
+INFO - 2015-09-22 00:12:23 --> Security Class Initialized
+INFO - 2015-09-22 00:12:23 --> Output Class Initialized
+INFO - 2015-09-22 00:12:23 --> Security Class Initialized
+DEBUG - 2015-09-22 00:12:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-09-22 00:12:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-22 00:12:23 --> Input Class Initialized
+INFO - 2015-09-22 00:12:23 --> Language Class Initialized
+INFO - 2015-09-22 00:12:23 --> Loader Class Initialized
+DEBUG - 2015-09-22 00:12:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-22 00:12:23 --> Input Class Initialized
+INFO - 2015-09-22 00:12:23 --> Language Class Initialized
+INFO - 2015-09-22 00:12:23 --> Helper loaded: thumb_helper
+INFO - 2015-09-22 00:12:23 --> Loader Class Initialized
+INFO - 2015-09-22 00:12:23 --> Helper loaded: url_helper
+INFO - 2015-09-22 00:12:23 --> Helper loaded: thumb_helper
+INFO - 2015-09-22 00:12:23 --> Input Class Initialized
+INFO - 2015-09-22 00:12:23 --> Language Class Initialized
+INFO - 2015-09-22 00:12:23 --> Helper loaded: url_helper
+INFO - 2015-09-22 00:12:23 --> Helper loaded: thumb_helper
+INFO - 2015-09-22 00:12:23 --> Loader Class Initialized
+INFO - 2015-09-22 00:12:23 --> Helper loaded: url_helper
+INFO - 2015-09-22 00:12:23 --> Helper loaded: thumb_helper
+INFO - 2015-09-22 00:12:23 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:23 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-22 00:12:23 --> Database Driver Class Initialized
+DEBUG - 2015-09-22 00:12:23 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-09-22 00:12:23 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:23 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:23 --> Email Class Initialized
+INFO - 2015-09-22 00:12:23 --> Helper loaded: string_helper
+INFO - 2015-09-22 00:12:23 --> Helper loaded: email_helper
+INFO - 2015-09-22 00:12:23 --> Helper loaded: language_helper
+INFO - 2015-09-22 00:12:23 --> Helper loaded: recaptchalib_helper
+INFO - 2015-09-22 00:12:23 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-09-22 00:12:23 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-09-22 00:12:23 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-09-22 00:12:23 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:23 --> Helper loaded: form_helper
+INFO - 2015-09-22 00:12:23 --> Form Validation Class Initialized
+INFO - 2015-09-22 00:12:23 --> Parser Class Initialized
+INFO - 2015-09-22 00:12:23 --> Controller Class Initialized
+INFO - 2015-09-22 00:12:23 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-09-22 00:12:23 --> File loaded: /opt/lampp/htdocs/team/application/views/errors/html/custom.php
+INFO - 2015-09-22 00:12:23 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-09-22 00:12:23 --> Final output sent to browser
+DEBUG - 2015-09-22 00:12:23 --> Total execution time: 0.1028
+INFO - 2015-09-22 00:12:23 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-09-22 00:12:23 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-09-22 00:12:23 --> Email Class Initialized
+INFO - 2015-09-22 00:12:23 --> Helper loaded: string_helper
+INFO - 2015-09-22 00:12:23 --> Helper loaded: email_helper
+INFO - 2015-09-22 00:12:23 --> Helper loaded: language_helper
+INFO - 2015-09-22 00:12:23 --> Helper loaded: recaptchalib_helper
+INFO - 2015-09-22 00:12:23 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-09-22 00:12:23 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-09-22 00:12:23 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-09-22 00:12:23 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:23 --> Helper loaded: form_helper
+INFO - 2015-09-22 00:12:23 --> Form Validation Class Initialized
+INFO - 2015-09-22 00:12:23 --> Parser Class Initialized
+INFO - 2015-09-22 00:12:23 --> Controller Class Initialized
+INFO - 2015-09-22 00:12:23 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-09-22 00:12:23 --> File loaded: /opt/lampp/htdocs/team/application/views/errors/html/custom.php
+INFO - 2015-09-22 00:12:23 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-09-22 00:12:23 --> Final output sent to browser
+DEBUG - 2015-09-22 00:12:23 --> Total execution time: 0.1178
+INFO - 2015-09-22 00:12:23 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-09-22 00:12:23 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-09-22 00:12:23 --> Email Class Initialized
+INFO - 2015-09-22 00:12:23 --> Helper loaded: string_helper
+INFO - 2015-09-22 00:12:23 --> Helper loaded: email_helper
+INFO - 2015-09-22 00:12:23 --> Helper loaded: language_helper
+INFO - 2015-09-22 00:12:23 --> Helper loaded: recaptchalib_helper
+INFO - 2015-09-22 00:12:23 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-09-22 00:12:23 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-09-22 00:12:23 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-09-22 00:12:23 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:23 --> Helper loaded: form_helper
+INFO - 2015-09-22 00:12:23 --> Form Validation Class Initialized
+INFO - 2015-09-22 00:12:23 --> Parser Class Initialized
+INFO - 2015-09-22 00:12:23 --> Controller Class Initialized
+INFO - 2015-09-22 00:12:23 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-09-22 00:12:23 --> File loaded: /opt/lampp/htdocs/team/application/views/errors/html/custom.php
+INFO - 2015-09-22 00:12:23 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-09-22 00:12:23 --> Final output sent to browser
+DEBUG - 2015-09-22 00:12:23 --> Total execution time: 0.1550
+INFO - 2015-09-22 00:12:23 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-09-22 00:12:23 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-09-22 00:12:23 --> Email Class Initialized
+INFO - 2015-09-22 00:12:23 --> Helper loaded: string_helper
+INFO - 2015-09-22 00:12:23 --> Helper loaded: email_helper
+INFO - 2015-09-22 00:12:23 --> Helper loaded: language_helper
+INFO - 2015-09-22 00:12:23 --> Helper loaded: recaptchalib_helper
+INFO - 2015-09-22 00:12:23 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-09-22 00:12:23 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-09-22 00:12:23 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-09-22 00:12:23 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:23 --> Helper loaded: form_helper
+INFO - 2015-09-22 00:12:23 --> Form Validation Class Initialized
+INFO - 2015-09-22 00:12:23 --> Parser Class Initialized
+INFO - 2015-09-22 00:12:23 --> Controller Class Initialized
+INFO - 2015-09-22 00:12:23 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-09-22 00:12:23 --> File loaded: /opt/lampp/htdocs/team/application/views/errors/html/custom.php
+INFO - 2015-09-22 00:12:23 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-09-22 00:12:23 --> Final output sent to browser
+DEBUG - 2015-09-22 00:12:23 --> Total execution time: 0.1512
+INFO - 2015-09-22 00:12:23 --> Config Class Initialized
+INFO - 2015-09-22 00:12:23 --> Hooks Class Initialized
+DEBUG - 2015-09-22 00:12:23 --> UTF-8 Support Enabled
+INFO - 2015-09-22 00:12:23 --> Utf8 Class Initialized
+INFO - 2015-09-22 00:12:23 --> URI Class Initialized
+INFO - 2015-09-22 00:12:23 --> Router Class Initialized
+INFO - 2015-09-22 00:12:23 --> Output Class Initialized
+INFO - 2015-09-22 00:12:23 --> Security Class Initialized
+DEBUG - 2015-09-22 00:12:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-22 00:12:23 --> Input Class Initialized
+INFO - 2015-09-22 00:12:23 --> Language Class Initialized
+INFO - 2015-09-22 00:12:23 --> Loader Class Initialized
+INFO - 2015-09-22 00:12:23 --> Helper loaded: url_helper
+INFO - 2015-09-22 00:12:23 --> Helper loaded: thumb_helper
+INFO - 2015-09-22 00:12:23 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:23 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-09-22 00:12:23 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-09-22 00:12:23 --> Email Class Initialized
+INFO - 2015-09-22 00:12:23 --> Helper loaded: string_helper
+INFO - 2015-09-22 00:12:23 --> Helper loaded: email_helper
+INFO - 2015-09-22 00:12:23 --> Helper loaded: language_helper
+INFO - 2015-09-22 00:12:23 --> Helper loaded: recaptchalib_helper
+INFO - 2015-09-22 00:12:23 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-09-22 00:12:23 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-09-22 00:12:23 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-09-22 00:12:23 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:23 --> Helper loaded: form_helper
+INFO - 2015-09-22 00:12:23 --> Form Validation Class Initialized
+INFO - 2015-09-22 00:12:23 --> Parser Class Initialized
+INFO - 2015-09-22 00:12:23 --> Controller Class Initialized
+INFO - 2015-09-22 00:12:23 --> Upload Class Initialized
+INFO - 2015-09-22 00:12:23 --> Table Class Initialized
+INFO - 2015-09-22 00:12:23 --> Model Class Initialized
+INFO - 2015-09-22 00:12:23 --> Model Class Initialized
+INFO - 2015-09-22 00:12:23 --> Model Class Initialized
+INFO - 2015-09-22 00:12:23 --> Model Class Initialized
+INFO - 2015-09-22 00:12:23 --> Model Class Initialized
+INFO - 2015-09-22 00:12:23 --> Model Class Initialized
+INFO - 2015-09-22 00:12:23 --> User Agent Class Initialized
+INFO - 2015-09-22 00:12:23 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-09-22 00:12:23 --> File loaded: /opt/lampp/htdocs/team/application/views/news/view.php
+INFO - 2015-09-22 00:12:23 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-09-22 00:12:23 --> Final output sent to browser
+DEBUG - 2015-09-22 00:12:23 --> Total execution time: 0.0509
+INFO - 2015-09-22 00:12:29 --> Config Class Initialized
+INFO - 2015-09-22 00:12:29 --> Hooks Class Initialized
+DEBUG - 2015-09-22 00:12:29 --> UTF-8 Support Enabled
+INFO - 2015-09-22 00:12:29 --> Utf8 Class Initialized
+INFO - 2015-09-22 00:12:29 --> URI Class Initialized
+INFO - 2015-09-22 00:12:29 --> Router Class Initialized
+INFO - 2015-09-22 00:12:29 --> Output Class Initialized
+INFO - 2015-09-22 00:12:29 --> Security Class Initialized
+DEBUG - 2015-09-22 00:12:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-22 00:12:29 --> Input Class Initialized
+INFO - 2015-09-22 00:12:29 --> Language Class Initialized
+INFO - 2015-09-22 00:12:29 --> Loader Class Initialized
+INFO - 2015-09-22 00:12:29 --> Helper loaded: url_helper
+INFO - 2015-09-22 00:12:30 --> Helper loaded: thumb_helper
+INFO - 2015-09-22 00:12:30 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:30 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-09-22 00:12:30 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-09-22 00:12:30 --> Email Class Initialized
+INFO - 2015-09-22 00:12:30 --> Helper loaded: string_helper
+INFO - 2015-09-22 00:12:30 --> Helper loaded: email_helper
+INFO - 2015-09-22 00:12:30 --> Helper loaded: language_helper
+INFO - 2015-09-22 00:12:30 --> Helper loaded: recaptchalib_helper
+INFO - 2015-09-22 00:12:30 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-09-22 00:12:30 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-09-22 00:12:30 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-09-22 00:12:30 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:30 --> Helper loaded: form_helper
+INFO - 2015-09-22 00:12:30 --> Form Validation Class Initialized
+INFO - 2015-09-22 00:12:30 --> Parser Class Initialized
+INFO - 2015-09-22 00:12:30 --> Controller Class Initialized
+DEBUG - 2015-09-22 00:12:30 --> Aauth class already loaded. Second attempt ignored.
+INFO - 2015-09-22 00:12:30 --> User Agent Class Initialized
+INFO - 2015-09-22 00:12:30 --> Model Class Initialized
+INFO - 2015-09-22 00:12:30 --> Model Class Initialized
+INFO - 2015-09-22 00:12:30 --> Model Class Initialized
+INFO - 2015-09-22 00:12:30 --> Model Class Initialized
+INFO - 2015-09-22 00:12:30 --> Model Class Initialized
+INFO - 2015-09-22 00:12:30 --> File loaded: /opt/lampp/htdocs/team/application/views/cpanel/layout/header.php
+INFO - 2015-09-22 00:12:30 --> File loaded: /opt/lampp/htdocs/team/application/views/cpanel/layout/sidebar.php
+INFO - 2015-09-22 00:12:30 --> File loaded: /opt/lampp/htdocs/team/application/views/cpanel/dashboard.php
+INFO - 2015-09-22 00:12:30 --> File loaded: /opt/lampp/htdocs/team/application/views/cpanel/layout/footer.php
+INFO - 2015-09-22 00:12:30 --> Final output sent to browser
+DEBUG - 2015-09-22 00:12:30 --> Total execution time: 0.0494
+INFO - 2015-09-22 00:12:30 --> Config Class Initialized
+INFO - 2015-09-22 00:12:30 --> Hooks Class Initialized
+DEBUG - 2015-09-22 00:12:30 --> UTF-8 Support Enabled
+INFO - 2015-09-22 00:12:30 --> Utf8 Class Initialized
+INFO - 2015-09-22 00:12:30 --> URI Class Initialized
+INFO - 2015-09-22 00:12:30 --> Router Class Initialized
+INFO - 2015-09-22 00:12:30 --> Output Class Initialized
+INFO - 2015-09-22 00:12:30 --> Security Class Initialized
+DEBUG - 2015-09-22 00:12:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-22 00:12:30 --> Input Class Initialized
+INFO - 2015-09-22 00:12:30 --> Language Class Initialized
+INFO - 2015-09-22 00:12:30 --> Loader Class Initialized
+INFO - 2015-09-22 00:12:30 --> Helper loaded: url_helper
+INFO - 2015-09-22 00:12:30 --> Helper loaded: thumb_helper
+INFO - 2015-09-22 00:12:30 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:30 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-09-22 00:12:30 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-09-22 00:12:30 --> Email Class Initialized
+INFO - 2015-09-22 00:12:30 --> Helper loaded: string_helper
+INFO - 2015-09-22 00:12:30 --> Helper loaded: email_helper
+INFO - 2015-09-22 00:12:30 --> Helper loaded: language_helper
+INFO - 2015-09-22 00:12:30 --> Helper loaded: recaptchalib_helper
+INFO - 2015-09-22 00:12:30 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-09-22 00:12:30 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-09-22 00:12:30 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-09-22 00:12:30 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:30 --> Helper loaded: form_helper
+INFO - 2015-09-22 00:12:30 --> Form Validation Class Initialized
+INFO - 2015-09-22 00:12:30 --> Parser Class Initialized
+INFO - 2015-09-22 00:12:30 --> Controller Class Initialized
+INFO - 2015-09-22 00:12:30 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-09-22 00:12:30 --> File loaded: /opt/lampp/htdocs/team/application/views/errors/html/custom.php
+INFO - 2015-09-22 00:12:30 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-09-22 00:12:30 --> Final output sent to browser
+DEBUG - 2015-09-22 00:12:30 --> Total execution time: 0.0499
+INFO - 2015-09-22 00:12:53 --> Config Class Initialized
+INFO - 2015-09-22 00:12:53 --> Hooks Class Initialized
+DEBUG - 2015-09-22 00:12:53 --> UTF-8 Support Enabled
+INFO - 2015-09-22 00:12:53 --> Utf8 Class Initialized
+INFO - 2015-09-22 00:12:53 --> URI Class Initialized
+INFO - 2015-09-22 00:12:53 --> Router Class Initialized
+INFO - 2015-09-22 00:12:53 --> Output Class Initialized
+INFO - 2015-09-22 00:12:53 --> Security Class Initialized
+DEBUG - 2015-09-22 00:12:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-22 00:12:53 --> Input Class Initialized
+INFO - 2015-09-22 00:12:53 --> Language Class Initialized
+INFO - 2015-09-22 00:12:53 --> Loader Class Initialized
+INFO - 2015-09-22 00:12:53 --> Helper loaded: url_helper
+INFO - 2015-09-22 00:12:53 --> Helper loaded: thumb_helper
+INFO - 2015-09-22 00:12:53 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:53 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-09-22 00:12:53 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-09-22 00:12:53 --> Email Class Initialized
+INFO - 2015-09-22 00:12:53 --> Helper loaded: string_helper
+INFO - 2015-09-22 00:12:53 --> Helper loaded: email_helper
+INFO - 2015-09-22 00:12:53 --> Helper loaded: language_helper
+INFO - 2015-09-22 00:12:53 --> Helper loaded: recaptchalib_helper
+INFO - 2015-09-22 00:12:53 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-09-22 00:12:53 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-09-22 00:12:53 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-09-22 00:12:53 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:53 --> Helper loaded: form_helper
+INFO - 2015-09-22 00:12:53 --> Form Validation Class Initialized
+INFO - 2015-09-22 00:12:53 --> Parser Class Initialized
+INFO - 2015-09-22 00:12:53 --> Controller Class Initialized
+INFO - 2015-09-22 00:12:53 --> Upload Class Initialized
+INFO - 2015-09-22 00:12:53 --> Model Class Initialized
+INFO - 2015-09-22 00:12:53 --> Model Class Initialized
+INFO - 2015-09-22 00:12:53 --> Model Class Initialized
+INFO - 2015-09-22 00:12:53 --> Model Class Initialized
+INFO - 2015-09-22 00:12:53 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-09-22 00:12:53 --> Pagination Class Initialized
+INFO - 2015-09-22 00:12:53 --> File loaded: /opt/lampp/htdocs/team/application/views/cpanel/layout/header.php
+INFO - 2015-09-22 00:12:53 --> File loaded: /opt/lampp/htdocs/team/application/views/cpanel/camera/list.php
+INFO - 2015-09-22 00:12:53 --> File loaded: /opt/lampp/htdocs/team/application/views/cpanel/layout/footer.php
+INFO - 2015-09-22 00:12:53 --> Final output sent to browser
+DEBUG - 2015-09-22 00:12:53 --> Total execution time: 0.0513
+INFO - 2015-09-22 00:12:53 --> Config Class Initialized
+INFO - 2015-09-22 00:12:53 --> Hooks Class Initialized
+DEBUG - 2015-09-22 00:12:53 --> UTF-8 Support Enabled
+INFO - 2015-09-22 00:12:53 --> Utf8 Class Initialized
+INFO - 2015-09-22 00:12:53 --> URI Class Initialized
+INFO - 2015-09-22 00:12:53 --> Router Class Initialized
+INFO - 2015-09-22 00:12:53 --> Output Class Initialized
+INFO - 2015-09-22 00:12:53 --> Security Class Initialized
+DEBUG - 2015-09-22 00:12:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-22 00:12:53 --> Input Class Initialized
+INFO - 2015-09-22 00:12:53 --> Language Class Initialized
+INFO - 2015-09-22 00:12:53 --> Loader Class Initialized
+INFO - 2015-09-22 00:12:53 --> Helper loaded: url_helper
+INFO - 2015-09-22 00:12:53 --> Helper loaded: thumb_helper
+INFO - 2015-09-22 00:12:53 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:53 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-09-22 00:12:53 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-09-22 00:12:53 --> Email Class Initialized
+INFO - 2015-09-22 00:12:53 --> Helper loaded: string_helper
+INFO - 2015-09-22 00:12:53 --> Helper loaded: email_helper
+INFO - 2015-09-22 00:12:53 --> Helper loaded: language_helper
+INFO - 2015-09-22 00:12:53 --> Helper loaded: recaptchalib_helper
+INFO - 2015-09-22 00:12:53 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-09-22 00:12:53 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-09-22 00:12:53 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-09-22 00:12:53 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:12:53 --> Helper loaded: form_helper
+INFO - 2015-09-22 00:12:53 --> Form Validation Class Initialized
+INFO - 2015-09-22 00:12:53 --> Parser Class Initialized
+INFO - 2015-09-22 00:12:53 --> Controller Class Initialized
+INFO - 2015-09-22 00:12:53 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-09-22 00:12:53 --> File loaded: /opt/lampp/htdocs/team/application/views/errors/html/custom.php
+INFO - 2015-09-22 00:12:53 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-09-22 00:12:53 --> Final output sent to browser
+DEBUG - 2015-09-22 00:12:53 --> Total execution time: 0.0460
+INFO - 2015-09-22 00:14:21 --> Config Class Initialized
+INFO - 2015-09-22 00:14:21 --> Hooks Class Initialized
+DEBUG - 2015-09-22 00:14:21 --> UTF-8 Support Enabled
+INFO - 2015-09-22 00:14:21 --> Utf8 Class Initialized
+INFO - 2015-09-22 00:14:21 --> URI Class Initialized
+INFO - 2015-09-22 00:14:21 --> Router Class Initialized
+INFO - 2015-09-22 00:14:21 --> Output Class Initialized
+INFO - 2015-09-22 00:14:21 --> Security Class Initialized
+DEBUG - 2015-09-22 00:14:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-22 00:14:21 --> Input Class Initialized
+INFO - 2015-09-22 00:14:21 --> Language Class Initialized
+INFO - 2015-09-22 00:14:21 --> Loader Class Initialized
+INFO - 2015-09-22 00:14:21 --> Helper loaded: url_helper
+INFO - 2015-09-22 00:14:21 --> Helper loaded: thumb_helper
+INFO - 2015-09-22 00:14:21 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:14:21 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-09-22 00:14:21 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-09-22 00:14:21 --> Email Class Initialized
+INFO - 2015-09-22 00:14:21 --> Helper loaded: string_helper
+INFO - 2015-09-22 00:14:21 --> Helper loaded: email_helper
+INFO - 2015-09-22 00:14:21 --> Helper loaded: language_helper
+INFO - 2015-09-22 00:14:21 --> Helper loaded: recaptchalib_helper
+INFO - 2015-09-22 00:14:21 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-09-22 00:14:21 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-09-22 00:14:21 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-09-22 00:14:21 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:14:21 --> Helper loaded: form_helper
+INFO - 2015-09-22 00:14:21 --> Form Validation Class Initialized
+INFO - 2015-09-22 00:14:21 --> Parser Class Initialized
+INFO - 2015-09-22 00:14:21 --> Controller Class Initialized
+DEBUG - 2015-09-22 00:14:21 --> Aauth class already loaded. Second attempt ignored.
+INFO - 2015-09-22 00:14:21 --> User Agent Class Initialized
+INFO - 2015-09-22 00:14:21 --> Model Class Initialized
+INFO - 2015-09-22 00:14:21 --> Model Class Initialized
+INFO - 2015-09-22 00:14:21 --> Model Class Initialized
+INFO - 2015-09-22 00:14:21 --> Model Class Initialized
+INFO - 2015-09-22 00:14:21 --> Model Class Initialized
+INFO - 2015-09-22 00:14:21 --> Config Class Initialized
+INFO - 2015-09-22 00:14:21 --> Hooks Class Initialized
+DEBUG - 2015-09-22 00:14:21 --> UTF-8 Support Enabled
+INFO - 2015-09-22 00:14:21 --> Utf8 Class Initialized
+INFO - 2015-09-22 00:14:21 --> URI Class Initialized
+INFO - 2015-09-22 00:14:21 --> Router Class Initialized
+INFO - 2015-09-22 00:14:21 --> Output Class Initialized
+INFO - 2015-09-22 00:14:21 --> Security Class Initialized
+DEBUG - 2015-09-22 00:14:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-22 00:14:21 --> Input Class Initialized
+INFO - 2015-09-22 00:14:21 --> Language Class Initialized
+INFO - 2015-09-22 00:14:21 --> Loader Class Initialized
+INFO - 2015-09-22 00:14:21 --> Helper loaded: url_helper
+INFO - 2015-09-22 00:14:21 --> Helper loaded: thumb_helper
+INFO - 2015-09-22 00:14:21 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:14:21 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-09-22 00:14:21 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-09-22 00:14:21 --> Email Class Initialized
+INFO - 2015-09-22 00:14:21 --> Helper loaded: string_helper
+INFO - 2015-09-22 00:14:21 --> Helper loaded: email_helper
+INFO - 2015-09-22 00:14:21 --> Helper loaded: language_helper
+INFO - 2015-09-22 00:14:21 --> Helper loaded: recaptchalib_helper
+INFO - 2015-09-22 00:14:21 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-09-22 00:14:21 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-09-22 00:14:21 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-09-22 00:14:21 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:14:21 --> Helper loaded: form_helper
+INFO - 2015-09-22 00:14:21 --> Form Validation Class Initialized
+INFO - 2015-09-22 00:14:21 --> Parser Class Initialized
+INFO - 2015-09-22 00:14:21 --> Controller Class Initialized
+DEBUG - 2015-09-22 00:14:21 --> Aauth class already loaded. Second attempt ignored.
+INFO - 2015-09-22 00:14:21 --> User Agent Class Initialized
+INFO - 2015-09-22 00:14:21 --> Model Class Initialized
+INFO - 2015-09-22 00:14:21 --> Model Class Initialized
+INFO - 2015-09-22 00:14:21 --> Model Class Initialized
+INFO - 2015-09-22 00:14:21 --> Model Class Initialized
+INFO - 2015-09-22 00:14:21 --> Model Class Initialized
+INFO - 2015-09-22 00:14:21 --> File loaded: /opt/lampp/htdocs/team/application/views/cpanel/layout/header.php
+INFO - 2015-09-22 00:14:21 --> File loaded: /opt/lampp/htdocs/team/application/views/cpanel/layout/sidebar.php
+INFO - 2015-09-22 00:14:21 --> File loaded: /opt/lampp/htdocs/team/application/views/cpanel/dashboard.php
+INFO - 2015-09-22 00:14:21 --> File loaded: /opt/lampp/htdocs/team/application/views/cpanel/layout/footer.php
+INFO - 2015-09-22 00:14:21 --> Final output sent to browser
+DEBUG - 2015-09-22 00:14:21 --> Total execution time: 0.0489
+INFO - 2015-09-22 00:14:21 --> Config Class Initialized
+INFO - 2015-09-22 00:14:21 --> Hooks Class Initialized
+DEBUG - 2015-09-22 00:14:21 --> UTF-8 Support Enabled
+INFO - 2015-09-22 00:14:21 --> Utf8 Class Initialized
+INFO - 2015-09-22 00:14:21 --> URI Class Initialized
+INFO - 2015-09-22 00:14:21 --> Router Class Initialized
+INFO - 2015-09-22 00:14:21 --> Output Class Initialized
+INFO - 2015-09-22 00:14:21 --> Security Class Initialized
+DEBUG - 2015-09-22 00:14:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-22 00:14:21 --> Input Class Initialized
+INFO - 2015-09-22 00:14:21 --> Language Class Initialized
+INFO - 2015-09-22 00:14:21 --> Loader Class Initialized
+INFO - 2015-09-22 00:14:21 --> Helper loaded: url_helper
+INFO - 2015-09-22 00:14:21 --> Helper loaded: thumb_helper
+INFO - 2015-09-22 00:14:21 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:14:21 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-09-22 00:14:21 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-09-22 00:14:21 --> Email Class Initialized
+INFO - 2015-09-22 00:14:21 --> Helper loaded: string_helper
+INFO - 2015-09-22 00:14:21 --> Helper loaded: email_helper
+INFO - 2015-09-22 00:14:21 --> Helper loaded: language_helper
+INFO - 2015-09-22 00:14:21 --> Helper loaded: recaptchalib_helper
+INFO - 2015-09-22 00:14:21 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-09-22 00:14:21 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-09-22 00:14:21 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-09-22 00:14:21 --> Database Driver Class Initialized
+INFO - 2015-09-22 00:14:21 --> Helper loaded: form_helper
+INFO - 2015-09-22 00:14:21 --> Form Validation Class Initialized
+INFO - 2015-09-22 00:14:21 --> Parser Class Initialized
+INFO - 2015-09-22 00:14:21 --> Controller Class Initialized
+INFO - 2015-09-22 00:14:21 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-09-22 00:14:21 --> File loaded: /opt/lampp/htdocs/team/application/views/errors/html/custom.php
+INFO - 2015-09-22 00:14:21 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-09-22 00:14:21 --> Final output sent to browser
+DEBUG - 2015-09-22 00:14:21 --> Total execution time: 0.0430

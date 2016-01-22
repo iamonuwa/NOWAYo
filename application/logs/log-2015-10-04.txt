@@ -1,0 +1,45 @@
+INFO - 2015-10-04 22:57:16 --> Config Class Initialized
+INFO - 2015-10-04 22:57:16 --> Hooks Class Initialized
+DEBUG - 2015-10-04 22:57:16 --> UTF-8 Support Enabled
+INFO - 2015-10-04 22:57:16 --> Utf8 Class Initialized
+INFO - 2015-10-04 22:57:17 --> URI Class Initialized
+DEBUG - 2015-10-04 22:57:17 --> No URI present. Default controller set.
+INFO - 2015-10-04 22:57:17 --> Router Class Initialized
+INFO - 2015-10-04 22:57:17 --> Output Class Initialized
+INFO - 2015-10-04 22:57:17 --> Security Class Initialized
+DEBUG - 2015-10-04 22:57:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-10-04 22:57:17 --> Input Class Initialized
+INFO - 2015-10-04 22:57:17 --> Language Class Initialized
+INFO - 2015-10-04 22:57:17 --> Loader Class Initialized
+INFO - 2015-10-04 22:57:17 --> Helper loaded: url_helper
+INFO - 2015-10-04 22:57:17 --> Helper loaded: thumb_helper
+INFO - 2015-10-04 22:57:17 --> Database Driver Class Initialized
+INFO - 2015-10-04 22:57:17 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-10-04 22:57:17 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-10-04 22:57:17 --> Email Class Initialized
+INFO - 2015-10-04 22:57:17 --> Helper loaded: string_helper
+INFO - 2015-10-04 22:57:17 --> Helper loaded: email_helper
+INFO - 2015-10-04 22:57:17 --> Helper loaded: language_helper
+INFO - 2015-10-04 22:57:17 --> Helper loaded: recaptchalib_helper
+INFO - 2015-10-04 22:57:17 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-10-04 22:57:17 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-10-04 22:57:17 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-10-04 22:57:17 --> Database Driver Class Initialized
+INFO - 2015-10-04 22:57:17 --> Helper loaded: form_helper
+INFO - 2015-10-04 22:57:17 --> Form Validation Class Initialized
+INFO - 2015-10-04 22:57:17 --> Parser Class Initialized
+INFO - 2015-10-04 22:57:17 --> Controller Class Initialized
+INFO - 2015-10-04 22:57:17 --> Model Class Initialized
+INFO - 2015-10-04 22:57:17 --> Model Class Initialized
+INFO - 2015-10-04 22:57:17 --> Model Class Initialized
+INFO - 2015-10-04 22:57:17 --> Model Class Initialized
+INFO - 2015-10-04 22:57:17 --> Model Class Initialized
+DEBUG - 2015-10-04 22:57:17 --> Aauth class already loaded. Second attempt ignored.
+INFO - 2015-10-04 22:57:17 --> User Agent Class Initialized
+INFO - 2015-10-04 22:57:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-10-04 22:57:17 --> Pagination Class Initialized
+INFO - 2015-10-04 22:57:17 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/header.php
+INFO - 2015-10-04 22:57:17 --> File loaded: /opt/lampp/htdocs/team/application/views/index.php
+INFO - 2015-10-04 22:57:17 --> File loaded: /opt/lampp/htdocs/team/application/views/layout/footer.php
+INFO - 2015-10-04 22:57:17 --> Final output sent to browser
+DEBUG - 2015-10-04 22:57:17 --> Total execution time: 0.9626

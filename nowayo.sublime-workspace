@@ -1,0 +1,551 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"error",
+				"error_reporting"
+			],
+			[
+				"dat",
+				"database"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"uplo",
+				"upload"
+			],
+			[
+				"conn",
+				"connection"
+			],
+			[
+				"user",
+				"userutilities"
+			],
+			[
+				"con",
+				"connect"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"table",
+				"table_name"
+			],
+			[
+				"dele",
+				"deleted"
+			],
+			[
+				"publ",
+				"publishBusiness"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"business",
+				"business_status"
+			],
+			[
+				"busi",
+				"business_status"
+			],
+			[
+				"bus",
+				"business_category"
+			],
+			[
+				"selec",
+				"selected"
+			],
+			[
+				"trans",
+				"trans_complete"
+			],
+			[
+				"categ",
+				"category_dbs"
+			],
+			[
+				"set",
+				"set_flashdata"
+			],
+			[
+				"str",
+				"strpos"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"vie",
+				"view"
+			],
+			[
+				"list",
+				"listing"
+			],
+			[
+				"v",
+				"viewType"
+			],
+			[
+				"view",
+				"viewType"
+			],
+			[
+				"nowayo_",
+				"nowayo_business_listing"
+			],
+			[
+				"vew",
+				"viewType"
+			],
+			[
+				"new",
+				"newsImage"
+			],
+			[
+				"ca",
+				"category_list"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"succe",
+				"Successfully"
+			],
+			[
+				"sa",
+				"saveDa"
+			],
+			[
+				"html",
+				"html_escape"
+			],
+			[
+				"stor",
+				"store_biz"
+			],
+			[
+				"load",
+				"loadAll"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"us",
+				"userutitlities"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"pre",
+				"preview_ad"
+			],
+			[
+				"no",
+				"nowayo_table"
+			],
+			[
+				"get",
+				"get_ads"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"we",
+				"website"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"services",
+				"Services"
+			],
+			[
+				"se",
+				"services"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"ser",
+				"service"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"red",
+				"red"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"bo",
+				"border-right"
+			],
+			[
+				"asse",
+				"assets"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application/views/news/list.php",
+			"settings":
+			{
+				"buffer_size": 3926,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/news/all.php",
+			"settings":
+			{
+				"buffer_size": 3607,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/team",
+		"/C/xampp/htdocs/team/application",
+		"/C/xampp/htdocs/team/application/views",
+		"/C/xampp/htdocs/team/application/views/news"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/Website-NACOSS-UNN/Collections.php",
+		"/C/xampp/htdocs/team/application/views/business/biz_listing.php",
+		"/C/xampp/htdocs/team/application/views/cpanel/biz_category.php",
+		"/C/xampp/htdocs/team/application/controllers/Index.php",
+		"/C/xampp/htdocs/team/application/views/news/list.php",
+		"/C/xampp/htdocs/team/application/controllers/Business.php",
+		"/C/xampp/htdocs/team/application/config/routes.php",
+		"/C/xampp/htdocs/team/application/views/business/preview.php",
+		"/C/xampp/htdocs/team/application/models/UserUtitlities.php",
+		"/C/xampp/htdocs/team/application/views/business/views.php",
+		"/C/xampp/htdocs/team/application/views/layout/header.php",
+		"/C/xampp/htdocs/team/application/models/News_model.php",
+		"/C/xampp/htdocs/team/application/views/cpanel/business_list.php",
+		"/C/xampp/htdocs/team/application/views/news/all.php",
+		"/C/xampp/htdocs/team/application/controllers/News.php",
+		"/C/xampp/htdocs/team/application/models/State_model.php",
+		"/C/xampp/htdocs/team/application/views/news/view.php",
+		"/C/xampp/htdocs/team/application/views/camera/layout/header.php",
+		"/C/xampp/htdocs/team/application/views/camera/layout/footer.php",
+		"/C/xampp/htdocs/team/application/controllers/Isee.php",
+		"/C/xampp/htdocs/team/application/views/isee/presenters.php",
+		"/C/xampp/htdocs/team/application/views/isee/layout/header.php",
+		"/C/xampp/htdocs/team/application/views/news/test.php",
+		"/C/xampp/htdocs/team/application/views/layout/footer.php",
+		"/C/xampp/htdocs/team/application/controllers/cpanel/Index.php",
+		"/C/xampp/htdocs/team/application/views/index.php",
+		"/C/xampp/htdocs/team/application/views/sidebar.php",
+		"/C/xampp/htdocs/team/application/views/cpanel/list_biz.php",
+		"/C/xampp/htdocs/team/application/views/cpanel/uploadads.php",
+		"/C/xampp/htdocs/ecommerce/application/views/pages/home.php",
+		"/C/xampp/htdocs/polestar/index.php",
+		"/C/xampp/htdocs/ecommerce/application/views/templates/footer.php",
+		"/C/Users/BILL/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/BILL/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/xampp/htdocs/polestar/application/config/routes.php",
+		"/C/xampp/htdocs/polestar/application/config/autoload.php",
+		"/C/xampp/htdocs/team/application/views/camera/presenters.php",
+		"/C/xampp/htdocs/ecommerce/application/config/routes.php",
+		"/C/xampp/htdocs/ecommerce/application/controllers/News.php",
+		"/C/xampp/htdocs/ecommerce/application/controllers/index.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n ",
+			"form",
+			"validate",
+			"set",
+			"s",
+			"set",
+			"set_flash",
+			"delete",
+			"userutitlities",
+			"COUNT",
+			">\n",
+			"'];?></",
+			"pagination",
+			"var_dump",
+			"var",
+			"include",
+			"allow_url_include",
+			"wrapper",
+			"sidebar",
+			"index",
+			"list",
+			"slogan",
+			"Entries",
+			"Search",
+			"/>\n"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"$slogan",
+			"$$[$",
+			"value"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/views/news/list.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3926,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1004,
+								1174
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 556.0,
+						"translation.y": 71.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "application/views/news/all.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3607,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								585,
+								585
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "nowayo.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"application\\controllers\\cpanel\\Index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,79 @@
+INFO - 2015-08-17 16:22:41 --> Config Class Initialized
+INFO - 2015-08-17 16:22:41 --> Hooks Class Initialized
+DEBUG - 2015-08-17 16:22:41 --> UTF-8 Support Enabled
+INFO - 2015-08-17 16:22:41 --> Utf8 Class Initialized
+INFO - 2015-08-17 16:22:41 --> URI Class Initialized
+INFO - 2015-08-17 16:22:41 --> Router Class Initialized
+INFO - 2015-08-17 16:22:41 --> Output Class Initialized
+INFO - 2015-08-17 16:22:41 --> Security Class Initialized
+DEBUG - 2015-08-17 16:22:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-08-17 16:22:41 --> Input Class Initialized
+INFO - 2015-08-17 16:22:41 --> Language Class Initialized
+INFO - 2015-08-17 16:22:41 --> Loader Class Initialized
+INFO - 2015-08-17 16:22:41 --> Helper loaded: url_helper
+INFO - 2015-08-17 16:22:41 --> Helper loaded: thumb_helper
+INFO - 2015-08-17 16:22:41 --> Database Driver Class Initialized
+INFO - 2015-08-17 16:22:41 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-08-17 16:22:41 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-08-17 16:22:41 --> Email Class Initialized
+INFO - 2015-08-17 16:22:41 --> Helper loaded: string_helper
+INFO - 2015-08-17 16:22:41 --> Helper loaded: email_helper
+INFO - 2015-08-17 16:22:41 --> Helper loaded: language_helper
+INFO - 2015-08-17 16:22:41 --> Helper loaded: recaptchalib_helper
+INFO - 2015-08-17 16:22:41 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-08-17 16:22:41 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-08-17 16:22:41 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-08-17 16:22:41 --> Database Driver Class Initialized
+INFO - 2015-08-17 16:22:41 --> Helper loaded: form_helper
+INFO - 2015-08-17 16:22:41 --> Form Validation Class Initialized
+INFO - 2015-08-17 16:22:41 --> Parser Class Initialized
+INFO - 2015-08-17 16:22:41 --> Controller Class Initialized
+DEBUG - 2015-08-17 16:22:41 --> Aauth class already loaded. Second attempt ignored.
+INFO - 2015-08-17 16:22:41 --> User Agent Class Initialized
+INFO - 2015-08-17 16:22:42 --> Model Class Initialized
+INFO - 2015-08-17 16:22:42 --> Model Class Initialized
+INFO - 2015-08-17 16:22:42 --> Model Class Initialized
+INFO - 2015-08-17 16:22:42 --> Model Class Initialized
+INFO - 2015-08-17 16:22:42 --> Model Class Initialized
+INFO - 2015-08-17 16:22:42 --> Config Class Initialized
+INFO - 2015-08-17 16:22:42 --> Hooks Class Initialized
+DEBUG - 2015-08-17 16:22:42 --> UTF-8 Support Enabled
+INFO - 2015-08-17 16:22:42 --> Utf8 Class Initialized
+INFO - 2015-08-17 16:22:42 --> URI Class Initialized
+INFO - 2015-08-17 16:22:42 --> Router Class Initialized
+INFO - 2015-08-17 16:22:42 --> Output Class Initialized
+INFO - 2015-08-17 16:22:42 --> Security Class Initialized
+DEBUG - 2015-08-17 16:22:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-08-17 16:22:42 --> Input Class Initialized
+INFO - 2015-08-17 16:22:42 --> Language Class Initialized
+INFO - 2015-08-17 16:22:42 --> Loader Class Initialized
+INFO - 2015-08-17 16:22:42 --> Helper loaded: url_helper
+INFO - 2015-08-17 16:22:42 --> Helper loaded: thumb_helper
+INFO - 2015-08-17 16:22:42 --> Database Driver Class Initialized
+INFO - 2015-08-17 16:22:42 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-08-17 16:22:42 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-08-17 16:22:42 --> Email Class Initialized
+INFO - 2015-08-17 16:22:42 --> Helper loaded: string_helper
+INFO - 2015-08-17 16:22:42 --> Helper loaded: email_helper
+INFO - 2015-08-17 16:22:42 --> Helper loaded: language_helper
+INFO - 2015-08-17 16:22:42 --> Helper loaded: recaptchalib_helper
+INFO - 2015-08-17 16:22:42 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-08-17 16:22:42 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-08-17 16:22:42 --> Config file loaded: /opt/lampp/htdocs/team/application/config/aauth.php
+INFO - 2015-08-17 16:22:42 --> Database Driver Class Initialized
+INFO - 2015-08-17 16:22:42 --> Helper loaded: form_helper
+INFO - 2015-08-17 16:22:42 --> Form Validation Class Initialized
+INFO - 2015-08-17 16:22:42 --> Parser Class Initialized
+INFO - 2015-08-17 16:22:42 --> Controller Class Initialized
+DEBUG - 2015-08-17 16:22:42 --> Aauth class already loaded. Second attempt ignored.
+INFO - 2015-08-17 16:22:42 --> User Agent Class Initialized
+INFO - 2015-08-17 16:22:42 --> Model Class Initialized
+INFO - 2015-08-17 16:22:42 --> Model Class Initialized
+INFO - 2015-08-17 16:22:42 --> Model Class Initialized
+INFO - 2015-08-17 16:22:42 --> Model Class Initialized
+INFO - 2015-08-17 16:22:42 --> Model Class Initialized
+ERROR - 2015-08-17 16:22:42 --> Query error: Unknown column 'group_id' in 'where clause' - Invalid query: SELECT *
+FROM `aauth_user_to_group`
+WHERE `user_id` = '1'
+AND `group_id` =0
+INFO - 2015-08-17 16:22:42 --> Language file loaded: language/english/db_lang.php

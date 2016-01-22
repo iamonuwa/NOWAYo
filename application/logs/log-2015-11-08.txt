@@ -1,0 +1,57 @@
+INFO - 2015-11-08 12:44:01 --> Config Class Initialized
+INFO - 2015-11-08 12:44:01 --> Hooks Class Initialized
+DEBUG - 2015-11-08 12:44:03 --> UTF-8 Support Enabled
+INFO - 2015-11-08 12:44:03 --> Utf8 Class Initialized
+INFO - 2015-11-08 12:44:04 --> URI Class Initialized
+DEBUG - 2015-11-08 12:44:05 --> No URI present. Default controller set.
+INFO - 2015-11-08 12:44:05 --> Router Class Initialized
+INFO - 2015-11-08 12:44:06 --> Output Class Initialized
+INFO - 2015-11-08 12:44:08 --> Security Class Initialized
+DEBUG - 2015-11-08 12:44:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-11-08 12:44:09 --> Input Class Initialized
+INFO - 2015-11-08 12:44:09 --> Language Class Initialized
+INFO - 2015-11-08 12:44:10 --> Loader Class Initialized
+INFO - 2015-11-08 12:44:11 --> Helper loaded: url_helper
+INFO - 2015-11-08 12:44:12 --> Helper loaded: thumb_helper
+INFO - 2015-11-08 12:44:14 --> Database Driver Class Initialized
+ERROR - 2015-11-08 12:44:26 --> Severity: Error --> Maximum execution time of 30 seconds exceeded C:\xampp\htdocs\team\system\database\drivers\mysqli\mysqli_driver.php 162
+INFO - 2015-11-08 12:48:35 --> Config Class Initialized
+INFO - 2015-11-08 12:48:36 --> Hooks Class Initialized
+DEBUG - 2015-11-08 12:48:37 --> UTF-8 Support Enabled
+INFO - 2015-11-08 12:48:39 --> Utf8 Class Initialized
+INFO - 2015-11-08 12:48:40 --> URI Class Initialized
+DEBUG - 2015-11-08 12:48:40 --> No URI present. Default controller set.
+INFO - 2015-11-08 12:48:41 --> Router Class Initialized
+INFO - 2015-11-08 12:48:41 --> Output Class Initialized
+INFO - 2015-11-08 12:48:41 --> Security Class Initialized
+DEBUG - 2015-11-08 12:48:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-11-08 12:48:42 --> Input Class Initialized
+INFO - 2015-11-08 12:48:42 --> Language Class Initialized
+INFO - 2015-11-08 12:48:42 --> Loader Class Initialized
+INFO - 2015-11-08 12:48:42 --> Helper loaded: url_helper
+INFO - 2015-11-08 12:48:43 --> Helper loaded: thumb_helper
+INFO - 2015-11-08 12:48:44 --> Database Driver Class Initialized
+INFO - 2015-11-08 12:48:48 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-11-08 12:48:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-11-08 12:48:52 --> Email Class Initialized
+INFO - 2015-11-08 12:48:53 --> Helper loaded: string_helper
+INFO - 2015-11-08 12:48:54 --> Helper loaded: email_helper
+INFO - 2015-11-08 12:48:54 --> Helper loaded: language_helper
+INFO - 2015-11-08 12:48:55 --> Helper loaded: recaptchalib_helper
+INFO - 2015-11-08 12:48:55 --> Helper loaded: googleauthenticator_helper
+INFO - 2015-11-08 12:48:56 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2015-11-08 12:48:56 --> Config file loaded: C:\xampp\htdocs\team\application\config/aauth.php
+INFO - 2015-11-08 12:48:56 --> Database Driver Class Initialized
+INFO - 2015-11-08 12:48:57 --> Helper loaded: form_helper
+INFO - 2015-11-08 12:48:58 --> Form Validation Class Initialized
+INFO - 2015-11-08 12:48:58 --> Parser Class Initialized
+INFO - 2015-11-08 12:48:58 --> Controller Class Initialized
+INFO - 2015-11-08 12:48:58 --> Model Class Initialized
+INFO - 2015-11-08 12:48:58 --> Model Class Initialized
+INFO - 2015-11-08 12:48:59 --> Model Class Initialized
+INFO - 2015-11-08 12:49:00 --> Model Class Initialized
+INFO - 2015-11-08 12:49:00 --> Model Class Initialized
+INFO - 2015-11-08 12:49:00 --> Model Class Initialized
+DEBUG - 2015-11-08 12:49:00 --> Aauth class already loaded. Second attempt ignored.
+INFO - 2015-11-08 12:49:02 --> User Agent Class Initialized
+ERROR - 2015-11-08 12:49:15 --> Severity: Error --> Maximum execution time of 30 seconds exceeded C:\xampp\htdocs\team\system\database\drivers\mysqli\mysqli_driver.php 264
